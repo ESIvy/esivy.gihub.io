@@ -1,5 +1,5 @@
 ---
-title: Winter craft ideas for kids: Styrofoam and Pipe Cleaner Animals Winter Wonderland
+title: "Winter craft ideas for kids: Styrofoam and Pipe Cleaner Animals Winter Wonderland"
 date: '2014-01-23T10:30:01-06:00'
 status: publish
 path: /winter-craft-ideas-for-kids-styrofoam-pipe-cleaner-animals-winter-wonderland
@@ -15,18 +15,18 @@ category:
 tag: []
 post_format: []
 ---
-[![winter craft ideas for kids pipe cleaner animals](../uploads/2014/01/Winter-wonderland-craftA-400-x-316.jpg "winter craft ideas for kids winter wonderland")](http://192.168.1.34:4945/wp-content/uploads/2014/01/Winter-wonderland-craftA-400-x-316.jpg)
+[![winter craft ideas for kids pipe cleaner animals](/uploads/2014/01/Winter-wonderland-craftA-400-x-316.jpg "winter craft ideas for kids winter wonderland")](http://192.168.1.34:4945/wp-conte/uploads/2014/01/Winter-wonderland-craftA-400-x-316.jpg)
 
 <span style="line-height: 1.714285714; font-size: 1rem;">If your kids were as enamored by the Disney movie Frozen as my girls have been, you may be looking for fun winter craft ideas for kids to make. Here in central Texas, we often have to make our own snow. You can make a whole snow scene out of Styrofoam that won’t melt!</span>
 
-[![winter craft for kids to make pipe cleaner animals winter scene](../uploads/2014/01/Wonderland-from-Spoonful-via-Pintrest-420-x-420.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/01/Wonderland-from-Spoonful-via-Pintrest-420-x-420.jpg)This craft appeared in the February 2008 issue of FamilyFun magazine. It used to be featured on the [spoonful.com website.](http://spoonful.com/winter/snowman-crafts "snowman crafts") You can read my original directions for some of the figures below.
+[![winter craft for kids to make pipe cleaner animals winter scene](/uploads/2014/01/Wonderland-from-Spoonful-via-Pintrest-420-x-420.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/01/Wonderland-from-Spoonful-via-Pintrest-420-x-420.jpg)This craft appeared in the February 2008 issue of FamilyFun magazine. It used to be featured on the [spoonful.com website.](http://spoonful.com/winter/snowman-crafts "snowman crafts") You can read my original directions for some of the figures below.
 
 Tip: The magic trick for these figures is to compress the Styrofoam into the shape you want by gently pressing and rolling. Even the snowman looks better when the balls aren’t perfectly round!
 
 Winter craft ideas for kids to make: directions for Styrofoam and Pipe cleaner animals Winter Wonderland
 ========================================================================================================
 
-[![Winter craft ideas for kids: styrofoam christmas tree](../uploads/2014/01/Winter-wonderland-craft-tree-262x400.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/01/Winter-wonderland-craft-tree-262x400.jpg)Tree for Winter Wonderland Craft
+[![Winter craft ideas for kids: styrofoam christmas tree](/uploads/2014/01/Winter-wonderland-craft-tree-262x400.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/01/Winter-wonderland-craft-tree-262x400.jpg)Tree for Winter Wonderland Craft
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You will need:  
@@ -38,7 +38,7 @@ straight pins
 1\. Cut a three inch wide strip of tissue paper and fold it in half length-wise. Cut fringe in the bottom inch of the folded edge. Using straight pins, attach the unfringed edge of the tissue paper to the cone in a spiral, starting at the bottom. Overlap each row so that the bottom edge covers each unfringed portion below it.  
 2\. Top off the tree by attaching the Styrofoam ball by pushing a straight pin halfway into the center of the cone and then pushing the ball down on the head of the pin.
 
-[![winter craft ideas for kids to make: styrofoam and pipe cleaner animals, reindeer](../uploads/2014/01/Winter-wonderland-reindeer-219x287.jpg "winter craft ideas for kids to make: styrofoam and pipe cleaner animals, reindeer")](http://192.168.1.34:4945/wp-content/uploads/2014/01/Winter-wonderland-reindeer-219x287.jpg)Reindeer for Winter Wonderland Craft
+[![winter craft ideas for kids to make: styrofoam and pipe cleaner animals, reindeer](/uploads/2014/01/Winter-wonderland-reindeer-219x287.jpg "winter craft ideas for kids to make: styrofoam and pipe cleaner animals, reindeer")](http://192.168.1.34:4945/wp-conte/uploads/2014/01/Winter-wonderland-reindeer-219x287.jpg)Reindeer for Winter Wonderland Craft
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You will need:  
@@ -54,7 +54,7 @@ Optional: 2 black ball pins and 1 red ball pin
 
 Optional: Use the ball pins to give the deer eyes and a red nose.
 
-![winter craft ideas for kids to make: styrofoam and pipe cleaner animals, squirrel](../uploads/2014/01/Winter-wonderland-squirrel-143x155.jpg)Squirrel for Winter Wonderland Craft
+![winter craft ideas for kids to make: styrofoam and pipe cleaner animals, squirrel](/uploads/2014/01/Winter-wonderland-squirrel-143x155.jpg)Squirrel for Winter Wonderland Craft
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You will need:  
@@ -68,7 +68,7 @@ Optional: 2 blue or black ball pins
 3\. Balance the body by using two one-inch-long pieces of chenille stem to make the front legs. Bend up the tips of the legs to make feet. Trim as needed.  
 Optional: Use two ball pins to make eyes. Be careful to angle the pins so that the ends go down into the body and not out the back of the head.
 
-![winter craft ideas for kids to make: styrofoam snowman](../uploads/2014/01/Winter-wonderland-tree-snowman-205x414.jpg) Snowman for Winter Wonderland Craft
+![winter craft ideas for kids to make: styrofoam snowman](/uploads/2014/01/Winter-wonderland-tree-snowman-205x414.jpg) Snowman for Winter Wonderland Craft
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You will need:  

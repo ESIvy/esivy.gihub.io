@@ -1,5 +1,5 @@
 ---
-title: Do PSAT scores and National Merit numbers mean anything?
+title: "Do PSAT scores and National Merit numbers mean anything?"
 date: '2014-12-03T06:00:38-06:00'
 status: publish
 path: /do-psat-scores-and-national-merit-numbers-mean-anything
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2756
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - 'Education &amp; Success'
 tag: []
@@ -33,9 +33,9 @@ Fourteen years later, our daughter qualified on the state level for Duke TIP rec
 
 The problem came when I compared the number of National Merit Scholars at our two schools. Even though our district has been growing at a tremendous rate, our school district still only had 1-2 scholars a year. (We only have one high school.) The private school had about a dozen, a similar number to the number of Duke TIP scholars that year. I found this troubling. What was happening at our school between 7th and 11th grade?
 
-One of my concerns was that the [massive homework loads and summer projects](http://192.168.1.34:4945/?p=2013) at our school don’t leave my kids much time for leisure reading, even though my kids love to read. But the private school also has this difficulty.
+One of my concerns was that the [massive homework loads and summer projects](http://192.168.1.34:4945/draft2013) at our school don’t leave my kids much time for leisure reading, even though my kids love to read. But the private school also has this difficulty.
 
-Then because our oldest kid had promising scores on the PSAT test he took his sophomore year, we looked into some private tutoring. In spite of a couple of private tutoring sessions and a lot of practice tests, he reached a frustrating plateau. So we looked into some other [PSAT/SAT prep materials.](http://192.168.1.34:4945/?p=2556) And then I ended up working with some of the materials with him the last weekend.
+Then because our oldest kid had promising scores on the PSAT test he took his sophomore year, we looked into some private tutoring. In spite of a couple of private tutoring sessions and a lot of practice tests, he reached a frustrating plateau. So we looked into some other [PSAT/SAT prep materials.](http://192.168.1.34:4945/draft2556) And then I ended up working with some of the materials with him the last weekend.
 
 Even before I really dug into it, I was aware that the qualifying scores had gone up for Texas. But I didn’t understand exactly what that meant. (I think there were two seniors at our school who missed the new, higher cut-off by only one point.) I thought it just meant that it was hard to even get to that score.
 

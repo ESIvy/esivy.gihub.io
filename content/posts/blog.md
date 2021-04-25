@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: "Blog"
 date: '2012-10-09T19:09:00-05:00'
 status: publish
 path: /blog

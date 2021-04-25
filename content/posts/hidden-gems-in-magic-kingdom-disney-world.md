@@ -1,5 +1,5 @@
 ---
-title: Hidden Gems in Magic Kingdom Disney World
+title: "Hidden Gems in Magic Kingdom Disney World"
 date: '2014-07-23T10:00:09-05:00'
 status: publish
 path: /hidden-gems-in-magic-kingdom-disney-world
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2339
-thumbnail: ../uploads/2014/07/Disney-Tips-shift-250x239.jpg
+thumbnail: /uploads/2014/07/Disney-Tips-shift-250x239.jpg
 category:
     - Disney
     - 'Disney travel'

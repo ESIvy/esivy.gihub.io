@@ -1,5 +1,5 @@
 ---
-title: An Impressive 3D Fruit Display, a Grape and Cherry Christmas Tree
+title: "An Impressive 3D Fruit Display, a Grape and Cherry Christmas Tree"
 date: '2012-12-23T15:40:33-06:00'
 status: publish
 path: /an-empressive-3d-fruit-display-a-grape-and-cherry-christmas-tree
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 463
-thumbnail: ../uploads/2012/12/grape-tree-113-x-150.jpg
+thumbnail: /uploads/2012/12/grape-tree-113-x-150.jpg
 category:
     - Crafts
     - 'Seasonal &amp; Holidays'
@@ -22,18 +22,18 @@ tagazine-media:
 simplecatch-sidebarlayout:
     - ''
 ---
-[![Here's a fun idea for a way to take a fruit platter to the classroom Christmas party -  A standing grape and cherry Christmas tree! It's also a great centerpiece for any Christmas party.](../uploads/2012/12/grapetree499x899.jpg)](http://192.168.1.34:4945/wp-content/uploads/2012/12/grapetree499x899.jpg)
+[![Here's a fun idea for a way to take a fruit platter to the classroom Christmas party -  A standing grape and cherry Christmas tree! It's also a great centerpiece for any Christmas party.](/uploads/2012/12/grapetree499x899.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2012/12/grapetree499x899.jpg)
 
 I made this for Dizzy’s 5th grade class party and it was a big hit! It’s impressive and not very hard, it just takes a while. Things are a bit busy here and I don’t have time to post full directions. But, I’ll upload the photos off all the steps. Full directions soon! If you need more help, contact me at esivy@phytapublishing.com and I’ll try to answer. Family party here tonight and my daughters are going to be busy making another one of these!
 
-<div class="wp-caption aligncenter" id="attachment_470" style="width: 310px">![IMG_20121220_185839](../uploads/2012/12/img_20121220_185839-e1356276207146.jpg)Supplies: foil wrapped 16 inch foam cone, 5 lbs large green grapes, mango, maraschino cherries, flat toothpicks
+<div class="wp-caption aligncenter" id="attachment_470" style="width: 310px">![IMG_20121220_185839](/uploads/2012/12/img_20121220_185839-e1356276207146.jpg)Supplies: foil wrapped 16 inch foam cone, 5 lbs large green grapes, mango, maraschino cherries, flat toothpicks
 
-</div>![IMG_20121220_190038](../uploads/2012/12/img_20121220_190038-e1356276284390.jpg) ![IMG_20121220_190058](../uploads/2012/12/img_20121220_190058-e1356276338407.jpg) ![IMG_20121220_190105](../uploads/2012/12/img_20121220_190105-e1356276555767.jpg) ![IMG_20121220_193457](../uploads/2012/12/img_20121220_193457-e1356276569143.jpg)
+</div>![IMG_20121220_190038](/uploads/2012/12/img_20121220_190038-e1356276284390.jpg) ![IMG_20121220_190058](/uploads/2012/12/img_20121220_190058-e1356276338407.jpg) ![IMG_20121220_190105](/uploads/2012/12/img_20121220_190105-e1356276555767.jpg) ![IMG_20121220_193457](/uploads/2012/12/img_20121220_193457-e1356276569143.jpg)
 
-<div class="wp-caption aligncenter" id="attachment_478" style="width: 310px">![Press in the tips of the toothpicks with a spoon handle. If they won't go in, clip them with kitchen scissors.](../uploads/2012/12/img_20121220_193522-e1356276672706.jpg)Press in the tips of the toothpicks with a spoon handle. If they won’t go in, clip them with kitchen scissors.
+<div class="wp-caption aligncenter" id="attachment_478" style="width: 310px">![Press in the tips of the toothpicks with a spoon handle. If they won't go in, clip them with kitchen scissors.](/uploads/2012/12/img_20121220_193522-e1356276672706.jpg)Press in the tips of the toothpicks with a spoon handle. If they won’t go in, clip them with kitchen scissors.
 
-</div>![IMG_20121220_205813](../uploads/2012/12/img_20121220_205813-e1356276700755.jpg)
+</div>![IMG_20121220_205813](/uploads/2012/12/img_20121220_205813-e1356276700755.jpg)
 
-![IMG_20121220_154922](../uploads/2012/12/img_20121220_154922.jpg)
+![IMG_20121220_154922](/uploads/2012/12/img_20121220_154922.jpg)
 
-![IMG_20121220_205826](../uploads/2012/12/img_20121220_205826-e1356276258562.jpg)
+![IMG_20121220_205826](/uploads/2012/12/img_20121220_205826-e1356276258562.jpg)

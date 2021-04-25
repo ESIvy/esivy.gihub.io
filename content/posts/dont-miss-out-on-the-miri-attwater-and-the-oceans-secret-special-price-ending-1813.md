@@ -1,5 +1,5 @@
 ---
-title: Don't Miss Out on the Miri Attwater and the Ocean's Secret Special Price Ending 1/8/13!
+title: "Don't Miss Out on the Miri Attwater and the Ocean's Secret Special Price Ending 1/8/13!"
 date: '2012-12-28T14:00:17-06:00'
 status: publish
 path: /dont-miss-out-on-the-miri-attwater-and-the-oceans-secret-special-price-ending-1813

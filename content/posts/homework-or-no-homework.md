@@ -1,5 +1,5 @@
 ---
-title: To give, or not to give homework? That is the question
+title: "To give, or not to give homework? That is the question"
 date: '2015-03-24T10:13:54-05:00'
 status: publish
 path: /homework-or-no-homework
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 3070
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
@@ -44,6 +44,6 @@ What are your thoughts on homework? What purpose do you think homework serves? D
 
 For more on my thoughts about homework, see more of my articles on success, among them:
 
-[Do PSAT scores and National Merit numbers mean anything?](http://192.168.1.34:4945/?p=2756)
+[Do PSAT scores and National Merit numbers mean anything?](http://192.168.1.34:4945/draft2756)
 
-[Back to School – High School anxiety](http://192.168.1.34:4945/?p=2345)
+[Back to School – High School anxiety](http://192.168.1.34:4945/draft2345)

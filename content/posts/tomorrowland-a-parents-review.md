@@ -1,5 +1,5 @@
 ---
-title: Don't miss Tomorrowland! A parent's review
+title: "Don't miss Tomorrowland! A parent's review"
 date: '2015-05-26T16:05:25-05:00'
 status: publish
 path: /tomorrowland-a-parents-review
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 3186
-thumbnail: ../uploads/2015/05/Tomorrowland-poster.jpg
+thumbnail: /uploads/2015/05/Tomorrowland-poster.jpg
 category:
     - Disney
 tag: []
@@ -25,7 +25,7 @@ Han Solo and Chewbacca flash past in the last scene of the trailer. While wookie
 
 And then Tomorrowland started up and the first person you see is —
 
-![Tomorrowland Clooney](../uploads/2015/05/Tomorrowland-Clooney.jpg)
+![Tomorrowland Clooney](/uploads/2015/05/Tomorrowland-Clooney.jpg)
 
 “Wow, George Clooney’s getting old.”
 
@@ -33,7 +33,7 @@ Hmm… I must be getting old. Nah. Besides, if I am, these two make it look pret
 
 Oh, yes, Tomorrowland! That’s what we were talking about, right? What did our family think of [Tomorrowland](http://www.Disney.com/Tomorrowland)?
 
-![tomorrowland futuristic city](../uploads/2015/05/Tomorrowland-city.jpg)
+![tomorrowland futuristic city](/uploads/2015/05/Tomorrowland-city.jpg)
 
 We thought it was a really great time!
 
@@ -83,7 +83,7 @@ Here’s the message of the movie, that I think bears repeating.
 
 And if you’ve got a little dreamer you’d like to inspire, check out these directions for Disney Jet Pack Balloon Races! Because a big part of [setting your kids up for success](http://192.168.1.34:4945/success-factors-whats-the-best-way-to-guide-your-child-through-high-school-to-be-a-success-in-college-and-in-life/) is inspiring them.
 
-[![Tomorrowland activity jet pack balloon races](../uploads/2015/05/tomorrowland-balloon-race.jpg)](http://192.168.1.34:4945/wp-content/uploads/2015/05/tomorrowland_pdf_555d2b6615a90.pdf)
+[![Tomorrowland activity jet pack balloon races](/uploads/2015/05/tomorrowland-balloon-race.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2015/05/tomorrowland_pdf_555d2b6615a90.pdf)
 
 Note: At the two movie theaters our family goes to, Disney had the only non-rated R movies showing. (Tomorrowland PG and Avengers: Age of Ultron PG13.) Thank you Disney! If you like having family friendly options at the movie theaters, get out there and support the PG-rated movies!
 

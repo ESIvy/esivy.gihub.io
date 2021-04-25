@@ -1,5 +1,5 @@
 ---
-title: Octopus camouflage, science behind the magical mermaids of Miri Attwater
+title: "Octopus camouflage, science behind the magical mermaids of Miri Attwater"
 date: '2014-01-22T09:00:42-06:00'
 status: publish
 path: /octopus-camouflage
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1352
-thumbnail: ../uploads/2013/05/d7394-octopus_vulgaris_wikimediacommonsbymatthieusontag.jpg
+thumbnail: /uploads/2013/05/d7394-octopus_vulgaris_wikimediacommonsbymatthieusontag.jpg
 category:
     - 'Behind the Books'
     - 'Kids'' Books'
@@ -17,7 +17,7 @@ category:
 tag: []
 post_format: []
 ---
-![best books for girls : All That Glitters cover 188 x 250](../uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)In celebration of the release of Book 2, [Miri Attwater and All that Glitters](http://www.amazon.com/Attwater-Glitters-Mermaid-Princess-Adventures-ebook/dp/B00HKK1GYC/ "All that glitters amazon"), I thought it would be fitting to go a little into the science behind the magic of the Miri Attwater series.
+![best books for girls : All That Glitters cover 188 x 250](/uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)In celebration of the release of Book 2, [Miri Attwater and All that Glitters](http://www.amazon.com/Attwater-Glitters-Mermaid-Princess-Adventures-ebook/dp/B00HKK1GYC/ "All that glitters amazon"), I thought it would be fitting to go a little into the science behind the magic of the Miri Attwater series.
 
 When I first started the Miri books, my intention was to write pure fantasy, with magic and everything. Magic makes things easy. Yeah, I know you have to come up with rules but – need something? Make up a rule and bam, you have something. It’s magic!
 

@@ -1,5 +1,5 @@
 ---
-title: Help your little one make their own stitching card Valentines
+title: "Help your little one make their own stitching card Valentines"
 date: '2013-02-08T11:44:53-06:00'
 status: publish
 path: /help-your-little-one-make-their-own-stitching-card-valentines
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 619
-thumbnail: ../uploads/2013/02/stitch-valentine-150-x-150.jpg
+thumbnail: /uploads/2013/02/stitch-valentine-150-x-150.jpg
 category:
     - Crafts
     - 'Seasonal &amp; Holidays'
@@ -22,7 +22,7 @@ publicize_twitter_user:
 simplecatch-sidebarlayout:
     - ''
 ---
-[![stictch valentines](../uploads/2013/02/stictch-valentines.jpg?w=300)](http://192.168.1.34:4945/wp-content/uploads/2013/02/stictch-valentines.jpg)Even little kids have fun making their own Valentines! But I was never one to want to put paint all over their hands for making handprint hearts and the like. Too messy! This idea is no muss no fuss.
+[![stictch valentines](/uploads/2013/02/stictch-valentines.jpg?w=300)](http://192.168.1.34:4945/wp-conte/uploads/2013/02/stictch-valentines.jpg)Even little kids have fun making their own Valentines! But I was never one to want to put paint all over their hands for making handprint hearts and the like. Too messy! This idea is no muss no fuss.
 
 Stitching Card Valentines
 =========================
@@ -49,6 +49,6 @@ Instructions for Stitching Card Valentines
 
 That’s it! You can have your little one do the yarn stitching for you. Or, you can have them help with the hole punching and give the Valentine’s in a baggy with the string so that everyone can stitch their own. A card and a gift craft in one!
 
-[![Valentine 8 ball answer](../uploads/2013/02/valentine-8-ball-answer2.jpg?w=115)](http://192.168.1.34:4945/crafts/valentine-fortune-teller/)This is the second in what I think will be come a series of Valentine posts. You can see the first one, the [Make Your Own Valentine Fortune Teller](http://192.168.1.34:4945/crafts/valentine-fortune-teller/ "Make Your Own Valentine Fortune Teller") in the last blog post. Or in the right sidebar, under Blog Topics, click on Holidays.
+[![Valentine 8 ball answer](/uploads/2013/02/valentine-8-ball-answer2.jpg?w=115)](http://192.168.1.34:4945/crafts/valentine-fortune-teller/)This is the second in what I think will be come a series of Valentine posts. You can see the first one, the [Make Your Own Valentine Fortune Teller](http://192.168.1.34:4945/crafts/valentine-fortune-teller/ "Make Your Own Valentine Fortune Teller") in the last blog post. Or in the right sidebar, under Blog Topics, click on Holidays.
 
 Happy Valentine’s Day!

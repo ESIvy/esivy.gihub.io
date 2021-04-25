@@ -1,5 +1,5 @@
 ---
-title: Cleaner Fish – More Information than You Thought You Wanted to Know
+title: "Cleaner Fish – More Information than You Thought You Wanted to Know"
 date: '2014-02-19T09:00:57-06:00'
 status: publish
 path: /cleaner-fish-wrasse-yellow-tangs
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1827
-thumbnail: ../uploads/2014/02/Fish-cleaning_station_konan-By-Brocken-Inaglory-via-Wikimedia-commons-150x150.jpg
+thumbnail: /uploads/2014/02/Fish-cleaning_station_konan-By-Brocken-Inaglory-via-Wikimedia-commons-150x150.jpg
 category:
     - 'All That Glitters'
     - 'Behind the Books'
@@ -17,13 +17,13 @@ category:
 tag: []
 post_format: []
 ---
-As I mention in[ last weeks post about fish cleaning stations,](http://192.168.1.34:4945/?p=1825) I didn’t intend to do any research for the Miri Attwater series. So when I did start doing some research, I wasn’t doing it like I would if I had been writing a non-fiction book about marine biology. I wasn’t taking a lot of detailed notes with page numbers and cross-referencing. I wasn’t double checking to see if information I got in one source could be confirmed by other sources. I wasn’t looking at a lot of original sources – meaning I wasn’t reading scientific research articles in marine biology journals. Because I know from my text book writing and editing work that there is lots of misinformation in science books and text books, and it gets copied when writers don’t go back to original sources. Writing a really well researched science book takes time – a lot of it. And it helps if you’re an expert in the field.
+As I mention in[ last weeks post about fish cleaning stations,](http://192.168.1.34:4945/draft1825) I didn’t intend to do any research for the Miri Attwater series. So when I did start doing some research, I wasn’t doing it like I would if I had been writing a non-fiction book about marine biology. I wasn’t taking a lot of detailed notes with page numbers and cross-referencing. I wasn’t double checking to see if information I got in one source could be confirmed by other sources. I wasn’t looking at a lot of original sources – meaning I wasn’t reading scientific research articles in marine biology journals. Because I know from my text book writing and editing work that there is lots of misinformation in science books and text books, and it gets copied when writers don’t go back to original sources. Writing a really well researched science book takes time – a lot of it. And it helps if you’re an expert in the field.
 
 Really, my first goal for my research was to look at pretty pictures so I could make the underwater scenes in the book more real to the reader.
 
 I probably shouldn’t have been surprised that the more I saw, the more amazed I became by the diversity of marine life. But I still wanted to write a fantasy, not a nonfiction informational book. So I didn’t keep detailed lists and notes of all the information I came across. I felt like if I did that kind of in-depth research and note taking, then I would start to develop a list of things that I wanted to include in the book. Then all the information would be in danger of taking over from the story. I wanted the story to be most important.
 
-<div class="wp-caption alignleft" id="attachment_1887" style="width: 522px">[![cleaner fish and potato cod](../uploads/2014/02/Potato-cod-cleaned-by-wrasse-512x384.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/02/Potato-cod-cleaned-by-wrasse-512x384.jpg)A potato cod is cleaned by two striped cleaner wrasse, By Richard Ling, via Wikimedia Commons
+<div class="wp-caption alignleft" id="attachment_1887" style="width: 522px">[![cleaner fish and potato cod](/uploads/2014/02/Potato-cod-cleaned-by-wrasse-512x384.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/02/Potato-cod-cleaned-by-wrasse-512x384.jpg)A potato cod is cleaned by two striped cleaner wrasse, By Richard Ling, via Wikimedia Commons
 
 </div>There were some subjects that I ended up reading in depth on both in books and on the web. Others things I thought were interesting, but I didn’t know immediately when I saw them that I would use them in the story. They just became some of my general background knowledge that I had about life in the ocean. The fish cleaning stations in the scene in [Miri Attwater and all That Glitters](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20 "Buy it on Amazon") were one of those. I don’t know quite when it occurred to me that it would make a fun scene.
 

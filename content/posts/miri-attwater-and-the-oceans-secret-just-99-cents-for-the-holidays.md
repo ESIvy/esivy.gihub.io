@@ -1,5 +1,5 @@
 ---
-title: Miri Attwater and the Ocean's Secret just 99 cents for the holidays!
+title: "Miri Attwater and the Ocean's Secret just 99 cents for the holidays!"
 date: '2012-12-15T16:27:42-06:00'
 status: publish
 path: /miri-attwater-and-the-oceans-secret-just-99-cents-for-the-holidays

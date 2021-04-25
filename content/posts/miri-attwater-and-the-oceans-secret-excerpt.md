@@ -1,5 +1,5 @@
 ---
-title: Miri Attwater and the Ocean's Secret – Excerpt
+title: "Miri Attwater and the Ocean's Secret – Excerpt"
 date: '2012-10-01T02:05:37-05:00'
 status: publish
 path: /miri-attwater-and-the-oceans-secret-excerpt
@@ -14,7 +14,7 @@ sharing_disabled:
 simplecatch-sidebarlayout:
     - ''
 ---
-**[![ocean's secret cover 190 x 250](../uploads/2012/09/oceans-secret-cover-190-x-250.jpg)](http://www.amazon.com/gp/product/B0087451I2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0087451I2&linkCode=as2&tag=esiv-20)CHAPTER 1:** **The Middle of the Ocean**
+**[![ocean's secret cover 190 x 250](/uploads/2012/09/oceans-secret-cover-190-x-250.jpg)](http://www.amazon.com/gp/product/B0087451I2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0087451I2&linkCode=as2&tag=esiv-20)CHAPTER 1:** **The Middle of the Ocean**
 ============================================================================================================================================================================================================================================================================================
 
 Miri grew up not knowing she was different. You might wonder how that could possibly happen. The fact is, she didn’t look all that different. She was a bit on the small side, to be sure, but that was all most people noticed.

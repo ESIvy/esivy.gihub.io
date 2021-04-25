@@ -1,5 +1,5 @@
 ---
-title: Success factors 5: Should you take the high school advice to take all the AP courses you possible can?
+title: "Success factors 5: Should you take the high school advice to take all the AP courses you possible can?"
 date: '2014-05-07T09:00:06-05:00'
 status: publish
 path: /high-school-advice-should-you-take-all-the-ap-courses-you-possible-can
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1927
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
 tag: []
 post_format: []
 ---
-So after deciding that we thought [the full advanced placement courses class load was a treadmill to no-where that was increasing in speed,](http://192.168.1.34:4945/?p=1919) we started out with recommending our kids [take partial AP loads.](http://192.168.1.34:4945/?p=1920 "success factors 3") But, we found that our kids [weren’t getting as much out of their classes.](http://192.168.1.34:4945/?p=1925 "success factors 4") Maybe the path the school was recommending for top students – a full AP load – was the right one after all.
+So after deciding that we thought [the full advanced placement courses class load was a treadmill to no-where that was increasing in speed,](http://192.168.1.34:4945/draft1919) we started out with recommending our kids [take partial AP loads.](http://192.168.1.34:4945/draft1920 "success factors 3") But, we found that our kids [weren’t getting as much out of their classes.](http://192.168.1.34:4945/draft1925 "success factors 4") Maybe the path the school was recommending for top students – a full AP load – was the right one after all.
 
 The problem is that the standard advice – given by all high schools – is to take as many preAP/AP courses as you *possibly* can. This means that most of the serious students are in the preAP/AP classes.
 

@@ -1,5 +1,5 @@
 ---
-title: Scrivener – How to open an existing Project in Scrivener for Windows, fully explained
+title: "Scrivener – How to open an existing Project in Scrivener for Windows, fully explained"
 date: '2014-10-07T11:30:59-05:00'
 status: publish
 path: /scrivener-how-to-open-project
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2416
-thumbnail: ../uploads/2014/11/scrivener.jpg
+thumbnail: /uploads/2014/11/scrivener.jpg
 category:
     - 'For Authors'
     - 'Scrivener Tutorial'
@@ -15,7 +15,7 @@ category:
 tag: []
 post_format: []
 ---
-![how to open a scrivener file](../uploads/2014/10/scriv-open-project-238x602.jpg)Are you not sure what to click on in [Scrivener](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=C5TX4ZEFK5RLOVJO) for Windows to open an existing project? Are you depending on “Recent Projects” in Scrivener to find your files? Then this Scrivener for Windows tutorial is for you! (If you’re really in a panicked rush and just want to know the steps, check out my post [How to open a File or Project in Scrivener for Windows, A Quick Guide](http://192.168.1.34:4945/?p=2425). To understand fully why it works this way, read on.)
+![how to open a scrivener file](/uploads/2014/10/scriv-open-project-238x602.jpg)Are you not sure what to click on in [Scrivener](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=C5TX4ZEFK5RLOVJO) for Windows to open an existing project? Are you depending on “Recent Projects” in Scrivener to find your files? Then this Scrivener for Windows tutorial is for you! (If you’re really in a panicked rush and just want to know the steps, check out my post [How to open a File or Project in Scrivener for Windows, A Quick Guide](http://192.168.1.34:4945/draft2425). To understand fully why it works this way, read on.)
 
 Maybe it’s just me.
 
@@ -45,7 +45,7 @@ Unfortunately, when you name your project in Scrivener, it doesn’t actually pu
 
 Aha! That .scrivx file is what you want! Even though this doesn’t have the specific project name on it, after you go inside your project folder, this is what you’re going to click on to launch your Scrivener project!
 
-That .scrivx file not being named is also what will make it hard to search for your projects and launch them directly – if multiple come up how do you know what you’re opening? For more help on searching for your existing Scrivener projects, see [How to Find Your Saved Scrivener files or projects. ](http://192.168.1.34:4945/?p=2507)(Link will work when post goes live.)
+That .scrivx file not being named is also what will make it hard to search for your projects and launch them directly – if multiple come up how do you know what you’re opening? For more help on searching for your existing Scrivener projects, see [How to Find Your Saved Scrivener files or projects. ](http://192.168.1.34:4945/draft2507)(Link will work when post goes live.)
 
 So here you have it –
 
@@ -61,9 +61,9 @@ How to open an existing Scrivener for Microsoft Windows file (or project)
   – project.scrivx
 4. Click on the project.scrivx file. Scrivener will open your project.
 
-That should have you on your way to using Scrivener for Windows files more correctly. While we’re on the subject – Are you saving your Scrivener projects correctly? Are you sure? 🙂 Check out my post [Safely Saving Scrivener Files and Projects.](http://192.168.1.34:4945/?p=2432) (Link will work after post goes live.)
+That should have you on your way to using Scrivener for Windows files more correctly. While we’re on the subject – Are you saving your Scrivener projects correctly? Are you sure? 🙂 Check out my post [Safely Saving Scrivener Files and Projects.](http://192.168.1.34:4945/draft2432) (Link will work after post goes live.)
 
-For quick reference, bookmark my post, [How to open an existing Scrivener Project in Windows, A Quick Guide. ](http://192.168.1.34:4945/?p=2425)(Link will work after post goes live.)
+For quick reference, bookmark my post, [How to open an existing Scrivener Project in Windows, A Quick Guide. ](http://192.168.1.34:4945/draft2425)(Link will work after post goes live.)
 
 [![](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0079KJB54&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=esiv-20)](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=ZEGH5JY5M2H6PHYV)![](http://ir-na.amazon-adsystem.com/e/ir?t=esiv-20&l=as2&o=1&a=B0079KJB54)  
 Read more about the great novel writing software, [Scrivener, ](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=C5TX4ZEFK5RLOVJO)at their website, [Literature and Latte.](http://www.literatureandlatte.com/scrivener.php "Scrivener")

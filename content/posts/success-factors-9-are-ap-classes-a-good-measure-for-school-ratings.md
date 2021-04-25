@@ -1,5 +1,5 @@
 ---
-title: Success Factors 9: Are AP classes a good measure for school ratings?
+title: "Success Factors 9: Are AP classes a good measure for school ratings?"
 date: '2014-06-04T09:00:21-05:00'
 status: publish
 path: /success-factors-9-are-ap-classes-a-good-measure-for-school-ratings
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2071
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
@@ -15,11 +15,11 @@ category:
 tag: []
 post_format: []
 ---
-As I’ve outlined in my previous posts, I’ve been pondering how to [guide our kids to the best path of success](http://192.168.1.34:4945/?p=1903 "success factors: 1"), starting in high school by analyzing success factors. One answer might be that you try to move into a school district according to the high school ratings. Our school ranks well in [U.S. News 2014 Best High Schools Rankings, ](http://www.usnews.com/education/best-high-schools/articles/2014/04/22/us-news-releases-2014-best-high-schools-rankings)but [what does this mean? ](http://192.168.1.34:4945/success-factors-high-school-rankings-released-by-u-s-news-what-does-it-mean/ "Success factors: High school rankings released by U.S. News: What do they mean?")
+As I’ve outlined in my previous posts, I’ve been pondering how to [guide our kids to the best path of success](http://192.168.1.34:4945/draft1903 "success factors: 1"), starting in high school by analyzing success factors. One answer might be that you try to move into a school district according to the high school ratings. Our school ranks well in [U.S. News 2014 Best High Schools Rankings, ](http://www.usnews.com/education/best-high-schools/articles/2014/04/22/us-news-releases-2014-best-high-schools-rankings)but [what does this mean? ](http://192.168.1.34:4945/success-factors-high-school-rankings-released-by-u-s-news-what-does-it-mean/ "Success factors: High school rankings released by U.S. News: What do they mean?")
 
-I started thinking about this when we noticed that [high school kids at our school seemed to have over-whelming schedules](http://192.168.1.34:4945/?p=1903) and then noted [our own experiences with a full schedules of preAP and AP classes.](http://192.168.1.34:4945/?p=1927)
+I started thinking about this when we noticed that [high school kids at our school seemed to have over-whelming schedules](http://192.168.1.34:4945/draft1903) and then noted [our own experiences with a full schedules of preAP and AP classes.](http://192.168.1.34:4945/draft1927)
 
-[![Buy it on Amazon](../uploads/2014/03/smartest-kids-in-the-world-200x300.jpg "Smartest Kids in the World")](http://www.amazon.com/gp/product/1451654421/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451654421&linkCode=as2&tag=esiv-20 "Buy it on Amazon")In my last post, I gave a quick rundown of my take on [The Smartest Kids in the World: and how they got that way, by Amanda Ripley](http://www.amazon.com/gp/product/1451654421/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451654421&linkCode=as2&tag=esiv-20 "Buy it on Amazon").
+[![Buy it on Amazon](/uploads/2014/03/smartest-kids-in-the-world-200x300.jpg "Smartest Kids in the World")](http://www.amazon.com/gp/product/1451654421/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451654421&linkCode=as2&tag=esiv-20 "Buy it on Amazon")In my last post, I gave a quick rundown of my take on [The Smartest Kids in the World: and how they got that way, by Amanda Ripley](http://www.amazon.com/gp/product/1451654421/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451654421&linkCode=as2&tag=esiv-20 "Buy it on Amazon").
 
 What I took from that was that was that based on the studies of Finland and Poland’s educational systems, stress, test, and retest might not be necessary for success. And South Korea’s school system shows that a high stress and test environment has some definite drawbacks.
 

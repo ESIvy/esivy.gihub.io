@@ -1,5 +1,5 @@
 ---
-title: Athena Costume – Greek Goddess Costume for girls
+title: "Athena Costume – Greek Goddess Costume for girls"
 date: '2012-10-26T02:07:46-05:00'
 status: publish
 path: /athena-costume-greek-goddess
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 343
-thumbnail: ../uploads/2012/10/athena-thumbnail-150-x-150.png
+thumbnail: /uploads/2012/10/athena-thumbnail-150-x-150.png
 category:
     - Costumes
     - Crafts
@@ -21,7 +21,7 @@ tagazine-media:
 simplecatch-sidebarlayout:
     - ''
 ---
-<div class="wp-caption aligncenter" id="attachment_351" style="width: 310px">![Athena costume or Greek goddess costume - If your girl or teen wants to dress up like Athena from the Percy Jackson series for a book character parade or Halloween, homemade costumes are super fun! Here are some ideas and directions for how to make a DIY greek goddess dress. It's no-sew and super easy!](../uploads/2012/10/athena-t-full-costume-e1351214890266.jpg "Athena costume - Greek goddess costume")A no-sew Athena costume for girls
+<div class="wp-caption aligncenter" id="attachment_351" style="width: 310px">![Athena costume or Greek goddess costume - If your girl or teen wants to dress up like Athena from the Percy Jackson series for a book character parade or Halloween, homemade costumes are super fun! Here are some ideas and directions for how to make a DIY greek goddess dress. It's no-sew and super easy!](/uploads/2012/10/athena-t-full-costume-e1351214890266.jpg "Athena costume - Greek goddess costume")A no-sew Athena costume for girls
 
 </div>[![](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0786838655&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=esiv-20)](http://www.amazon.com/gp/product/0786838655/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786838655&linkCode=as2&tag=esiv-20&linkId=BZRAZRGIJOU2BIUM)![](http://ir-na.amazon-adsystem.com/e/ir?t=esiv-20&l=as2&o=1&a=0786838655)The books I write for kids are fantasy, so it’s probably no surprise that we’re big fantasy readers around this house. My middle grader, Sparkle, has just discovered the Percy Jackson series and is tearing through them. (Can you call it “discovered” when her brother has been begging her for years and she only read it because her English teacher put [The Lightning Thief](http://www.amazon.com/gp/product/0786838655/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786838655&linkCode=as2&tag=esiv-20&linkId=BZRAZRGIJOU2BIUM "But it on Amazon!") on a reading list?)
 
@@ -31,7 +31,7 @@ Some parents would be appalled that English teachers are encouraging kids to rea
 
 This isn’t the first time one of my kids has dressed up as a character from the Percy Jackson series. A couple of years ago, Techno boy dressed up as Percy Jackson. That was easy. We spray painted a pen silver, he wore an orange Camp Half-blood t-shirt (signed by Rick Riordan himself) and he was good to go!
 
-<div class="wp-caption alignleft" id="attachment_359" style="width: 203px">![Athena costume or Greek goddess costume - If your girl or teen wants to dress up like Athena from the Percy Jackson series for a book character parade or Halloween, homemade costumes are super fun! Here are some ideas and directions for how to make a DIY greek goddess dress. It's no-sew and super easy!](../uploads/2012/10/full-athena-costume-adjusted-500-x-775.jpg)Athena costume from Percy Jackson, The Mark of Athena
+<div class="wp-caption alignleft" id="attachment_359" style="width: 203px">![Athena costume or Greek goddess costume - If your girl or teen wants to dress up like Athena from the Percy Jackson series for a book character parade or Halloween, homemade costumes are super fun! Here are some ideas and directions for how to make a DIY greek goddess dress. It's no-sew and super easy!](/uploads/2012/10/full-athena-costume-adjusted-500-x-775.jpg)Athena costume from Percy Jackson, The Mark of Athena
 
 </div>Athena took a little bit more preparation, but not much. With all the parts, we assembled the costume on Sparkle in about a half an hour. She wanted to wear it to her school costume dance, but she also had to help finish the entry for the robotics competition the next day. Thus, the lack of good pictures, some of which were hastily taken on my phone.
 
@@ -64,7 +64,7 @@ Instructions
 
 ### Headband
 
-![Athena costume - Greek Goddess costume hairband](../uploads/2012/10/hairband-structure-200-x-128.jpg "Athena costume - Greek Goddess costume hairband")The only thing Sparkle had to make ahead of time was the headband. I can’t claim any credit for this. She did it all on her own. 🙂 She used a left-over piece of decorative package ribbon. (I have a hard time throwing out any package bow that is still usable. We have a drawer full. But see, it’s useful!)
+![Athena costume - Greek Goddess costume hairband](/uploads/2012/10/hairband-structure-200-x-128.jpg "Athena costume - Greek Goddess costume hairband")The only thing Sparkle had to make ahead of time was the headband. I can’t claim any credit for this. She did it all on her own. 🙂 She used a left-over piece of decorative package ribbon. (I have a hard time throwing out any package bow that is still usable. We have a drawer full. But see, it’s useful!)
 
 1. Measure the amount of decorative ribbon you need to go across the forehead and tuck under the hair on either side.
 2. Hot glue the piece of elastic to one end. Let it cool!
@@ -74,19 +74,19 @@ Instructions
 ### Assembling the Athena costume
 
 1. Since the costume is no-sew, it’ll be a bit breezy! So you want to wear some clothes under it to avoid any surprises. 🙂 Sparkle chose a white tank and white shorts, so she had a pocket for her cell phone and money.
-2. ![Hair ideas for Athena Costume or Greek goddess costume - goes with directions for homemade DIY greek goddess dress. It's no-sew and super easy!](../uploads/2012/10/athena-hairband-250-x-183.jpg "Athena - Greek goddess costume hairband")Put the headband on before arranging the hair. Slip it all the way over the head to around the neck. Then pull the front of the headband up until it sits comfortably across the forehead.
-3. ![Athena - Greek goddess costume braid](../uploads/2012/10/athena-braid-200-x-223.jpg "Athena - Greek goddess costume braid")Sparkle pulled her hair into a loose braid on the side. This also worked well with the owl perched on her other shoulder.
+2. ![Hair ideas for Athena Costume or Greek goddess costume - goes with directions for homemade DIY greek goddess dress. It's no-sew and super easy!](/uploads/2012/10/athena-hairband-250-x-183.jpg "Athena - Greek goddess costume hairband")Put the headband on before arranging the hair. Slip it all the way over the head to around the neck. Then pull the front of the headband up until it sits comfortably across the forehead.
+3. ![Athena - Greek goddess costume braid](/uploads/2012/10/athena-braid-200-x-223.jpg "Athena - Greek goddess costume braid")Sparkle pulled her hair into a loose braid on the side. This also worked well with the owl perched on her other shoulder.
 4. For thin fabric, keep the entire length of fabric folded in half length-wise, the way it came off the bolt. For thick fabric, that you can’t see through, cut it in half lengthwise.
 5. Drape the fabric across one shoulder with the fold next to the neck. Adjust it so that the fabric is the length you want in the front, just above the knee for a short dress. For a Greek Goddess costume, adjust the fabric so that it is 1-2 inches off the floor.
 6. Make a mark or a snip on the fabric hanging down the back so that the skirt will hang to the same length as in the front. Cut the fabric.
 7. Using this first piece of fabric as a guide, cut the second piece to the same length.
-8. ![Athena costume - Greek goddess costume cinch at the shoulder](../uploads/2012/10/athena-shoulder-200-x-179.jpg "Athena costume - Greek goddess costume cinch at the shoulder")Place the first piece of fabric over one shoulder again with the fold toward the neck. Gather up the fabric loosely and tie it with a small piece of gold, silver, or brown ribbon. We tied it around the strap of Sparkle’s tank-top for more stability. Repeat with the second piece of fabric on the other side.
-9. Adjust the two piece of fabric so that they overlap in front and back. ![Athena costume - Greek Goddess costume overlap at front](../uploads/2012/10/athena-front-cross-150-x-250.jpg "Athena costume - Greek Goddess costume overlap at front")
-10. Using a belt or long piece of ribbon, gather the fabric around the waist and belt it. Adjust the pieces of fabric to overlap on the sides.![Athena costume - Greek Goddess costume belt](../uploads/2012/10/athena-belt-200-x-75.jpg "Athena costume - Greek Goddess costume belt")
+8. ![Athena costume - Greek goddess costume cinch at the shoulder](/uploads/2012/10/athena-shoulder-200-x-179.jpg "Athena costume - Greek goddess costume cinch at the shoulder")Place the first piece of fabric over one shoulder again with the fold toward the neck. Gather up the fabric loosely and tie it with a small piece of gold, silver, or brown ribbon. We tied it around the strap of Sparkle’s tank-top for more stability. Repeat with the second piece of fabric on the other side.
+9. Adjust the two piece of fabric so that they overlap in front and back. ![Athena costume - Greek Goddess costume overlap at front](/uploads/2012/10/athena-front-cross-150-x-250.jpg "Athena costume - Greek Goddess costume overlap at front")
+10. Using a belt or long piece of ribbon, gather the fabric around the waist and belt it. Adjust the pieces of fabric to overlap on the sides.![Athena costume - Greek Goddess costume belt](/uploads/2012/10/athena-belt-200-x-75.jpg "Athena costume - Greek Goddess costume belt")
 
 That’s it! Just cut, gather, and tie, tie, tie!
 
-![Athena costume - Greek Goddess costume owl](../uploads/2012/10/athena-jaunty-owl-200-x-249.jpg "Athena costume - Greek Goddess costume owl")Sparkle wore this jaunty little fellow on her shoulder! If you’ve got a couple of days, you can order your own [Ty Beanie Boos Spells Owl 6″ Plush from Amazon.](http://www.amazon.com/gp/product/B008K7RM8I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008K7RM8I&linkCode=as2&tag=esiv-20&linkId=T5LIMELCKLKN5EGO)
+![Athena costume - Greek Goddess costume owl](/uploads/2012/10/athena-jaunty-owl-200-x-249.jpg "Athena costume - Greek Goddess costume owl")Sparkle wore this jaunty little fellow on her shoulder! If you’ve got a couple of days, you can order your own [Ty Beanie Boos Spells Owl 6″ Plush from Amazon.](http://www.amazon.com/gp/product/B008K7RM8I/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008K7RM8I&linkCode=as2&tag=esiv-20&linkId=T5LIMELCKLKN5EGO)
 
 If you can’t find a small stuffed owl (for wisdom), you could make one out of pom-poms. She also thought about painting an owl on her cheek if we couldn’t find a stuffed animal.
 

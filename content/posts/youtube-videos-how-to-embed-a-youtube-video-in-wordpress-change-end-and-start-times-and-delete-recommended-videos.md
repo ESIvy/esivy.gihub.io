@@ -1,5 +1,5 @@
 ---
-title: Youtube videos: how to embed a Youtube video in wordpress, change Youtube end and start times and delete recommended videos on Youtube
+title: "Youtube videos: how to embed a Youtube video in wordpress, change Youtube end and start times and delete recommended videos on Youtube"
 date: '2014-01-24T08:00:21-06:00'
 status: publish
 path: /youtube-videos-how-to-embed-a-youtube-video-in-wordpress-change-end-and-start-times-and-delete-recommended-videos
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1593
-thumbnail: ../uploads/2014/01/wordpress-tutorial-esivy-logo-300-x-150.jpg
+thumbnail: /uploads/2014/01/wordpress-tutorial-esivy-logo-300-x-150.jpg
 category:
     - 'Tech Tutorials'
     - 'Wordpress tutorial'
 tag: []
 post_format: []
 ---
-![Youtube video in WordPress and customize](../uploads/2014/01/Wordpress-youtube-tutorial-238-x-262.jpg)This post I’ll cover Youtube videos in WordPress and Blogger. I’ll go over: how to embed a Youtube video, how to customize the Youtube video end times and start times, and how to delete the recommended videos, all without using a plugin. Plugins are great, but they can slow down your site. So if I can do without them, I do.
+![Youtube video in WordPress and customize](/uploads/2014/01/Wordpress-youtube-tutorial-238-x-262.jpg)This post I’ll cover Youtube videos in WordPress and Blogger. I’ll go over: how to embed a Youtube video, how to customize the Youtube video end times and start times, and how to delete the recommended videos, all without using a plugin. Plugins are great, but they can slow down your site. So if I can do without them, I do.
 
 I couldn’t find this anywhere on the web and I’m tickled to death that I figured it out myself! I’m not a computer coder. So if I can do it, you can too. The beautiful part is that we’ll only be working in the text editor of your post. You won’t be touching any code that can mess up your entire site.
 
@@ -42,15 +42,15 @@ If you follow the [WordPress directions to embed the video by just putting the w
 
 3\. In WordPress, change from the Visual editor to the Text editor.
 
-![embed youtube video in wordpress](../uploads/2014/01/text-editor.jpg "embed youtube video in wordpress text editor")
+![embed youtube video in wordpress](/uploads/2014/01/text-editor.jpg "embed youtube video in wordpress text editor")
 
 4\. Now go to the Youtube site of your video. Under the video you’re going to click: share <span style="color: #ff0000;">(1)</span>, embed <span style="color: #ff0000;">(2)</span>, and then you’re going to select and copy all of the code in <span style="color: #ff0000;">(3)</span>. Make sure you copy all of it Ctrl+A then Ctrl+C is a good way to do this on a PC.
 
-![embed youtube video in wordpress share embed copy](../uploads/2014/01/share-embed-copy.jpg "youtube video in wordpress share embed copy")
+![embed youtube video in wordpress share embed copy](/uploads/2014/01/share-embed-copy.jpg "youtube video in wordpress share embed copy")
 
 5\. Go back to your WordPress post draft. Paste the text into the Text editing window.
 
-[![youtube video in wordpress paste](../uploads/2014/01/paste1.jpg "youtube video in wordpress paste")](http://192.168.1.34:4945/wp-content/uploads/2014/01/paste1.jpg)
+[![youtube video in wordpress paste](/uploads/2014/01/paste1.jpg "youtube video in wordpress paste")](http://192.168.1.34:4945/wp-conte/uploads/2014/01/paste1.jpg)
 
 6\. Click Save Draft.
 
@@ -71,7 +71,7 @@ How to delete recommended videos on Youtube
 
 8\. Go back to your video on Youtube. Under your embedding code, unclick “show suggested videos when the video finishes.” <span style="color: #ff0000;">(4)<span style="color: #000000;">. Copy the new code <span style="color: #ff0000;">(5).<span style="color: #000000;"> Move back to your WordPress post editor, paste the new code in place of the previous code.</span></span></span></span>
 
-![how to delete recommended videos on youtube video in wordpress](../uploads/2014/01/deleted-suggested-videos.jpg "how to delete recommended videos on youtube video in wordpress")
+![how to delete recommended videos on youtube video in wordpress](/uploads/2014/01/deleted-suggested-videos.jpg "how to delete recommended videos on youtube video in wordpress")
 
 Now when you preview your page (and hit reload), when you get to the video there won’t be any recommended videos on Youtube shown at the end.
 
@@ -88,13 +88,13 @@ I want to get the guy sticking his arms in the air, so I’m going to choose 26 
 
 10\. Now go back into your Text editing window for your WordPress post. Find where it says: ?rel=0″
 
-![embed youtube video in wordpress rel=0](../uploads/2014/01/rel0.jpg "embed youtube video in wordpress rel=0")
+![embed youtube video in wordpress rel=0](/uploads/2014/01/rel0.jpg "embed youtube video in wordpress rel=0")
 
 Between the zero and the quotes, insert: &amp;start=26
 
 (Only replace 26 with what you want your start time to be, in seconds.)
 
-![embed youtube video on wordpress change start](../uploads/2014/01/start.jpg "embed youtube video on wordpress change start")
+![embed youtube video on wordpress change start](/uploads/2014/01/start.jpg "embed youtube video on wordpress change start")
 
 Save draft. Preview and reload. You’ll see that the start cursor will be down the video player timeline. Now let’s change the end time.
 
@@ -107,7 +107,7 @@ How to change Youtube end time
 
 Only replace 116 with your own end time.
 
-![youtube end time customize youtube video in wordpress](../uploads/2014/01/end.jpg "youtube end time customize youtube video in wordpress")
+![youtube end time customize youtube video in wordpress](/uploads/2014/01/end.jpg "youtube end time customize youtube video in wordpress")
 
 Save draft. Preview and reload. On the video player timeline you’ll see the segment that you’ve designated, like in my video below. You can click on my video to see how it works. Before you Publish, make sure your own works.
 
@@ -117,4 +117,4 @@ These directions to customize a Youtube video worked on my WordPress.org site, a
 
 My main occupation is being an author and writing these tutorials takes some of my writing time. I debate if it’s a good place to spend my time, but I’d like to give back a little to the on-line community that makes help so readily available. If you’ve found this post helpful, please leave a comment and let me know. And, if you have a kid in your life, or a secret kid inside you, please check out my fantasy adventure books for kids and pick up an ebook for a couple of bucks:
 
-[![ocean's secret cover 190 x 250](../uploads/2012/09/oceans-secret-cover-190-x-250.jpg)Miri Attwater and the Ocean’s Secre](http://www.amazon.com/Attwater-Oceans-Mermaid-Princess-Adventures-ebook/dp/B0087451I2/ "Secret Amazon")t and [Miri Attwater and All That Glitters.](http://www.amazon.com/Attwater-Glitters-Mermaid-Princess-Adventures-ebook/dp/B00HKK1GYC/ "Glitters Amazon")[![best books for girls : All That Glitters cover 188 x 250](../uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)](http://www.amazon.com/Attwater-Glitters-Mermaid-Princess-Adventures-ebook/dp/B00HKK1GYC/ "best books for girls Glitters Amazon")
+[![ocean's secret cover 190 x 250](/uploads/2012/09/oceans-secret-cover-190-x-250.jpg)Miri Attwater and the Ocean’s Secre](http://www.amazon.com/Attwater-Oceans-Mermaid-Princess-Adventures-ebook/dp/B0087451I2/ "Secret Amazon")t and [Miri Attwater and All That Glitters.](http://www.amazon.com/Attwater-Glitters-Mermaid-Princess-Adventures-ebook/dp/B00HKK1GYC/ "Glitters Amazon")[![best books for girls : All That Glitters cover 188 x 250](/uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)](http://www.amazon.com/Attwater-Glitters-Mermaid-Princess-Adventures-ebook/dp/B00HKK1GYC/ "best books for girls Glitters Amazon")

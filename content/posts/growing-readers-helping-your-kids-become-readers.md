@@ -1,5 +1,5 @@
 ---
-title: Growing Readers – helping your kids become readers
+title: "Growing Readers – helping your kids become readers"
 date: '2014-12-09T15:49:34-06:00'
 status: publish
 path: /growing-readers-helping-your-kids-become-readers
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2766
-thumbnail: ../uploads/2014/12/growing-readers-514x150.jpg
+thumbnail: /uploads/2014/12/growing-readers-514x150.jpg
 category:
     - Education
     - 'Growing Readers'
@@ -34,4 +34,4 @@ The only books on this list will be the ones *my* kids really loved.
 
 So, coming up, a post series about [“My Kids’ 98 Favorite Books”](http://192.168.1.34:4945/best-kids-books-my-own-kids-favorite-books/) (and counting.)
 
-![When it comes to picking children's books, the key is to pick fun books your kids want to read! Once they love reading, the rest will follow. Not sure where to start? Here's a reference to 96 of my kids' own favorite books.](../uploads/2014/12/favorite-books-grow-96-600x1050.jpg)
+![When it comes to picking children's books, the key is to pick fun books your kids want to read! Once they love reading, the rest will follow. Not sure where to start? Here's a reference to 96 of my kids' own favorite books.](/uploads/2014/12/favorite-books-grow-96-600x1050.jpg)

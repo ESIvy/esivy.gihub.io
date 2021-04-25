@@ -1,5 +1,5 @@
 ---
-title: Thanksgiving Fruit Turkey Recipe
+title: "Thanksgiving Fruit Turkey Recipe"
 date: '2013-11-19T18:24:03-06:00'
 status: publish
 path: /thanksgiving-fruit-turkey-recipe
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1207
-thumbnail: ../uploads/2013/11/fruit-turkey-150-x-150.jpg
+thumbnail: /uploads/2013/11/fruit-turkey-150-x-150.jpg
 category:
     - Cooking
     - Entertaining
@@ -22,7 +22,7 @@ Don’t worry if it’s not perfect! As I’ll show you at the end of the post, 
 
 But, if you’re picky, the trick to making fruit arrangements is to use uniformly shaped pieces. This may mean that you won’t use all the pieces that you cut from each fruit, so always have extra. The left-over pieces are perfect for rewarding your kitchen help and tiding them over until the big meal.
 
-![Thanksgiving Food - a fruit turkey! Kids turning up their noses at fruit ambrosia and Aunt Helen's green bean casserole? Here's an appetizer or "fruit salad" even the kids will eat! It's even a great activity at Thanksgiving meals for big families, because the children can help make it. See the blog post for tips and tricks so yours will turn out the pretty for your Thanksgiving table or buffet.](../uploads/2013/11/fruit-turkey-406-x-298.jpg)Recipe for a Thanksgiving Fruit Turkey
+![Thanksgiving Food - a fruit turkey! Kids turning up their noses at fruit ambrosia and Aunt Helen's green bean casserole? Here's an appetizer or "fruit salad" even the kids will eat! It's even a great activity at Thanksgiving meals for big families, because the children can help make it. See the blog post for tips and tricks so yours will turn out the pretty for your Thanksgiving table or buffet.](/uploads/2013/11/fruit-turkey-406-x-298.jpg)Recipe for a Thanksgiving Fruit Turkey
 ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 Ingredients  
@@ -60,14 +60,14 @@ Since I first dreamed up this fruit turkey about a half a dozen years ago, it’
 
 Our Fruit Turkey Last Year, with steps
 
-<div class="wp-caption aligncenter" id="attachment_1213" style="width: 410px">![fruit turkey cut the grapefruit](../uploads/2013/11/fruit-turkey-cut-grapefruit-400-x-267.jpg)Cut the grapefruit in half for the body.
+<div class="wp-caption aligncenter" id="attachment_1213" style="width: 410px">![fruit turkey cut the grapefruit](/uploads/2013/11/fruit-turkey-cut-grapefruit-400-x-267.jpg)Cut the grapefruit in half for the body.
 
-</div><div class="wp-caption aligncenter" id="attachment_1214" style="width: 410px">![fruit turkey DYI](../uploads/2013/11/fruit-turkey-cut-the-fruit-400-x-267.jpg)Slice the fruit for the tail.
+</div><div class="wp-caption aligncenter" id="attachment_1214" style="width: 410px">![fruit turkey DYI](/uploads/2013/11/fruit-turkey-cut-the-fruit-400-x-267.jpg)Slice the fruit for the tail.
 
-</div><div class="wp-caption aligncenter" id="attachment_1212" style="width: 410px">![fruit turkey recipe](../uploads/2013/11/fruit-turkey-arrange-tail-400-x-267.jpg)Arrange the fruit for the tail.
+</div><div class="wp-caption aligncenter" id="attachment_1212" style="width: 410px">![fruit turkey recipe](/uploads/2013/11/fruit-turkey-arrange-tail-400-x-267.jpg)Arrange the fruit for the tail.
 
-</div><div class="wp-caption aligncenter" id="attachment_1216" style="width: 410px">![fruit turkey start of tail](../uploads/2013/11/fruit-turkey-placing-fruit-400-x-267.jpg)The bottom layer doesn’t have to touch the grapefruit body.
+</div><div class="wp-caption aligncenter" id="attachment_1216" style="width: 410px">![fruit turkey start of tail](/uploads/2013/11/fruit-turkey-placing-fruit-400-x-267.jpg)The bottom layer doesn’t have to touch the grapefruit body.
 
-</div><div class="wp-caption aligncenter" id="attachment_1215" style="width: 410px">![fruit turkey for Thanksgiving](../uploads/2013/11/fruit-turkey-girls-version-400-x-267.jpg)The girls’ fruit turkey from last year. We gobbled it up!
+</div><div class="wp-caption aligncenter" id="attachment_1215" style="width: 410px">![fruit turkey for Thanksgiving](/uploads/2013/11/fruit-turkey-girls-version-400-x-267.jpg)The girls’ fruit turkey from last year. We gobbled it up!
 
 </div>

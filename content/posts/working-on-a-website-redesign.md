@@ -1,5 +1,5 @@
 ---
-title: Working on a Website Redesign
+title: "Working on a Website Redesign"
 date: '2014-11-12T11:30:54-06:00'
 status: publish
 path: /working-on-a-website-redesign
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2696
-thumbnail: ../uploads/2014/01/ES-Ivy-04-150x150.jpg
+thumbnail: /uploads/2014/01/ES-Ivy-04-150x150.jpg
 category:
     - Other
 tag: []

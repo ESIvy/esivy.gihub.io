@@ -1,5 +1,5 @@
 ---
-title: Pixlr tutorial: How to make an author Facebook page cover photo
+title: "Pixlr tutorial: How to make an author Facebook page cover photo"
 date: '2014-03-25T09:00:43-05:00'
 status: publish
 path: /pixlr-tutorial-how-to-make-an-author-facebook-page-cover-photo
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1314
-thumbnail: ../uploads/2014/03/pixlr-tutorial-83x1501.jpg
+thumbnail: /uploads/2014/03/pixlr-tutorial-83x1501.jpg
 category:
     - 'Facebook tutorial'
     - 'For Authors'
@@ -28,7 +28,7 @@ Okay, now that you’re up to speed, you’re going to want to make a Facebook c
 
 Based on their designs, I made a cover photo for [my own Facebook pag](https://www.facebook.com/E.S.IvyAuthor "E.S. Ivy Facebook page")e using Pixlr.
 
-![Pixlr tutorial: E.S. Ivy facebook cover photo image](../uploads/2014/01/facebook-cover-400-x-148.jpg "Pixlr tutorial: E.S. Ivy facebook cover photo image")
+![Pixlr tutorial: E.S. Ivy facebook cover photo image](/uploads/2014/01/facebook-cover-400-x-148.jpg "Pixlr tutorial: E.S. Ivy facebook cover photo image")
 
 You can hop over and see the real thing on my facebook page, [https://www.facebook.com/E.S.IvyAuthor.](https://www.facebook.com/E.S.IvyAuthor)
 
@@ -36,7 +36,7 @@ The first thing you’ll notice different from the image above and the one you s
 
 The cover photo I created for my author Facebook page has a pretty specialized background based on the cover of [Miri Attwater and the Ocean’s Secret.](http://192.168.1.34:4945/other/miri-attwater-oceans-secret-now-available-new-cover-amazon/ "Miri Attwater and the Ocean’s Secret now available  with a new cover on Amazon!") To get the dimensions just right, Techno Tim had to add add some more art to original art files. You can do that if you have the skill, but for now I’m going to show you how to make a cover photo with an easier background.
 
-![Pixlr tutorial: Facebook cover photo](../uploads/2014/01/Facebook-cover-template-tutorial-white-no-gray-300-x-111.jpg "Pixlr tutorial: Facebook cover photo")To create the Facebook cover photo, I’m going to use [Pixlr.com.](http://pixlr.com "pixlr") If your not familiar with Pixlr, it’s a website where you can do free picture editing. You can think of it as Photoshop lite. The great thing is that it’s FREE. Completely free. You do all your editing on their webpage, Pixlr.com, and then save your files to your personal computer. I even used Pixlr to grab the images for this Pixlr tutorial!
+![Pixlr tutorial: Facebook cover photo](/uploads/2014/01/Facebook-cover-template-tutorial-white-no-gray-300-x-111.jpg "Pixlr tutorial: Facebook cover photo")To create the Facebook cover photo, I’m going to use [Pixlr.com.](http://pixlr.com "pixlr") If your not familiar with Pixlr, it’s a website where you can do free picture editing. You can think of it as Photoshop lite. The great thing is that it’s FREE. Completely free. You do all your editing on their webpage, Pixlr.com, and then save your files to your personal computer. I even used Pixlr to grab the images for this Pixlr tutorial!
 
 Okay, let’s get started. To make a Facebook page cover photo like mine, you’re going to want to have images of your book covers saved to your computer. JPEG format will work; 300 x 400 will be more than big enough.
 
@@ -47,15 +47,15 @@ Pixlr tutorial: to make a Facebook page cover photo using a Pixlr Facebook page 
 
 2\. Choose Pixlr Editor.
 
-![Pixlr tutorial: pixlr editor](../uploads/2014/01/pixlr-editor.jpg "Pixlr tutorial: pixlr editor")
+![Pixlr tutorial: pixlr editor](/uploads/2014/01/pixlr-editor.jpg "Pixlr tutorial: pixlr editor")
 
 3\. Choose Open Image from URL. (This way you won’t have to download my template to your computer. Pixlr will just open it directly from my site. So you don’t have to worry about downloading something you don’t know about to your computer. You *are* careful about downloading things to your computer, right? Because really, you don’t know me from JoeVirus.)
 
-![Pixlr tutorial: open from url](../uploads/2014/01/open-from-url.jpg "Pixlr tutorial: open from url")
+![Pixlr tutorial: open from url](/uploads/2014/01/open-from-url.jpg "Pixlr tutorial: open from url")
 
 4\. Now where you see this:
 
-![Pixlr tutorial: image URL](../uploads/2014/01/image-URL.jpg "Pixlr tutorial: image URL")
+![Pixlr tutorial: image URL](/uploads/2014/01/image-URL.jpg "Pixlr tutorial: image URL")
 
 copy and paste: www.esivy.com/files/covertemplate.pxd
 
@@ -63,7 +63,7 @@ The file extension “.pxd” is a special file just for using in Pixlr. It won�
 
 5\. Now you should be seeing this! (Minus the red circles and numbers.)
 
-![Pixlr tutorial: pixlr areas](../uploads/2014/01/pixlr-areas.jpg "Pixlr tutorial: pixlr areas")
+![Pixlr tutorial: pixlr areas](/uploads/2014/01/pixlr-areas.jpg "Pixlr tutorial: pixlr areas")
 
 <span style="color: #ff0000;">1</span> – is the picture you’ll be working on. We’re going to call it the image area or picture area.
 
@@ -83,4 +83,4 @@ The gray box is just a place holder. Before we save your final file, we’re goi
 
 What do I mean by layers? Think of the layers as a stack of transparent sheets laying on top of each other. The way we’re going to make this image, we’re only going to put one item on each layer. Don’t worry if that doesn’t make sense. As we go along I’ll explain it a little more. Just for now, don’t worry about color-coordinating that gray box with anything, because it won’t be there in your final file. It’s just a place holder to make sure you don’t put anything important there.
 
-In the next post, we’ll start making the pretty stuff for your facebook page cover photo! We’ll start with [how to make an author logo using Pixlr](http://192.168.1.34:4945/?p=1335) – -basically your name and some sort of tagline.(link won’t work if the tutorial isn’t live yet)
+In the next post, we’ll start making the pretty stuff for your facebook page cover photo! We’ll start with [how to make an author logo using Pixlr](http://192.168.1.34:4945/draft1335) – -basically your name and some sort of tagline.(link won’t work if the tutorial isn’t live yet)

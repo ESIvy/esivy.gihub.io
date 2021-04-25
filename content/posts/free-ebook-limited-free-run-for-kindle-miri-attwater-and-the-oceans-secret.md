@@ -1,5 +1,5 @@
 ---
-title: Free ebook – Limited free run for Kindle, Miri Attwater and the Ocean's Secret
+title: "Free ebook – Limited free run for Kindle, Miri Attwater and the Ocean's Secret"
 date: '2014-11-21T09:57:34-06:00'
 status: publish
 path: /free-ebook-limited-free-run-for-kindle-miri-attwater-and-the-oceans-secret
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2709
-thumbnail: ../uploads/2012/09/oceans-secret-cover-190-x-250.jpg
+thumbnail: /uploads/2012/09/oceans-secret-cover-190-x-250.jpg
 category:
     - Announcements
     - 'Miri Attwater'
@@ -24,6 +24,6 @@ This new ebook kindle edition has been restructured to match the chapter structu
 
 This free fun through Kindle is only 5 days, so don’t miss picking up your free copy of [Miri Attwater and the Ocean’s Secret!](ww.amazon.com/Attwater-Oceans-Mermaid-Princess-Adventures-ebook/dp/B0087451I2/)
 
-<div class="wp-caption aligncenter" id="attachment_1223" style="width: 314px">[![Miri Attwater and the Ocean's Secret](../uploads/2013/11/oceans-secret-cover-304-x-401.jpg)](ww.amazon.com/Attwater-Oceans-Mermaid-Princess-Adventures-ebook/dp/B0087451I2/)Free on Kindle – limited time!
+<div class="wp-caption aligncenter" id="attachment_1223" style="width: 314px">[![Miri Attwater and the Ocean's Secret](/uploads/2013/11/oceans-secret-cover-304-x-401.jpg)](ww.amazon.com/Attwater-Oceans-Mermaid-Princess-Adventures-ebook/dp/B0087451I2/)Free on Kindle – limited time!
 
 </div>

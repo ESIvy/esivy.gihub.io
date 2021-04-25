@@ -1,5 +1,5 @@
 ---
-title: Ms. Ivy's Guide to Basic Table Manners
+title: "Ms. Ivy's Guide to Basic Table Manners"
 date: '2013-03-19T12:01:22-05:00'
 status: publish
 path: /ms-ivys-guide-to-basic-table-manners
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 662
-thumbnail: ../uploads/2013/02/spoonface-150-x-150.jpg
+thumbnail: /uploads/2013/02/spoonface-150-x-150.jpg
 category:
     - 'Behind the Books'
     - Entertaining

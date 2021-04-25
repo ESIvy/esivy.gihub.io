@@ -1,5 +1,5 @@
 ---
-title: Book 2, Miri Attwater and All that Glitters
+title: "Book 2, Miri Attwater and All that Glitters"
 date: '2014-01-21T08:01:14-06:00'
 status: publish
 path: /book-2-miri-attwater-glitters
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1540
-thumbnail: ../uploads/2014/01/confetti-face.jpg
+thumbnail: /uploads/2014/01/confetti-face.jpg
 category:
     - 'All That Glitters'
     - Announcements
 tag: []
 post_format: []
 ---
-<div style="text-align: left;">Book 2 in the Miri Attwater series, Miri Attwater and All That Glitters is now out! [Buy it on Amazon!](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20 "Buy it on Amazon!")</div><div style="text-align: left;"></div>[![trimmed](../uploads/2014/01/trimmed1.gif)](http://192.168.1.34:4945/wp-content/uploads/2014/01/trimmed1.gif)
+<div style="text-align: left;">Book 2 in the Miri Attwater series, Miri Attwater and All That Glitters is now out! [Buy it on Amazon!](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20 "Buy it on Amazon!")</div><div style="text-align: left;"></div>[![trimmed](/uploads/2014/01/trimmed1.gif)](http://192.168.1.34:4945/wp-conte/uploads/2014/01/trimmed1.gif)
 
 (Confetti and streamers compliments of my TechBoy! Aren’t they great? I would have added some cheering and clapping but it’s just annoying when you click on a website and your speakers start blaring. So, you’re welcome.)
 

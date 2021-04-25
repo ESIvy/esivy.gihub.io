@@ -1,5 +1,5 @@
 ---
-title: Recipe for Easy Roast Beast – er, I Mean Roast Beef!
+title: "Recipe for Easy Roast Beast – er, I Mean Roast Beef!"
 date: '2013-01-16T10:00:43-06:00'
 status: publish
 path: /super-easy-roast-beast-with-all-the-fixins
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 526
-thumbnail: ../uploads/2013/01/roast-beast-150-x-150.jpg
+thumbnail: /uploads/2013/01/roast-beast-150-x-150.jpg
 category:
     - Cooking
     - Entertaining
@@ -20,7 +20,7 @@ publicize_twitter_user:
 simplecatch-sidebarlayout:
     - ''
 ---
-<div class="wp-caption alignright" id="attachment_520" style="width: 310px">[![The roast beast, I mean beef, at our Christmas dinner this year. ](../uploads/2013/01/roast2.jpg?w=300)](http://192.168.1.34:4945/wp-content/uploads/2013/01/roast2.jpg)The roast beast, I mean beef, at our Christmas dinner this year.
+<div class="wp-caption alignright" id="attachment_520" style="width: 310px">[![The roast beast, I mean beef, at our Christmas dinner this year. ](/uploads/2013/01/roast2.jpg?w=300)](http://192.168.1.34:4945/wp-conte/uploads/2013/01/roast2.jpg)The roast beast, I mean beef, at our Christmas dinner this year.
 
 </div>Okay, so it’s not really roast beast, but roast beef instead. Like I said, I decided I was tired of having turkey twice in a row every year and wanted to mix it up a bit for Christmas dinners.
 
@@ -42,7 +42,7 @@ I got an almost 6 lb. rib roast; my local HEB butcher automatically cut the bone
 
 It was fabulous, but it could have been a bit more tender and I would have preferred a slight touch of pink; it was well done. Next time I’ll try a lower cooking temperature if I use convection. In spite of being well done, it was so delicious that we would all like to try it again soon!
 
-[![](../uploads/2013/01/roast.jpg?w=300)](http://192.168.1.34:4945/wp-content/uploads/2013/01/roast.jpg)The rest of the meal? It was really easy on Christmas Day! The rest took about 45 minutes because all the dishes could either be started or made completely days earlier.
+[![](/uploads/2013/01/roast.jpg?w=300)](http://192.168.1.34:4945/wp-conte/uploads/2013/01/roast.jpg)The rest of the meal? It was really easy on Christmas Day! The rest took about 45 minutes because all the dishes could either be started or made completely days earlier.
 
 Everlasting Rolls : Sparkle made them from my mom’s recipe. She shaped them, then we let rise in the refrigerator for 4 days, then left them out on the kitchen counter all morning before baking. They turned out much better than they ever did when I made them!
 
@@ -52,4 +52,4 @@ Sauteed green beans: made Christmas day, which is why I got distracted and cooke
 
 I forgot to make the cherry salad! But that would have been made the day before.
 
-[![cake](../uploads/2013/01/cake.jpg?w=300)](http://192.168.1.34:4945/wp-content/uploads/2013/01/cake.jpg)Oh well, we were still too full for the sweet potato pie and coconut cake with raspberry filling until much later. The coconut cake was made by Sparkle and rescued by me when I noticed the batter didn’t look right. She forgot to put in the eggs! I’m glad to know that Sparkle still needs her mom sometimes; she’s only 12!
+[![cake](/uploads/2013/01/cake.jpg?w=300)](http://192.168.1.34:4945/wp-conte/uploads/2013/01/cake.jpg)Oh well, we were still too full for the sweet potato pie and coconut cake with raspberry filling until much later. The coconut cake was made by Sparkle and rescued by me when I noticed the batter didn’t look right. She forgot to put in the eggs! I’m glad to know that Sparkle still needs her mom sometimes; she’s only 12!

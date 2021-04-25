@@ -1,5 +1,5 @@
 ---
-title: Goblin Fruit Kids Will Gobble Up
+title: "Goblin Fruit Kids Will Gobble Up"
 date: '2013-10-17T16:22:06-05:00'
 status: publish
 path: /goblin-fruit
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1044
-thumbnail: ../uploads/2013/10/halloween-fruit-150-x-150.jpg
+thumbnail: /uploads/2013/10/halloween-fruit-150-x-150.jpg
 category:
     - Cooking
     - Entertaining
@@ -16,13 +16,13 @@ category:
 tag: []
 post_format: []
 ---
-![halloween fruit](../uploads/2013/10/halloween-fruit-350-x-313.jpg)Before you send you little ones to stuff their pumpkins (and then their faces) with candy, put something a little more healthy in their stomachs – goblin fruit faces!
+![halloween fruit](/uploads/2013/10/halloween-fruit-350-x-313.jpg)Before you send you little ones to stuff their pumpkins (and then their faces) with candy, put something a little more healthy in their stomachs – goblin fruit faces!
 
 If you’re a child of the 70’s, maybe you remember the “pear salad” your mom made you eat? In my family it was a canned pear half on top of a leaf of iceberg lettuce, garnished with a dollop of mayonnaise – filling the hollowed out core – and sprinkled with cheddar cheese. And we were *required* to eat the soggy, sweet lettuce leaf *AND* the heaping spoonful of mayonnaise. Can you imagine? I think in my husbands family the pears were filled with cottage cheese.
 
 But you won’t get any fussing out of your kids for these fruit “salads.” They’ll gobble them up! The ghost and jack o’lantern faces are a bit more healthy as they are made entire out of fruit – canned fruit and dried fruit. The monster faces use chewy candies, but it is Halloween after all!
 
-![Jack o'lantern peach half](../uploads/2013/10/jack-olantern-peach-142-x-160.jpg)
+![Jack o'lantern peach half](/uploads/2013/10/jack-olantern-peach-142-x-160.jpg)
 ==================================================================================
 
 Jack O’Lantern Peaches
@@ -41,7 +41,7 @@ Jack O’Lantern Peach Directions
 2\. Use a rolling pin to flatten two prunes for each jack-o-lantern. Using a small knife, cut out two eyes, a nose, and a mouth and position them on peach halves. Use a small piece as a stem.  
 3\. Refrigerate until serving.
 
-![Pear ghosts](../uploads/2013/10/pear-ghosts-237-x-175.jpg)
+![Pear ghosts](/uploads/2013/10/pear-ghosts-237-x-175.jpg)
 
 Pear-half Ghosts
 ================
@@ -59,7 +59,7 @@ Pear-half Ghost Directions
 2\. Cut a raisin into fourths. Use the tip of a small knife to make small holes in the pear where you want the eyes to be. Push one of the raisin pieces into each hole for an eye.  
 3\. Refrigerate until serving.
 
-[![peach monster faces](../uploads/2013/10/monster-peaches-332-x-330.jpg)](http://192.168.1.34:4945/wp-content/uploads/2013/10/monster-peaches-332-x-330.jpg)
+[![peach monster faces](/uploads/2013/10/monster-peaches-332-x-330.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2013/10/monster-peaches-332-x-330.jpg)
 
 Fruit Monster Faces
 ===================

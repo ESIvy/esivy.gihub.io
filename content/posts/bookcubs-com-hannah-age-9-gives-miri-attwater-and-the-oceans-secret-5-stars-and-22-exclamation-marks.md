@@ -1,5 +1,5 @@
 ---
-title: Bookcubs.com, Hannah – age 9 – gives Miri Attwater and the Ocean's Secret 5 stars (and 22 exclamation marks!)
+title: "Bookcubs.com, Hannah – age 9 – gives Miri Attwater and the Ocean's Secret 5 stars (and 22 exclamation marks!)"
 date: '2013-07-01T10:20:53-05:00'
 status: publish
 path: /bookcubs-com-hannah-age-9-gives-miri-attwater-and-the-oceans-secret-5-stars-and-22-exclamation-marks
@@ -20,7 +20,7 @@ simplecatch-sidebarlayout:
 ---
 For kid’s books, there’s nothing better than a book review *by* kids.
 
-<div class="separator" style="clear: both; text-align: center;">[![Book Cubs Kids Book Reviews](../uploads/2013/07/5da18-bookcubs349x200.jpg "Book Cubs Kids Book Reviews")](http://www.book-cubs.com/2013/06/24/miri-attwater-and-the-oceans-secret-by-e-s-ivy/)</div>Here’s what Hannah, age 9, over at [BookCubs](http://www.book-cubs.com/2013/06/24/miri-attwater-and-the-oceans-secret-by-e-s-ivy/) had to say about Miri Attwater and the Ocean’s Secret.
+<div class="separator" style="clear: both; text-align: center;">[![Book Cubs Kids Book Reviews](/uploads/2013/07/5da18-bookcubs349x200.jpg "Book Cubs Kids Book Reviews")](http://www.book-cubs.com/2013/06/24/miri-attwater-and-the-oceans-secret-by-e-s-ivy/)</div>Here’s what Hannah, age 9, over at [BookCubs](http://www.book-cubs.com/2013/06/24/miri-attwater-and-the-oceans-secret-by-e-s-ivy/) had to say about Miri Attwater and the Ocean’s Secret.
 
 <span style="background-color: white; font-family: 'Century Gothic', AppleGothic, Arial, sans-serif; line-height: 22px;"><span style="color: magenta;">If you like funny fantasy books you’ll love this. It is fantastic. If you do not think it is great, you are crazy!!!!!!!!!!!!!!!!!!!!!!</span></span>
 

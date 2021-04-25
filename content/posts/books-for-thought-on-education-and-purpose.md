@@ -1,5 +1,5 @@
 ---
-title: Books for thought on Education and Purpose
+title: "Books for thought on Education and Purpose"
 date: '2015-03-26T11:30:28-05:00'
 status: publish
 path: /books-for-thought-on-education-and-purpose
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 3075
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
@@ -22,7 +22,7 @@ I have notes and notes on what I’m reading that I’ve yet to turn into any ty
 
 [Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life, William Deresiewicz](http://www.amazon.com/gp/product/1476702713/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476702713&linkCode=as2&tag=esiv-20&linkId=CEL6T5AHHIX7GOKO)
 
-(For my thoughts before I read this book, based on an article reviewing it, see my post [Back to School – High School anxiety.](http://192.168.1.34:4945/?p=2345))
+(For my thoughts before I read this book, based on an article reviewing it, see my post [Back to School – High School anxiety.](http://192.168.1.34:4945/draft2345))
 
 [Mindset: The New Psychology of Success, Carol Dweck](http://www.amazon.com/gp/product/0345472322/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345472322&linkCode=as2&tag=esiv-20&linkId=7QWM6NXM2BYHGSM2)
 

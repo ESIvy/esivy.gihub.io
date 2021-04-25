@@ -1,5 +1,5 @@
 ---
-title: Success factors 3: Is the answer to not take a full load of advanced placement courses?
+title: "Success factors 3: Is the answer to not take a full load of advanced placement courses?"
 date: '2014-04-23T09:00:06-05:00'
 status: publish
 path: /success-factors-is-the-answer-to-not-take-a-full-load-of-advanced-placement-courses
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1920
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
 tag: []
 post_format: []
 ---
-In past posts about success factors, I talked about when my kids were still young I learned that [taking a full load of advanced placement classes at a moderately competitive high school means ridiculous homework loads](http://192.168.1.34:4945/?p=1903 "success factors 1"). I started [wondering if there was a better way for success,](http://192.168.1.34:4945/?p=1919 "success factors") and noted some information such as that can be found on the blog, [Study Hacks.](http://calnewport.com/blog/about/ "Study Hacks")
+In past posts about success factors, I talked about when my kids were still young I learned that [taking a full load of advanced placement classes at a moderately competitive high school means ridiculous homework loads](http://192.168.1.34:4945/draft1903 "success factors 1"). I started [wondering if there was a better way for success,](http://192.168.1.34:4945/draft1919 "success factors") and noted some information such as that can be found on the blog, [Study Hacks.](http://calnewport.com/blog/about/ "Study Hacks")
 
 By the time our oldest was entering middle school, I thought I had it all figured out. (Hah! Cue laughter here. As a parent can we ever have it all figured out?)
 

@@ -1,5 +1,5 @@
 ---
-title: Success factors 7: High school advice, does high school stress lead to success?
+title: "Success factors 7: High school advice, does high school stress lead to success?"
 date: '2014-05-21T09:00:36-05:00'
 status: publish
 path: /success-factors-does-high-school-stress-lead-to-success
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1933
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
 tag: []
 post_format: []
 ---
-For lots of reasons that I went over in some of my previous posts, we started questioning [if our kid should be taking a full load of AP classes starting with this first post.](http://192.168.1.34:4945/?p=1903 "success factors: 1") We were wondering if a success factor in high school was taking a full AP load. So I continued asking more questions about AP classes and class rank at our school. Here are some of the things I learned.
+For lots of reasons that I went over in some of my previous posts, we started questioning [if our kid should be taking a full load of AP classes starting with this first post.](http://192.168.1.34:4945/draft1903 "success factors: 1") We were wondering if a success factor in high school was taking a full AP load. So I continued asking more questions about AP classes and class rank at our school. Here are some of the things I learned.
 
 Like a lot of schools, our students have essentially two GPAs.
 
@@ -73,4 +73,4 @@ Con
 - High levels of stress.
 - Possibly a lower GPA (non-adjusted GPA) that will affect academic scholarships.
 
-In short, there are no guaranteed rewards for taking a full AP load. And, are kids missing out on sleep? Are they missing out on a chance to develop and interest that will help them to develop into an interesting person? (See the post: [Is a heavy load of Advanced Placement Classes the only Path to Success?](http://192.168.1.34:4945/?p=1919 "success factors: 2")) Are heavy advanced placement course loads leading to high stress in teens?
+In short, there are no guaranteed rewards for taking a full AP load. And, are kids missing out on sleep? Are they missing out on a chance to develop and interest that will help them to develop into an interesting person? (See the post: [Is a heavy load of Advanced Placement Classes the only Path to Success?](http://192.168.1.34:4945/draft1919 "success factors: 2")) Are heavy advanced placement course loads leading to high stress in teens?

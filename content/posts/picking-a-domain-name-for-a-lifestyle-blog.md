@@ -1,5 +1,5 @@
 ---
-title: Picking a domain name for a lifestyle blog or mommy blog
+title: "Picking a domain name for a lifestyle blog or mommy blog"
 date: '2015-05-14T14:25:06-05:00'
 status: publish
 path: /picking-a-domain-name-for-a-lifestyle-blog
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 3159
-thumbnail: ../uploads/2014/01/wordpress-tutorial-esivy-logo-300-x-150.jpg
+thumbnail: /uploads/2014/01/wordpress-tutorial-esivy-logo-300-x-150.jpg
 category:
     - 'Tech Tutorials'
     - 'Wordpress tutorial'

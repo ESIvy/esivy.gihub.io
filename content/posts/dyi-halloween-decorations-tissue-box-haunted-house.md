@@ -1,5 +1,5 @@
 ---
-title: Make Your Own Halloween Decorations: Tissue box haunted house
+title: "Make Your Own Halloween Decorations: Tissue box haunted house"
 date: '2013-10-24T12:00:26-05:00'
 status: publish
 path: /dyi-halloween-decorations-tissue-box-haunted-house
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1101
-thumbnail: ../uploads/2013/10/tissue-box-haunted-house-150-x-150.jpg
+thumbnail: /uploads/2013/10/tissue-box-haunted-house-150-x-150.jpg
 category:
     - Crafts
     - Halloween
@@ -15,7 +15,7 @@ category:
 tag: []
 post_format: []
 ---
-![tissue box haunted house](../uploads/2013/10/tissue-box-haunted-house-350-x-525.jpg)It’s fun when your kids can help you make your won Halloween decorations. I came up with this idea years ago and it was one of the crafts that I had published in [Family Fun Magazine. ](http://www.parents.com/familyfun-magazine/) At the time, it was owned by Disney, and it was fun to deposit checks from Disney in the bank. 🙂
+![tissue box haunted house](/uploads/2013/10/tissue-box-haunted-house-350-x-525.jpg)It’s fun when your kids can help you make your won Halloween decorations. I came up with this idea years ago and it was one of the crafts that I had published in [Family Fun Magazine. ](http://www.parents.com/familyfun-magazine/) At the time, it was owned by Disney, and it was fun to deposit checks from Disney in the bank. 🙂
 
 I usually did up several crafts and then sent them photos of them. If they liked one, I’d write up the directions and mail them the sample I made, if requested. Since I was making lots of crafts and not blogging back in those days, I didn’t take photos of every step, but they did! If you have trouble following the directions, scroll down to the link to the photos that were published in the magazine.
 

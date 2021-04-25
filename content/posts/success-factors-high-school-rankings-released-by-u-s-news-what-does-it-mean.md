@@ -1,5 +1,5 @@
 ---
-title: Success factors: High school rankings released by U.S. News: What do they mean?
+title: "Success factors: High school rankings released by U.S. News: What do they mean?"
 date: '2014-04-25T11:26:24-05:00'
 status: publish
 path: /success-factors-high-school-rankings-released-by-u-s-news-what-does-it-mean
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2058
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
@@ -24,7 +24,7 @@ According to U.S. News, the rankings are based on *“overall student performanc
 
 So basically, the schools are ranked according to how schools perform on standardized tests. Because even AP tests, for all their lofty standards, are still just standardized tests. It also means that it ranks high schools only by how well they prepare students for college, not on how well they prepare students for life, careers, or creating their own jobs. All things I’m thinking about with what I want my kids to get out of their high school experience.
 
-The fact that the ranking is based directly on how the schools performed on AP tests got my attention, because I’ve really been trying to figure out [if a heavy load of advanced placement courses is the best path to success](http://192.168.1.34:4945/?p=1919) or [if the answer to success is to not take a full load of advanced placement courses.](http://192.168.1.34:4945/?p=1920)
+The fact that the ranking is based directly on how the schools performed on AP tests got my attention, because I’ve really been trying to figure out [if a heavy load of advanced placement courses is the best path to success](http://192.168.1.34:4945/draft1919) or [if the answer to success is to not take a full load of advanced placement courses.](http://192.168.1.34:4945/draft1920)
 
 I couldn’t help but contrast this to a [TED Radio Hour](http://www.npr.org/programs/ted-radio-hour/) I recently listened to, that challenges how modern society defines success: [Ted Radio Hour, Success.](http://www.npr.org/2013/10/25/240777690/success) You can also find the TED Radio Hour on itunes. I listened to it using the app [IPP Podcast](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app) on my android phone. In particular it made me think of the points that [Angela Duckworth](https://sites.sas.upenn.edu/duckworth) measures success more by “grit.” I’ve encountered her research in my reading about education. It also made me think of the assertion of [Mike Rowe](http://mikerowe.com/) from [Dirty Jobs](http://www.discovery.com/tv-shows/dirty-jobs) that the way we define success means that society is now in dire need to train people with skills.
 

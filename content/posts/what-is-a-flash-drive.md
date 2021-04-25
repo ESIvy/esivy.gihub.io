@@ -1,5 +1,5 @@
 ---
-title: What is a flash drive? Tutorial on removable, external, computer file storage
+title: "What is a flash drive? Tutorial on removable, external, computer file storage"
 date: '2014-10-21T11:30:12-05:00'
 status: publish
 path: /what-is-a-flash-drive
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2448
-thumbnail: ../uploads/2013/02/spoonface-150-x-150.jpg
+thumbnail: /uploads/2013/02/spoonface-150-x-150.jpg
 category:
     - 'Scrivener Tutorial'
     - 'Tech Tutorials'
 tag: []
 post_format: []
 ---
-[![types of computer storage media](../uploads/2014/10/storage-collage-300x699.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/10/storage-collage-300x699.jpg)What is a flash drive?
+[![types of computer storage media](/uploads/2014/10/storage-collage-300x699.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/10/storage-collage-300x699.jpg)What is a flash drive?
 
 Are you asking that question? If you’re still feeling lost without a floppy disk to safely back up your computer files, you’ll find this quick tutorial on the current types of external, removable storage media handy.
 

@@ -1,5 +1,5 @@
 ---
-title: Did you have roast beast for Christmas dinner?
+title: "Did you have roast beast for Christmas dinner?"
 date: '2013-01-09T10:00:33-06:00'
 status: publish
 path: /did-you-have-roast-beast-for-christmas-dinner
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 515
-thumbnail: ../uploads/2013/01/crystal-150-x-189.jpg
+thumbnail: /uploads/2013/01/crystal-150-x-189.jpg
 category:
     - Entertaining
     - Other
@@ -18,7 +18,7 @@ publicize_twitter_user:
 simplecatch-sidebarlayout:
     - ''
 ---
-<div class="wp-caption alignright" id="attachment_520" style="width: 310px">[![The roast beast at our Christmas dinner this year. Oops! My china is a bit uncoordinated.](../uploads/2013/01/roast2.jpg?w=300)](http://192.168.1.34:4945/wp-content/uploads/2013/01/roast2.jpg)The roast beast at our Christmas dinner this year. Oops! My china is a bit uncoordinated.
+<div class="wp-caption alignright" id="attachment_520" style="width: 310px">[![The roast beast at our Christmas dinner this year. Oops! My china is a bit uncoordinated.](/uploads/2013/01/roast2.jpg?w=300)](http://192.168.1.34:4945/wp-conte/uploads/2013/01/roast2.jpg)The roast beast at our Christmas dinner this year. Oops! My china is a bit uncoordinated.
 
 </div>Growing up, we always had turkey and dressing for Christmas dinner. Turkey for Thanksgiving, turkey for Christmas.
 

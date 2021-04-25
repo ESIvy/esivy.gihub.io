@@ -1,5 +1,5 @@
 ---
-title: Nostris blandis iacuit
+title: "Nostris blandis iacuit"
 path: /blog/nostris-blandis
 date: '2019-04-06'
 type: post

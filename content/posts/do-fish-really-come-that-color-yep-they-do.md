@@ -1,5 +1,5 @@
 ---
-title: Do fish really come that color? Yep, they do!
+title: "Do fish really come that color? Yep, they do!"
 date: '2012-10-06T21:18:22-05:00'
 status: publish
 path: /do-fish-really-come-that-color-yep-they-do
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 253
-thumbnail: ../uploads/2012/10/yellow-tang-150-x-150.jpg
+thumbnail: /uploads/2012/10/yellow-tang-150-x-150.jpg
 category:
     - 'All That Glitters'
     - Education
@@ -22,7 +22,7 @@ tagazine-media:
 simplecatch-sidebarlayout:
     - ''
 ---
-<div class="wp-caption alignright" id="attachment_254" style="width: 266px">![](../uploads/2012/10/yellow-tang-arp.jpg "Yellow.tang.arp")Photo By Adrian Pingstone, Wikimedia Commons
+<div class="wp-caption alignright" id="attachment_254" style="width: 266px">![](/uploads/2012/10/yellow-tang-arp.jpg "Yellow.tang.arp")Photo By Adrian Pingstone, Wikimedia Commons
 
 </div>This is a photo of a fish called a yellow tang, like Miri saw at the aquarium park. See the tiny white spot at the base of its tail? That’s the piece of bone that is as sharp as a surgeons scalpel! Another name for tang is surgeonfish.
 

@@ -1,5 +1,5 @@
 ---
-title: Jump start your summer reading! Miri Attwater and the Ocean's Secret 99-cent Sale!
+title: "Jump start your summer reading! Miri Attwater and the Ocean's Secret 99-cent Sale!"
 date: '2014-06-11T09:00:47-05:00'
 status: publish
 path: /jump-start-your-summer-reading-miri-attwater-and-the-oceans-secret-99-cent-sale
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2185
-thumbnail: ../uploads/2014/01/miri-head-149-x-149.jpg
+thumbnail: /uploads/2014/01/miri-head-149-x-149.jpg
 category:
     - Announcements
     - 'The Ocean''s Secret'
@@ -16,7 +16,7 @@ post_format: []
 ---
 To jump start your child’s summer reading, I’m running a 99-cent special on [Miri Attwater and the Ocean’s Secret!](http://www.amazon.com/gp/product/B0087451I2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0087451I2&linkCode=as2&tag=esiv-20&linkId=CH3XVEB7WDMWTFED)
 
-[![ocean's secret cover 190 x 250](../uploads/2012/09/oceans-secret-cover-190-x-250.jpg "ebook sale")](http://www.amazon.com/gp/product/B0087451I2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0087451I2&linkCode=as2&tag=esiv-20&linkId=CH3XVEB7WDMWTFED)
+[![ocean's secret cover 190 x 250](/uploads/2012/09/oceans-secret-cover-190-x-250.jpg "ebook sale")](http://www.amazon.com/gp/product/B0087451I2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0087451I2&linkCode=as2&tag=esiv-20&linkId=CH3XVEB7WDMWTFED)
 
 Summer reading should be fun! *Miri Attwater and the Ocean’s Secret* is a mermaid princess adventure for ages 6-12. Here’s what a few reviewers had to say.
 

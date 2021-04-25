@@ -1,5 +1,5 @@
 ---
-title: Super Easy Strawberry Heart Valentine Cookies
+title: "Super Easy Strawberry Heart Valentine Cookies"
 date: '2013-02-13T10:58:11-06:00'
 status: publish
 path: /super-easy-strawberry-heart-valentine-cookies
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 629
-thumbnail: ../uploads/2013/02/strawberry-heart-cookie-150-x-150.jpg
+thumbnail: /uploads/2013/02/strawberry-heart-cookie-150-x-150.jpg
 category:
     - Cooking
     - Entertaining
@@ -27,7 +27,7 @@ Valentine’s Day is fast approaching! I don’t know about you, but every year 
 
 Sadly, I disappoint myself often. Sometimes, life just gets in the way. I need to remind myself that it doesn’t have to be an all-or-nothing approach!
 
-[![Stawberry Heart Cookies sized](../uploads/2013/02/stawberry-heart-cookies-sized.jpg?w=300)](http://192.168.1.34:4945/wp-content/uploads/2013/02/stawberry-heart-cookies-sized.jpg)So, here’s an idea for those of you who ran out of time or are always more realistic in your expectations! 🙂 These are super easy. And they have fresh strawberries and so they’re healthy. Okay, maybe just healthi-*er.*
+[![Stawberry Heart Cookies sized](/uploads/2013/02/stawberry-heart-cookies-sized.jpg?w=300)](http://192.168.1.34:4945/wp-conte/uploads/2013/02/stawberry-heart-cookies-sized.jpg)So, here’s an idea for those of you who ran out of time or are always more realistic in your expectations! 🙂 These are super easy. And they have fresh strawberries and so they’re healthy. Okay, maybe just healthi-*er.*
 
 These are super fast to make. I made it first with the white candy coating, which makes a really pretty smooth base. Then I realized that I could make them healthier by using cream cheese as the base. I only had regular cream cheese on hand, but you could make it even healthier by using the lighter cream cheese (Neufchatel) and low fat vanilla wafers (Nabisco makes a low fat version for Nilla). I didn’t add anything to the cream cheese to make it extra quick and easy.
 
@@ -80,6 +80,6 @@ candy coating. While the coating is till warm, place one strawberry
 heart on the top.  
 3\. Refrigerate until serving.
 
-[![stictch valentines](../uploads/2013/02/stictch-valentines.jpg?w=150)](http://esivy.wordpress.com/2013/02/08/help-your-little-one-make-their-own-stitching-card-valentines/)Need a quick class Valentines idea? Check out my post [Help your little one make their own stitching card Valentines. ](http://esivy.wordpress.com/2013/02/08/help-your-little-one-make-their-own-stitching-card-valentines/)
+[![stictch valentines](/uploads/2013/02/stictch-valentines.jpg?w=150)](http://esivy.wordpress.com/2013/02/08/help-your-little-one-make-their-own-stitching-card-valentines/)Need a quick class Valentines idea? Check out my post [Help your little one make their own stitching card Valentines. ](http://esivy.wordpress.com/2013/02/08/help-your-little-one-make-their-own-stitching-card-valentines/)
 
-[![Valentine 8 ball answer](../uploads/2013/02/valentine-8-ball-answer2.jpg?w=115)](http://esivy.wordpress.com/2013/02/08/help-your-little-one-make-their-own-stitching-card-valentines/)Need a last minute Valentine Craft or toy idea? Check out my post [Make your Own Valentine Fortune Teller.](http://192.168.1.34:4945/crafts/valentine-fortune-teller/ "Make Your Own Valentine Fortune Teller")
+[![Valentine 8 ball answer](/uploads/2013/02/valentine-8-ball-answer2.jpg?w=115)](http://esivy.wordpress.com/2013/02/08/help-your-little-one-make-their-own-stitching-card-valentines/)Need a last minute Valentine Craft or toy idea? Check out my post [Make your Own Valentine Fortune Teller.](http://192.168.1.34:4945/crafts/valentine-fortune-teller/ "Make Your Own Valentine Fortune Teller")

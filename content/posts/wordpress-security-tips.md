@@ -1,5 +1,5 @@
 ---
-title: WordPress Security Tips for the Beginner
+title: "WordPress Security Tips for the Beginner"
 date: '2015-06-09T13:25:20-05:00'
 status: publish
 path: /wordpress-security-tips
@@ -13,7 +13,7 @@ category:
 tag: []
 post_format: []
 ---
-![Blogging basics - WordPress tutorial, WordPress Security Tips](../uploads/2014/01/wordpress-tutorial-esivy-logo-300-x-150.jpg)Yesterday I attended a WordPress Meetup about basic security presented by [Nick Batik.](http://pleiadesservices.com/about-us/nicholas-r-batik/) WordPress Meetups are awesome free gatherings where developers volunteer to teach others all about WordPress and I’ve been to quite a few. I’m working on a whole series about making a WordPress site (my [How to Install a Favicon on WordPress tutorial](http://192.168.1.34:4945/install-favicon-wordpress/) will also be part of that series), but this security information is too important to keep to myself until I get this site moved and the series completed.
+![Blogging basics - WordPress tutorial, WordPress Security Tips](/uploads/2014/01/wordpress-tutorial-esivy-logo-300-x-150.jpg)Yesterday I attended a WordPress Meetup about basic security presented by [Nick Batik.](http://pleiadesservices.com/about-us/nicholas-r-batik/) WordPress Meetups are awesome free gatherings where developers volunteer to teach others all about WordPress and I’ve been to quite a few. I’m working on a whole series about making a WordPress site (my [How to Install a Favicon on WordPress tutorial](http://192.168.1.34:4945/install-favicon-wordpress/) will also be part of that series), but this security information is too important to keep to myself until I get this site moved and the series completed.
 
 If your site gets hacked, to add to all the other headaches you can get blacklisted by Google. ([Understand Google Website Blacklists](https://sucuri.net/website-security/google-blacklisted-my-website)) You can see Nick’s slides from the presentation on the WPAustin blog, [Revisting WordPress Security.](http://wpaustin.com/2015/06/revisiting-wordpress-security/) There are links to lots of authoritative sites to learn more information. (Note: Currently, the slide program only works in Firefox for me, I can only see the first slide when I use Chrome.) When you’re searching around the web, it’s really helpful to learn where the sites are that you can really trust. That’s one of the things I love about going to these WordPress meetups. But below are are some basic WordPress security tips, practices that even a beginner can easily tackle, that were my take-away from the discussion.
 

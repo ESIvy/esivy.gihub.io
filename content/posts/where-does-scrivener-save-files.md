@@ -1,5 +1,5 @@
 ---
-title: Where does Scrivener save files? Scrivener for Windows
+title: "Where does Scrivener save files? Scrivener for Windows"
 date: '2014-11-06T11:30:19-06:00'
 status: publish
 path: /where-does-scrivener-save-files
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2480
-thumbnail: ../uploads/2014/11/scrivener.jpg
+thumbnail: /uploads/2014/11/scrivener.jpg
 category:
     - 'For Authors'
     - 'Scrivener Tutorial'
 tag: []
 post_format: []
 ---
-![where does scrivener for windows save files](../uploads/2014/10/scriv-where-save-238x602.jpg)Where does [Scrivener for Windows ](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=ZMGLQ6NFASUCCEAW)save files – your working copies?
+![where does scrivener for windows save files](/uploads/2014/10/scriv-where-save-238x602.jpg)Where does [Scrivener for Windows ](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=ZMGLQ6NFASUCCEAW)save files – your working copies?
 
 It seems obvious, I know. But if you were overwhelmed by all of Scrivener’s features and didn’t pay much attention when you created your first project, you might not have paid attention to where your files were being saved.
 
@@ -35,9 +35,9 @@ Designating Where Scrivener for Windows Saves Your Working Copies
 
 2\. To the right of “Where:” choose “Browse” and find where you want to save your Scrivener projects.
 
-The really confusing part is that in Scrivener for Windows, this folder that you just named isn’t going to launch your project when you clicked on it. If you’re having trouble figuring out how to open an exiting Scrivener Project or File in Scrivener for Windows, see my post, [How to Open a Scrivener Project.](http://192.168.1.34:4945/?p=2416)
+The really confusing part is that in Scrivener for Windows, this folder that you just named isn’t going to launch your project when you clicked on it. If you’re having trouble figuring out how to open an exiting Scrivener Project or File in Scrivener for Windows, see my post, [How to Open a Scrivener Project.](http://192.168.1.34:4945/draft2416)
 
-It gets even more confusing because Scrivener also makes automatic backups, and will let you save manual backups, etc. (For more help on that see my tutorial [Scrivener – Safely Saving Scrivener Files and Projects Tutorial.](http://192.168.1.34:4945/?p=2432))
+It gets even more confusing because Scrivener also makes automatic backups, and will let you save manual backups, etc. (For more help on that see my tutorial [Scrivener – Safely Saving Scrivener Files and Projects Tutorial.](http://192.168.1.34:4945/draft2432))
 
 Other Scrivener Resources:
 

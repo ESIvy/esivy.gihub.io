@@ -1,5 +1,5 @@
 ---
-title: Happy Independence Day!
+title: "Happy Independence Day!"
 date: '2015-07-03T09:44:34-05:00'
 status: publish
 path: /independence-day
@@ -14,7 +14,7 @@ category:
 tag: []
 post_format: []
 ---
-![HappyFourth450x271](../uploads/2014/07/HappyFourth450x271.jpg)
+![HappyFourth450x271](/uploads/2014/07/HappyFourth450x271.jpg)
 
 Start your Independence day off right with some patriotic waffles! Whip cream and berries. Mmmm….
 

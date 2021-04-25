@@ -1,5 +1,5 @@
 ---
-title: A kid's' review of Miri Attwater and the Ocean's Secret
+title: "A kid's' review of Miri Attwater and the Ocean's Secret"
 date: '2012-12-24T08:00:07-06:00'
 status: publish
 path: /a-kids-review-of-miri-attwater-and-the-oceans-secret

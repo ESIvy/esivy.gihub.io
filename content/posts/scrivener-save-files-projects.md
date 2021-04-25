@@ -1,5 +1,5 @@
 ---
-title: Scrivener – Safely Saving Scrivener Files and Projects Tutorial
+title: "Scrivener – Safely Saving Scrivener Files and Projects Tutorial"
 date: '2014-10-23T11:30:41-05:00'
 status: publish
 path: /scrivener-save-files-projects
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2432
-thumbnail: ../uploads/2014/11/scrivener.jpg
+thumbnail: /uploads/2014/11/scrivener.jpg
 category:
     - 'For Authors'
     - 'Scrivener Tutorial'
@@ -15,7 +15,7 @@ category:
 tag: []
 post_format: []
 ---
-[![Scrivener - If you're writing your novel in Scrivener, make sure you're backing up your projects! Tutorial on how to safely save and backup and your Scrivener Files.](../uploads/2014/10/scriv-safely-save-238x602.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/10/scriv-safely-save-238x602.jpg)[Scrivener ](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=ZMGLQ6NFASUCCEAW) is an amazing piece of writing software! It’s great for constructing a novel or even keeping track of all your blog posts. But it has a few moving parts.
+[![Scrivener - If you're writing your novel in Scrivener, make sure you're backing up your projects! Tutorial on how to safely save and backup and your Scrivener Files.](/uploads/2014/10/scriv-safely-save-238x602.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/10/scriv-safely-save-238x602.jpg)[Scrivener ](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=ZMGLQ6NFASUCCEAW) is an amazing piece of writing software! It’s great for constructing a novel or even keeping track of all your blog posts. But it has a few moving parts.
 
 At some point in learning how to use it you probably have the urge to GET BACK TO WRITING ALREADY. If you’re at that point, but are smart enough to not start off without being absolutely sure you’re backing up to the right places, I’m going to fully explain how to do that. Or if you’re like me, and hobbled together a backup “somewhere” and mailed yourself backup files “just in case” and were relying on “Recent documents” to find what you’ve been working on – you might have quite a mess. Here’s how to figure out a place to put things.
 
@@ -23,9 +23,9 @@ There seems to be a lot of confusion about how, when, and where Scrivener saves 
 
 Yeah, that was a mistake. Pretty soon I didn’t have any idea where my files actually were on my computer, which were backups, and which were my working copies. Sound familiar? Gee, I hope I’m not the only one!
 
-(For more information on how Scrivener saves your working projects, see my post [How to open an existing Scrivener Windows project](http://192.168.1.34:4945/?p=2416).)
+(For more information on how Scrivener saves your working projects, see my post [How to open an existing Scrivener Windows project](http://192.168.1.34:4945/draft2416).)
 
-I’ve also been doing a lot of tech learning on the web lately, and in addition to my dogged persistence and a need to understand everything down to the finest detail, I have the advantage of a in-house tech expert to explain all the things that software engineers just assume “everybody knows.” Those are the parts that they leave out and I keep hunting for. So there’s quite a bit of explanation in this guide. (If you want just a quick and dirty guide, I’ll post that later as [Safely Saving files and Backing up your work in Scrivener, a quick guide](http://192.168.1.34:4945/?p=2481). \[Link will work after post goes live.\]) I work on a Windows PC, but from what I’ve read you should be able to follow this flow with the Mac as well.
+I’ve also been doing a lot of tech learning on the web lately, and in addition to my dogged persistence and a need to understand everything down to the finest detail, I have the advantage of a in-house tech expert to explain all the things that software engineers just assume “everybody knows.” Those are the parts that they leave out and I keep hunting for. So there’s quite a bit of explanation in this guide. (If you want just a quick and dirty guide, I’ll post that later as [Safely Saving files and Backing up your work in Scrivener, a quick guide](http://192.168.1.34:4945/draft2481). \[Link will work after post goes live.\]) I work on a Windows PC, but from what I’ve read you should be able to follow this flow with the Mac as well.
 
 (When I refer to “saving projects,” I might also use the term “saving files,” because if you aren’t really familiar with Scrivener that’s probably what you’re calling Scrivener projects – files or documents.)
 
@@ -37,7 +37,7 @@ Where do you want to save your Scrivener files, or Scrivener projects?
 I wanted to save my Scrivener files 3 places to have working copies and backups:
 
 - my laptop hard drive
-- a removable copy on a flashdrive, USB stick, or memory card (For more information, see my post: [Types of removable storage media](http://192.168.1.34:4945/?p=2448) )
+- a removable copy on a flashdrive, USB stick, or memory card (For more information, see my post: [Types of removable storage media](http://192.168.1.34:4945/draft2448) )
 - in the cloud
 
 #### What does storing “in the cloud” mean?
@@ -137,7 +137,7 @@ How to Safely Save and Backup your Scrivener Files or Projects
 
 When you start a project, be sure you pick a location to save it on your computer where you can find it again. When you create your project, the right of “Where:” choose “Browse” and find where you want to save your Scrivener projects.
 
-As I said above, I’m going to think of these files as being just “on my hard drive,” but I want it to be on a part of my computer hard drive that’s backed up to the cloud. So for me, I’m going to browse to the folder for saving my working Scrivener files that I’ve set up in my documents folder inside my folder that Dropbox monitors. ([How to automatically backup your documents folder to DropBox](http://192.168.1.34:4945/?p=2494)) If you’re not backing this copy up, just put it somewhere you can find on your hard drive, probably your Documents folder.
+As I said above, I’m going to think of these files as being just “on my hard drive,” but I want it to be on a part of my computer hard drive that’s backed up to the cloud. So for me, I’m going to browse to the folder for saving my working Scrivener files that I’ve set up in my documents folder inside my folder that Dropbox monitors. ([How to automatically backup your documents folder to DropBox](http://192.168.1.34:4945/draft2494)) If you’re not backing this copy up, just put it somewhere you can find on your hard drive, probably your Documents folder.
 
 2. Set Scrivener’s auto-backup location
 ---------------------------------------
@@ -162,7 +162,7 @@ This will be your 25 most recent backups.
 
 9\. What you have should now look like this:
 
-![scrivener backup menu](../uploads/2015/10/Scrivener-backup-settings.jpg)
+![scrivener backup menu](/uploads/2015/10/Scrivener-backup-settings.jpg)
 
 10\. To the right of “Backup location” click the button that says “Choose…”.
 
@@ -188,7 +188,7 @@ That’s it! I just have to remember to do it…
 More Scrivener Tutorials and Guides
 ===================================
 
-And now you know how to save your files safely and know exactly where they’re saved. If you need help figuring out how to open an existing Scrivener file now that you’ve saved it and know where to find it, see my post on [How to open an existing Scrivener for Windows project.](http://192.168.1.34:4945/?p=2416)
+And now you know how to save your files safely and know exactly where they’re saved. If you need help figuring out how to open an existing Scrivener file now that you’ve saved it and know where to find it, see my post on [How to open an existing Scrivener for Windows project.](http://192.168.1.34:4945/draft2416)
 
 For instructions on how to open a project from a zip file, see [Gwen Hernandez’ post: Automatic Backups with Scrivener 2.X](http://gwenhernandez.com/2011/01/11/tech-tuesday-automatic-backups-with-scrivener-2-x/) and scroll down to “Restoring a Project from a Backup File”
 

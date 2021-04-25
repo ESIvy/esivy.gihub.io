@@ -1,5 +1,5 @@
 ---
-title: Fish Cleaning Station – Yes, fish cleaning stations like in Miri Attwater and All That Glitters really exist
+title: "Fish Cleaning Station – Yes, fish cleaning stations like in Miri Attwater and All That Glitters really exist"
 date: '2014-02-12T09:00:12-06:00'
 status: publish
 path: /fish-cleaning-station
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1825
-thumbnail: ../uploads/2014/02/Fish-cleaning_station_konan-By-Brocken-Inaglory-via-Wikimedia-commons-150x150.jpg
+thumbnail: /uploads/2014/02/Fish-cleaning_station_konan-By-Brocken-Inaglory-via-Wikimedia-commons-150x150.jpg
 category:
     - 'All That Glitters'
     - 'Behind the Books'
@@ -17,7 +17,7 @@ category:
 tag: []
 post_format: []
 ---
-<div class="wp-caption alignleft" id="attachment_1817" style="width: 522px">![fish cleaning station](../uploads/2014/02/Fish-cleaning_station_konan-By-Brocken-Inaglory-via-Wikimedia-commons-.jpg)A dragon wrasse being cleaned by Rainbow cleaner wrasses on a reef in Hawaii. By Brocken Inaglory (Own work) via Wikimedia Commons;
+<div class="wp-caption alignleft" id="attachment_1817" style="width: 522px">![fish cleaning station](/uploads/2014/02/Fish-cleaning_station_konan-By-Brocken-Inaglory-via-Wikimedia-commons-.jpg)A dragon wrasse being cleaned by Rainbow cleaner wrasses on a reef in Hawaii. By Brocken Inaglory (Own work) via Wikimedia Commons;
 
 </div>When I started writing the Miri Attwater books, I wasn’t planning on doing any research. They were fantasy, after all. I could make up anything I wanted. But when I started writing the underwater scenes, they felt flat and dim. They didn’t have the vividness I remembered from my snorkeling trips. It seemed like a great excuse to do some research! So I started watching movies about ocean life.
 
@@ -31,7 +31,7 @@ Fish cleaning fish, fish cleaning sharks, fish cleaning rays, shrimp cleaning fi
 
 Fish cleaning stations are many and varied, and at each cleaning station different protocols have developed. At one turtle cleaning station I saw in a video, the turtles signal their desire to be cleaned by swimming on their heads! And shrimp have even cleaned the teeth and fingers of willing scuba divers.
 
-The idea for the scene where Miri and Fisk let fish eat algae off of them came from these fish cleaning stations. But when I started looking for videos to show in for this post, I realized I’d made a slight mistake in that scene. I’ll talk about it in next week’s post: [Cleaner Fish – more than you thought you wanted to know.](http://192.168.1.34:4945/?p=1827) (Link won’t be live until post is published.)
+The idea for the scene where Miri and Fisk let fish eat algae off of them came from these fish cleaning stations. But when I started looking for videos to show in for this post, I realized I’d made a slight mistake in that scene. I’ll talk about it in next week’s post: [Cleaner Fish – more than you thought you wanted to know.](http://192.168.1.34:4945/draft1827) (Link won’t be live until post is published.)
 
 Want to learn more?
 
@@ -41,7 +41,7 @@ Read more about [the yellow tang at iNaturalist.org.](http://www.inaturalist.org
 
 Read more about [the goldring surgeonfish on iNaturalist.org.](http://www.inaturalist.org/taxa/47617-Ctenochaetus-strigosus)
 
-Read more about [wrasses on MarinelifePhotography.com](http://www.marinelifephotography.com/fishes/wrasses/wrasses.htm) and about [Mutualism and The Cleaner Wrasse from UH Biology.](http://uhbiology.kahikai.org/?p=611)
+Read more about [wrasses on MarinelifePhotography.com](http://www.marinelifephotography.com/fishes/wrasses/wrasses.htm) and about [Mutualism and The Cleaner Wrasse from UH Biology.](http://uhbiology.kahikai.org/draft611)
 
 [Cleaner Fish wear Uniforms on NationalGeographic.com](http://news.nationalgeographic.com/news/2009/08/090820-cleaner-fish.html) is also about wrasses.
 

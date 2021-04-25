@@ -1,5 +1,5 @@
 ---
-title: Miri Attwater and the Ocean's Secret
+title: "Miri Attwater and the Ocean's Secret"
 date: '2012-09-30T15:57:04-05:00'
 status: publish
 path: /miri-attwater-and-the-oceans-secret
@@ -14,9 +14,9 @@ switch_like_status:
 simplecatch-sidebarlayout:
     - ''
 ---
-<div class="wp-caption alignleft" id="attachment_163" style="width: 135px">![1st edition](../uploads/2012/10/underwater_1250x200014-e1349056293248.jpg)1st edition
+<div class="wp-caption alignleft" id="attachment_163" style="width: 135px">![1st edition](/uploads/2012/10/underwater_1250x200014-e1349056293248.jpg)1st edition
 
-</div><div class="wp-caption alignleft" id="attachment_1536" style="width: 200px">[![ocean's secret cover 190 x 250](../uploads/2012/09/oceans-secret-cover-190-x-250.jpg)](http://www.amazon.com/gp/product/B0087451I2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0087451I2&linkCode=as2&tag=esiv-20 "Buy it on Amazon!")2nd edition
+</div><div class="wp-caption alignleft" id="attachment_1536" style="width: 200px">[![ocean's secret cover 190 x 250](/uploads/2012/09/oceans-secret-cover-190-x-250.jpg)](http://www.amazon.com/gp/product/B0087451I2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0087451I2&linkCode=as2&tag=esiv-20 "Buy it on Amazon!")2nd edition
 
 </div>**Miri’s parents didn’t mean to keep it a secret. It’s just that when she started talking, she was as chittery as a dolphin. So they put off telling her. Oh, she knew she was adopted, liked her food extra salty, and could hold her breath an unbelievably long time. But she never would have dreamed it meant she was a mermaid.**
 

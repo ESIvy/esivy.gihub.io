@@ -1,5 +1,5 @@
 ---
-title: An Easy Way to Dress Up an Easter Basket for your Little Girl
+title: "An Easy Way to Dress Up an Easter Basket for your Little Girl"
 date: '2013-03-26T09:44:41-05:00'
 status: publish
 path: /an-easy-way-to-dress-up-an-easter-basket-for-your-little-girl
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 670
-thumbnail: ../uploads/2013/03/Easter-basket-150-x-150.jpg
+thumbnail: /uploads/2013/03/Easter-basket-150-x-150.jpg
 category:
     - Crafts
     - 'Seasonal &amp; Holidays'
@@ -24,7 +24,7 @@ simplecatch-sidebarlayout:
 ---
 I adored my Easter basket growing up, which my grandmother had dressed up for me by attaching plastic flowers to it. Now, with all the gorgeous silk floral vines available in craft stores, it’s easier than ever! I made two baskets for my own little girls (now bigger), and they love them just as much.
 
-![DIY Floral decorate Easter baskets](../uploads/2013/03/Easter-baskets-400-x-239.jpg)
+![DIY Floral decorate Easter baskets](/uploads/2013/03/Easter-baskets-400-x-239.jpg)
 
 Flower Covered Easter Baskets
 =============================

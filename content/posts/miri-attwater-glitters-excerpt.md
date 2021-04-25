@@ -1,5 +1,5 @@
 ---
-title: Miri Attwater and All that Glitters – Excerpt
+title: "Miri Attwater and All that Glitters – Excerpt"
 date: '2013-10-05T20:11:00-05:00'
 status: publish
 path: /miri-attwater-glitters-excerpt
@@ -12,7 +12,7 @@ switch_like_status:
 sharing_disabled:
     - '1'
 ---
-[![best books for girls : All That Glitters cover 188 x 250](../uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20)
+[![best books for girls : All That Glitters cover 188 x 250](/uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20)
 
 Chapter 1
 

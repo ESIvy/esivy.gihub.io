@@ -1,5 +1,5 @@
 ---
-title: How to create a Facebook author page, step 2: signing up for the Facebook page
+title: "How to create a Facebook author page, step 2: signing up for the Facebook page"
 date: '2014-03-05T09:00:52-06:00'
 status: publish
 path: /create-facebook-author-page-signing-up-facebook-page
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1302
-thumbnail: ../uploads/2014/01/facebook-logo-145-x-147.jpg
+thumbnail: /uploads/2014/01/facebook-logo-145-x-147.jpg
 category:
     - 'Facebook tutorial'
     - 'Tech Tutorials'
@@ -25,9 +25,9 @@ Specifics for making a Facebook page for Authors
 
 1\. Go to the URL: <https://www.facebook.com/pages/create.php>
 
-[![facebook page creation](../uploads/2014/01/facebook-artist.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/01/facebook-artist.jpg)<span style="line-height: 1.714285714; font-size: 1rem;">2. When you get to the step where you pick a brand category, pick “Artist, band, or public figure.” </span>
+[![facebook page creation](/uploads/2014/01/facebook-artist.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/01/facebook-artist.jpg)<span style="line-height: 1.714285714; font-size: 1rem;">2. When you get to the step where you pick a brand category, pick “Artist, band, or public figure.” </span>
 
-<span style="line-height: 1.714285714; font-size: 1rem;">[![facebook page author selection](../uploads/2014/01/facebook-author.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/01/facebook-author.jpg)</span>3. From the drop-down box that appears, select “Author.”
+<span style="line-height: 1.714285714; font-size: 1rem;">[![facebook page author selection](/uploads/2014/01/facebook-author.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/01/facebook-author.jpg)</span>3. From the drop-down box that appears, select “Author.”
 
 (Well, WordPress just won’t make the pretty. Arg. I want you to have the images anyway. Moving on.
 

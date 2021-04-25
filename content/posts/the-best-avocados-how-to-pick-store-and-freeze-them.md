@@ -1,5 +1,5 @@
 ---
-title: The Best Avocados, how to pick, store, and freeze them
+title: "The Best Avocados, how to pick, store, and freeze them"
 date: '2013-02-21T11:00:09-06:00'
 status: publish
 path: /the-best-avocados-how-to-pick-store-and-freeze-them
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 557
-thumbnail: ../uploads/2013/02/avocado-150-x-150.jpg
+thumbnail: /uploads/2013/02/avocado-150-x-150.jpg
 category:
     - Cooking
 tag: []
@@ -23,7 +23,7 @@ Or maybe not.
 
 Moving on…
 
-[![avocado](../uploads/2013/01/avocado.jpg?w=300)](http://192.168.1.34:4945/wp-content/uploads/2013/01/avocado.jpg)Avocados are a staple at our house, just like lettuce and carrots. This isn’t a health blog so I won’t go into all the nutritional benefits or good fat vs. bad fat arguments and potassium content.
+[![avocado](/uploads/2013/01/avocado.jpg?w=300)](http://192.168.1.34:4945/wp-conte/uploads/2013/01/avocado.jpg)Avocados are a staple at our house, just like lettuce and carrots. This isn’t a health blog so I won’t go into all the nutritional benefits or good fat vs. bad fat arguments and potassium content.
 
 Suffice it to say that a taco’s not a taco without guacamole. And a salad is better with chunks of avocado. And avocado is even good on hamburgers. Okay, so I can’t “suffice it to say.” I really love avocados!
 

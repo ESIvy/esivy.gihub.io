@@ -1,5 +1,5 @@
 ---
-title: How to create a facebook author page, step 1- Facebook Profile or Facebook Page?
+title: "How to create a facebook author page, step 1- Facebook Profile or Facebook Page?"
 date: '2014-03-04T09:00:11-06:00'
 status: publish
 path: /how-to-create-a-facebook-author-page
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1294
-thumbnail: ../uploads/2014/01/facebook-logo-145-x-147.jpg
+thumbnail: /uploads/2014/01/facebook-logo-145-x-147.jpg
 category:
     - 'Facebook tutorial'
     - 'For Authors'
@@ -15,7 +15,7 @@ category:
 tag: []
 post_format: []
 ---
-![how to create a facebook author page example cover photo](../uploads/2014/01/facebook-cover-photo-tutorial-on-facebook.jpg "facebook page cover photo")This is the first in a couple of posts that will show you how to create a Facebook author page for an author or book series.
+![how to create a facebook author page example cover photo](/uploads/2014/01/facebook-cover-photo-tutorial-on-facebook.jpg "facebook page cover photo")This is the first in a couple of posts that will show you how to create a Facebook author page for an author or book series.
 
 I know that Facebook’s popularity has been waning. Apparently there have been some changes in their rules that meant that book sales driven by author’s Facebook presence dropped off a cliff. Younger people are said to be leaving Facebook in droves. The number of new users was flat for the first time last year. So why am I taking the time to create a Facebook page?
 
@@ -33,7 +33,7 @@ If you want to know more, here’s a good article I found on profiles vs. pages 
 How to create a Facebook author page, step 1: sign up for a Facebook profile first
 ==================================================================================
 
-[![facebook sign up image](../uploads/2014/01/facebook-sign-up.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/01/facebook-sign-up.jpg)Before we can get started with the instructions for how to create a Facebook author page, you’re going to need to sign up for a Facebook profile. If you’ve never been on Facebook, like me, then you don’t have a Facebook profile. From my research the easiest thing way to create a Facebook page is to first set up a personal profile. You can do this even if you have no intention of telling everyone that you’re at the movies or going out for dinner. I don’t plan to post anything on my profile, but it’s easiest to make a page if you have one first.
+[![facebook sign up image](/uploads/2014/01/facebook-sign-up.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/01/facebook-sign-up.jpg)Before we can get started with the instructions for how to create a Facebook author page, you’re going to need to sign up for a Facebook profile. If you’ve never been on Facebook, like me, then you don’t have a Facebook profile. From my research the easiest thing way to create a Facebook page is to first set up a personal profile. You can do this even if you have no intention of telling everyone that you’re at the movies or going out for dinner. I don’t plan to post anything on my profile, but it’s easiest to make a page if you have one first.
 
 It’s pretty easy to make a Facebook profile. All you have to do is go to [Facebook](https://www.facebook.com/ "Facebook") and sign up. They make the sign up pretty obvious. Right now it’s the entire right half of the page.
 

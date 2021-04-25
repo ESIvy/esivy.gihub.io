@@ -1,5 +1,5 @@
 ---
-title: Up Series – success and satisfaction in life
+title: "Up Series – success and satisfaction in life"
 date: '2015-03-30T10:30:12-05:00'
 status: publish
 path: /up-series-success-and-satisfaction-in-life
@@ -7,13 +7,13 @@ author: ES Ivy
 excerpt: ''
 type: post
 id: 3107
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
   - Education &amp; Success
 tag: []
 post_format: []
 ---
-[![UP Series complete set DVD](../uploads/2015/03/Up-series-388-x-500.jpg)](http://www.amazon.com/gp/product/B00CD6VY6S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CD6VY6S&linkCode=as2&tag=esiv-20&linkId=QGUTIOIU22M5N5OI)Along with my current reading list, I also mentioned that I’ve been watching the [Up Series](http://www.amazon.com/gp/product/B00CD6VY6S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CD6VY6S&linkCode=as2&tag=esiv-20&linkId=QGUTIOIU22M5N5OI) documentaries. The Up documentaries have been a continuing project over the last fifty years, following the lives of 14 children. It was actually Tim who first found this series, and realized that it might have connections to everything I’d been reading about.
+[![UP Series complete set DVD](/uploads/2015/03/Up-series-388-x-500.jpg)](http://www.amazon.com/gp/product/B00CD6VY6S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CD6VY6S&linkCode=as2&tag=esiv-20&linkId=QGUTIOIU22M5N5OI)Along with my current reading list, I also mentioned that I’ve been watching the [Up Series](http://www.amazon.com/gp/product/B00CD6VY6S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CD6VY6S&linkCode=as2&tag=esiv-20&linkId=QGUTIOIU22M5N5OI) documentaries. The Up documentaries have been a continuing project over the last fifty years, following the lives of 14 children. It was actually Tim who first found this series, and realized that it might have connections to everything I’d been reading about.
 
 The series begins with a short film, 7 Up, that was actually meant to be a stand alone documentary showing how a child’s future in Britain was already limited by the age they were 7, simply by the class they were born into. (And yes, I realize I used “they” where I should have used “he,” but I really dislike using only the masculine form in such cases, and he/she is so awkward.) In this first film, it’s rather striking to see how the more affluent children have a pretty good idea of how their life will be charted out, rattling off a long stream of schools they plan to progress through. In contrast, those on the opposite end have only vague ideas of what they’ll be doing in the future. Since it was 1964, the idea of going to the moon was pretty popular, along with more down to earth aspirations, such as being a clerk at Woolworths.
 

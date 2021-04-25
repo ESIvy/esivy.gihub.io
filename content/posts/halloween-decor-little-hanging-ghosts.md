@@ -1,5 +1,5 @@
 ---
-title: Halloween decorations: Little Hanging Ghosts
+title: "Halloween decorations: Little Hanging Ghosts"
 date: '2013-10-26T13:30:59-05:00'
 status: publish
 path: /halloween-decor-little-hanging-ghosts
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1090
-thumbnail: ../uploads/2013/10/hanging-ghosts-150-x-150.jpg
+thumbnail: /uploads/2013/10/hanging-ghosts-150-x-150.jpg
 category:
     - Crafts
     - Halloween
@@ -15,9 +15,9 @@ category:
 tag: []
 post_format: []
 ---
-![ghosts in trees](../uploads/2013/10/ghotsts-in-trees-439-x-350.jpg)Hang these from your trees outside or chandeliers inside for super easy Halloween decorations.
+![ghosts in trees](/uploads/2013/10/ghotsts-in-trees-439-x-350.jpg)Hang these from your trees outside or chandeliers inside for super easy Halloween decorations.
 
-![cloth ghost Halloween decor](../uploads/2013/10/hanging-ghosts-350-x-350.jpg)Directions for Little Hanging Ghosts
+![cloth ghost Halloween decor](/uploads/2013/10/hanging-ghosts-350-x-350.jpg)Directions for Little Hanging Ghosts
 ===================================================================================================================
 
 For each ghost you will need:  

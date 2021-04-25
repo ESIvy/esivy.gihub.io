@@ -1,5 +1,5 @@
 ---
-title: Backing up Scrivener Files – a quick guide to safely saving your files and backups
+title: "Backing up Scrivener Files – a quick guide to safely saving your files and backups"
 date: '2014-11-26T11:30:15-06:00'
 status: publish
 path: /backing-up-scrivener-files
@@ -14,7 +14,7 @@ category:
 tag: []
 post_format: []
 ---
-![scrivener backing up files tutorial](../uploads/2014/10/scriv-quick-backup-238x602.jpg)In this tutorial I’m going take you through the steps for backing up Scrivener files (or projects.) You’re going to save your [Scrivener](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=ZMGLQ6NFASUCCEAW) files three places.
+![scrivener backing up files tutorial](/uploads/2014/10/scriv-quick-backup-238x602.jpg)In this tutorial I’m going take you through the steps for backing up Scrivener files (or projects.) You’re going to save your [Scrivener](http://www.amazon.com/gp/product/B0079KJB54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0079KJB54&linkCode=as2&tag=esiv-20&linkId=ZMGLQ6NFASUCCEAW) files three places.
 
 1\. Save your working copies to your computer hard drive.
 
@@ -25,12 +25,12 @@ post_format: []
 1. Save your working copies to a location you can find again.
 =============================================================
 
-When you start a project, be sure you pick a location to save it on your computer where you can find it again. (For more information, see my post [Where does Scrivener save files? Scrivener for Windows.](http://192.168.1.34:4945/?p=2480))
+When you start a project, be sure you pick a location to save it on your computer where you can find it again. (For more information, see my post [Where does Scrivener save files? Scrivener for Windows.](http://192.168.1.34:4945/draft2480))
 
 1. From the toolbar choose File &gt; New Project… &gt; Blank (or Fiction, etc.)
 2. To the right of “Where:” choose “Browse” and find where you want to save your Scrivener projects.
 
-(I save mine to a folder that’s also automatically backed up to the cloud, specifically DropBox. (For more information, see my posts [What does storage in the cloud mean?](http://192.168.1.34:4945/?p=2496) and [How to backup My Documents with Dropbox](http://192.168.1.34:4945/?p=2494).)
+(I save mine to a folder that’s also automatically backed up to the cloud, specifically DropBox. (For more information, see my posts [What does storage in the cloud mean?](http://192.168.1.34:4945/draft2496) and [How to backup My Documents with Dropbox](http://192.168.1.34:4945/draft2494).)
 
 2. Set Scrivener’s auto-backup location
 =======================================
@@ -45,7 +45,7 @@ When you start a project, be sure you pick a location to save it on your compute
 
 5\. Check “Back up with each manual save.”
 
-6\. Next to “Retain backup files:” select “Only keep 25 most recent backup files” from the drop-down menu activated by clicking on the down arrow to the right. (For my reasoning on picking 25 copies, see my more in-depth tutorial, [Scrivener – Safely Saving Scrivener Files and Projects Tutorial](http://192.168.1.34:4945/?p=2432)).
+6\. Next to “Retain backup files:” select “Only keep 25 most recent backup files” from the drop-down menu activated by clicking on the down arrow to the right. (For my reasoning on picking 25 copies, see my more in-depth tutorial, [Scrivener – Safely Saving Scrivener Files and Projects Tutorial](http://192.168.1.34:4945/draft2432)).
 
 7\. Make sure “compress automatic backups as zip files” is checked. (This will save you room on your backup disk.)
 
@@ -53,13 +53,13 @@ When you start a project, be sure you pick a location to save it on your compute
 
 9\. What you have should now look like this:
 
-![scrivener backup menu](../uploads/2015/10/Scrivener-backup-settings.jpg)
+![scrivener backup menu](/uploads/2015/10/Scrivener-backup-settings.jpg)
 
 10\. To the right of “Backup location” click the button that says “Choose…”.
 
-11\. Browse to find where you want to back up your files, For me, it’s a folder I made specifically for Scrivener backups inside the folder that’s monitored by Dropbox. (For an explanation of Dropbox and storing “in the cloud” see my post [What does storage in the cloud mean?](http://192.168.1.34:4945/?p=2496)).
+11\. Browse to find where you want to back up your files, For me, it’s a folder I made specifically for Scrivener backups inside the folder that’s monitored by Dropbox. (For an explanation of Dropbox and storing “in the cloud” see my post [What does storage in the cloud mean?](http://192.168.1.34:4945/draft2496)).
 
-You could also choose a removable drive. (For more information, see my post [What is a flash drive? Tutorial on removable, external, computer file storage](http://192.168.1.34:4945/?p=2448).)
+You could also choose a removable drive. (For more information, see my post [What is a flash drive? Tutorial on removable, external, computer file storage](http://192.168.1.34:4945/draft2448).)
 
 12\. Select the location you decided to save to.
 
@@ -68,7 +68,7 @@ You could also choose a removable drive. (For more information, see my post [Wha
 3. Backup to a removable copy, done manually once a week.
 =========================================================
 
-This is the backup to a removable memory card, USB stick, or flash drive. (For more information see my post [What is a flash drive? Tutorial on removable, external, computer file storage.](http://192.168.1.34:4945/?p=2448)) This is the backup that I’m going to remember to make manually. And since I can just stick in a new memory card when the first one is full, I can keep an infinite number of copies. So if I discover I accidentally deleted the first half of my novel three months ago, I’ve still got a copy!
+This is the backup to a removable memory card, USB stick, or flash drive. (For more information see my post [What is a flash drive? Tutorial on removable, external, computer file storage.](http://192.168.1.34:4945/draft2448)) This is the backup that I’m going to remember to make manually. And since I can just stick in a new memory card when the first one is full, I can keep an infinite number of copies. So if I discover I accidentally deleted the first half of my novel three months ago, I’ve still got a copy!
 
 1\. Choose File &gt; Back up &gt; Backup to…
 
@@ -78,7 +78,7 @@ This is the backup to a removable memory card, USB stick, or flash drive. (For m
 
 That’s it! I just have to remember to do it…
 
-And now you know the steps for backing up Scrivener files and exactly where Scrivener saves the different types of files. If you need help figuring out how to open an existing Scrivener file now that you’ve saved it and know where to find it, see my post on [How to open an existing Scrivener for Windows project.](http://192.168.1.34:4945/?p=2416)
+And now you know the steps for backing up Scrivener files and exactly where Scrivener saves the different types of files. If you need help figuring out how to open an existing Scrivener file now that you’ve saved it and know where to find it, see my post on [How to open an existing Scrivener for Windows project.](http://192.168.1.34:4945/draft2416)
 
 For instructions on how to open a project from a zip file, see [Gwen Hernandez’ post: Automatic Backups with Scrivener 2.X](http://gwenhernandez.com/2011/01/11/tech-tuesday-automatic-backups-with-scrivener-2-x/) and scroll down to “Restoring a Project from a Backup File”
 

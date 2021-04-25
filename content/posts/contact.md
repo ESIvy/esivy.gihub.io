@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: "Contact"
 date: '2012-09-29T15:14:49-05:00'
 status: publish
 path: /contact

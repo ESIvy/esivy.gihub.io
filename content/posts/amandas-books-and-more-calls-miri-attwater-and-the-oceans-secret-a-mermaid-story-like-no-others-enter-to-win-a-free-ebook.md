@@ -5,7 +5,7 @@ title: >-
 date: '2013-05-12T13:58:53-05:00'
 status: publish
 path: >-
-  /blog/amandas-books-and-more-calls-miri-attwater-and-the-oceans-secret-a-mermaid-story-like-no-others-enter-to-win-a-free-ebook
+  /amandas-books-and-more-calls-miri-attwater-and-the-oceans-secret-a-mermaid-story-like-no-others-enter-to-win-a-free-ebook
 author: ES Ivy
 excerpt: ''
 type: post
@@ -13,7 +13,7 @@ category:
   - Book Reviews
   - Miri Attwater
 ---
-![Children's book week 231x300](../uploads/2013/05/childrens-book-week-231x300.gif)I’m so excited to be a part of my first give-away! To celebrate Children’s Book Week, May 13-19, I’m taking part in a blog hop through [Mother Daughter Book Reviews](http://motherdaughterbookreviews.com/). Renee linked me up with the lovely Tina at [Amanda’s Books and More](http://abooksandmore.blogspot.com/2013/05/5-mermaid-ebooks-giveaway.html).
+![Children's book week 231x300](/uploads/2013/05/childrens-book-week-231x300.gif)I’m so excited to be a part of my first give-away! To celebrate Children’s Book Week, May 13-19, I’m taking part in a blog hop through [Mother Daughter Book Reviews](http://motherdaughterbookreviews.com/). Renee linked me up with the lovely Tina at [Amanda’s Books and More](http://abooksandmore.blogspot.com/2013/05/5-mermaid-ebooks-giveaway.html).
 
 This week, we’ll be giving away FIVE free ebooks of Miri Attwater and the Ocean’s Secret!
 

@@ -1,5 +1,5 @@
 ---
-title: Where's all the sparkly princess stuff?
+title: "Where's all the sparkly princess stuff?"
 date: '2012-10-13T20:12:08-05:00'
 status: publish
 path: /wheres-all-the-sparkly-princess-stuff

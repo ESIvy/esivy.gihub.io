@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: "Welcome to my blog!"
 date: '2012-10-04T15:35:41-05:00'
 status: publish
 path: /welcome-to-my-blog
@@ -24,4 +24,4 @@ Miri Attwater and the Ocean’s Secret is currently available in Amazon! After I
 
 For now I’ll just leave you with a larger version of The Ocean’s Secret to gaze at. I designed the cover and Techno Tim, my resident tech guy, made it a reality. I even got a refresher course in Photoshop and drew in some of the coral! Doesn’t the yellow one in the lower right hand corner look particularly nice?
 
-[![](../uploads/2012/10/underwater_1250x200013-e1349278127252.jpg "large cover 300 x 480")](http://192.168.1.34:4945/wp-content/uploads/2012/10/underwater_1250x200013-e1349278127252.jpg)
+[![](/uploads/2012/10/underwater_1250x200013-e1349278127252.jpg "large cover 300 x 480")](http://192.168.1.34:4945/wp-conte/uploads/2012/10/underwater_1250x200013-e1349278127252.jpg)

@@ -1,24 +1,23 @@
 ---
-title: Netflix The Crown – the Duke of Windsor and Wallis Simpson
+title: "Netflix The Crown – the Duke of Windsor and Wallis Simpson"
 date: '2017-02-07T12:19:36-06:00'
 status: publish
 path: /netflix-the-crown-duke-of-windsor-wallis-simpson
-author: 'ES Ivy'
+author: ES Ivy
 excerpt: ''
 type: post
 id: 3502
-thumbnail: ../uploads/2017/02/The-Crown-Netflix.jpg
+thumbnail: /uploads/2017/02/The-Crown-Netflix.jpg
 category:
-    - 'Behind the Books'
+  - Behind the Books
 tag: []
 post_format: []
 ---
-[![The Duke and Duchess of Windsor - bachground history. How Elizabeth II came to the throne after the abdication of the Duke of Windsor - The Crown - Netflix](../uploads/2017/02/The-Crown-Netflix.jpg)](https://www.netflix.com/title/80025678)I was surprised at first that there was so much about the Duke of Windsor in the Netflix series’ The Crown, since the crown is mainly about the reign of Queen Elizabeth II. The abdication of King Edward VIII happened long before Queen Elizabeth II came to the throne. However, a lot of things that happened early in the reign of Queen Elizabeth II were caused by the crisis when her uncle abdicated. Knowing a bit more about the history of how a former king became the Duke of Windsor might give you a new understanding of the treatment of his story in Netflix The Crown.
+[![The Duke and Duchess of Windsor - bachground history. How Elizabeth II came to the throne after the abdication of the Duke of Windsor - The Crown - Netflix](/uploads/2017/02/The-Crown-Netflix.jpg)](https://www.netflix.com/title/80025678)I was surprised at first that there was so much about the Duke of Windsor in the Netflix series’ The Crown, since the crown is mainly about the reign of Queen Elizabeth II. The abdication of King Edward VIII happened long before Queen Elizabeth II came to the throne. However, a lot of things that happened early in the reign of Queen Elizabeth II were caused by the crisis when her uncle abdicated. Knowing a bit more about the history of how a former king became the Duke of Windsor might give you a new understanding of the treatment of his story in Netflix The Crown.k
 
 <span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="360" src="https://www.youtube.com/embed/JWtnJjn6ng0?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" width="640"></iframe></span>
 
-The Duke of Windsor and Wallis Simpson
-======================================
+# The Duke of Windsor and Wallis Simpson
 
 <span style="font-weight: 400;">My mother had a fascination with the British monarchy that started in her childhood. She also likes to read (and understatement) and would entertain us with stories from history she had read. So I knew from her that Queen Elizabeth II was only Queen because her uncle gave up the throne to marry an American divorcee.</span>
 
@@ -30,15 +29,13 @@ The Duke of Windsor and Wallis Simpson
 
 As I read about the evolution of the British Monarchy, I discovered that he hadn’t disappeared after all. In fact, during WWII there were rumors about the Duke of Windsor plotting with Hitler to put the Duke back on the throne. I began to think that studying his biography might provide some interesting motivation and actions for some characters in my children’s fantasy series that included royalty. ([Miri Attwater Mermaid Princess series.](http://amzn.to/2kBpjqI)) In any case, it was a convenient excuse to read some interesting history!
 
-Different books give different views of the Duke of Windsor and Wallis Simpson
-------------------------------------------------------------------------------
+## Different books give different views of the Duke of Windsor and Wallis Simpson
 
-<span style="font-weight: 400;"> I started with </span>*<span style="font-weight: 400;">King Edward VIII: A Biography</span>*<span style="font-weight: 400;"> by Philip Ziegler. Then I decided to read a second, because it bothers me that an author is </span>*<span style="font-weight: 400;">always</span>*<span style="font-weight: 400;"> biased. Sometimes intentionally, sometimes not. And how can I come to an honest conclusion for myself if I don’t consider different sides? So I decided to read another book just to get another point of view. And oh, while I’m at it, I’m not sure which book will be the best, so I’ll just check out everything the library has and read what I want. And before I knew it I had read not one book on the Duke of Windsor, but six. (For a full list and links, see below.)</span>
+<span style="font-weight: 400;"> I started with </span>_<span style="font-weight: 400;">King Edward VIII: A Biography</span>_<span style="font-weight: 400;"> by Philip Ziegler. Then I decided to read a second, because it bothers me that an author is </span>_<span style="font-weight: 400;">always</span>_<span style="font-weight: 400;"> biased. Sometimes intentionally, sometimes not. And how can I come to an honest conclusion for myself if I don’t consider different sides? So I decided to read another book just to get another point of view. And oh, while I’m at it, I’m not sure which book will be the best, so I’ll just check out everything the library has and read what I want. And before I knew it I had read not one book on the Duke of Windsor, but six. (For a full list and links, see below.)</span>
 
 <span style="font-weight: 400;">Ridiculous, I know. What need do I have to be an authority on the Duke of Windsor? But along the way I also gained interesting insights into how World War II came about the maneuvering of royalty and government. I was impressed by how personal lives can affect the direction of almost the entire world. Following is a summary of what seemed to me to be the interesting points about the Duke of Windsor’s life.</span>
 
-How to follow British Royal Titles when reading about the Duke of Windsor and Wallis Simpson
---------------------------------------------------------------------------------------------
+## How to follow British Royal Titles when reading about the Duke of Windsor and Wallis Simpson
 
 <span style="font-weight: 400;">Technically, when you write about royalty, your are supposed to use the correct title for people for the period of time you are covering. This means that the same person can be referred to with multiple different names in the same book, even the same paragraph! </span>
 
@@ -46,16 +43,15 @@ How to follow British Royal Titles when reading about the Duke of Windsor and Wa
 
 <span style="font-weight: 400;">If you were to read an official biography about Edward Albert Christian George Andrew Patrick David, he would be referred to as “David” by his family and in the book during his childhood. As he got older he would also temporarily be called the Prince of Wales, while his father George V is on the throne. Then he is temporarily King Edward the VIII. And finally he’s the Duke of Windsor after his abdication. Just to confuse you more, early in the book his father and grandfather would also be called the Prince of Wales at different times. So, to keep things simple, I will continually refer to him as the Duke of Windsor. That’s the title he held at his death.</span>
 
-A short history of the Duke of Windsor and Wallis Simpson
----------------------------------------------------------
+## A short history of the Duke of Windsor and Wallis Simpson
 
 ### The Abdication of the Duke of Windsor
 
-<span style="font-weight: 400;">To begin with, the Duke of Windsor didn’t give up the throne </span>*<span style="font-weight: 400;">before</span>*<span style="font-weight: 400;"> he became King. He already </span>*<span style="font-weight: 400;">was</span>*<span style="font-weight: 400;"> King and had been King for several months. But he did give up the throne before he was </span>*<span style="font-weight: 400;">crowned </span>*<span style="font-weight: 400;">king. The Duke of Windsor automatically became King on the death of his father, King George V. Modern coronations being what they are, you can’t organize one in a week. It takes a little more than a year. So he was King Edward VIII, for a little less than a year before he abdicated and give up the throne.</span>
+<span style="font-weight: 400;">To begin with, the Duke of Windsor didn’t give up the throne </span>_<span style="font-weight: 400;">before</span>_<span style="font-weight: 400;"> he became King. He already </span>_<span style="font-weight: 400;">was</span>_<span style="font-weight: 400;"> King and had been King for several months. But he did give up the throne before he was </span>_<span style="font-weight: 400;">crowned </span>_<span style="font-weight: 400;">king. The Duke of Windsor automatically became King on the death of his father, King George V. Modern coronations being what they are, you can’t organize one in a week. It takes a little more than a year. So he was King Edward VIII, for a little less than a year before he abdicated and give up the throne.</span>
 
 ### Wallis Simpson, a married woman
 
-<span style="font-weight: 400;">The Duke of Windsor also didn’t abdicate to marry a divorced American woman. He gave up his crown to marry a </span>*<span style="font-weight: 400;">married</span>*<span style="font-weight: 400;"> woman, Wallis Simpson. Her divorce was in process when he abdicated, but Mrs. Simpson (as she came to be known) was still married. Okay, technically I guess she was already “a divorced woman” because this was her second marriage. She’d already been divorced once. But the point is that the whole time they were dating, or courting, or whatever you want to call it, Wallis Simpson was married. In fact, the Duke of Windsor had a history of dating married women.</span>
+<span style="font-weight: 400;">The Duke of Windsor also didn’t abdicate to marry a divorced American woman. He gave up his crown to marry a </span>_<span style="font-weight: 400;">married</span>_<span style="font-weight: 400;"> woman, Wallis Simpson. Her divorce was in process when he abdicated, but Mrs. Simpson (as she came to be known) was still married. Okay, technically I guess she was already “a divorced woman” because this was her second marriage. She’d already been divorced once. But the point is that the whole time they were dating, or courting, or whatever you want to call it, Wallis Simpson was married. In fact, the Duke of Windsor had a history of dating married women.</span>
 
 ### The Duke of Windsor and his birthright
 
@@ -67,7 +63,7 @@ A short history of the Duke of Windsor and Wallis Simpson
 
 <span style="font-weight: 400;">Meanwhile, both of the Duke of Windsor’s serious relationships were with married women. This wasn’t uncommon among the nobles he was surrounded by. At a time when it was difficult for women to hold jobs and make money of their own, marriages were often their “careers.” They were the means to consolidate or preserve wealth. When the nobles in Britain started running out of money, newly wealthy American girls crossed the Atlantic and married for a tiara in exchange for a fortune that helped their husbands hold onto the family estate. Everyone thus having done their duty, no one saw any reason why they shouldn’t have a little fun afterward. Courting before the marriage was a business negotiation. Dating after marriage was the romance.</span>
 
-<span style="font-weight: 400;">The difference was that the Duke always wanted to </span>*<span style="font-weight: 400;">marry</span>*<span style="font-weight: 400;"> the married woman he was “dating.” He thought it was dishonorable not to. Until Wallis Simpson, neither of the British married women he dated let him get very far with that thought. They understood too well that it would not only jeopardize his position, but threaten the stability of the country. They probably also didn’t want to spoil the fun.</span>
+<span style="font-weight: 400;">The difference was that the Duke always wanted to </span>_<span style="font-weight: 400;">marry</span>_<span style="font-weight: 400;"> the married woman he was “dating.” He thought it was dishonorable not to. Until Wallis Simpson, neither of the British married women he dated let him get very far with that thought. They understood too well that it would not only jeopardize his position, but threaten the stability of the country. They probably also didn’t want to spoil the fun.</span>
 
 ### The history of Wallis Simpson
 
@@ -93,7 +89,7 @@ A short history of the Duke of Windsor and Wallis Simpson
 
 ### The Problem with Wallis Simpson
 
-<span style="font-weight: 400;">But as Anne Sheba perhaps explained the best in her book, </span>*<span style="font-weight: 400;">That Woman, </span>*<span style="font-weight: 400;">that blase view didn’t apply to most of the population. One of the reasons that divorces were still difficult to obtain in Britain was that with no careers, women usually had no means of support other than a husband. So it was the women who were against Wallis Simpson divorcing even more than the men. The way they saw it, was if the King married a divorced woman, divorce would become more acceptable, and women would be the ones left destitute.</span>
+<span style="font-weight: 400;">But as Anne Sheba perhaps explained the best in her book, </span>_<span style="font-weight: 400;">That Woman, </span>_<span style="font-weight: 400;">that blase view didn’t apply to most of the population. One of the reasons that divorces were still difficult to obtain in Britain was that with no careers, women usually had no means of support other than a husband. So it was the women who were against Wallis Simpson divorcing even more than the men. The way they saw it, was if the King married a divorced woman, divorce would become more acceptable, and women would be the ones left destitute.</span>
 
 ### The negotiations to marry Wallis Simpson
 
@@ -175,7 +171,7 @@ You have to remember that all this was going on as Hitler was flaunting the powe
 
 <span style="font-weight: 400;">The Duke and Duchess settled in France, but they spent almost half of every year in the United States. Having discarded their own royalty centuries before (starting with Marie Antoinette’s husband), France was now a haven for discarded royalty of other countries. France didn’t require the Duke and Duchess to pay taxes, provided personal security, and eventually gave them a mansion in Paris almost rent free.</span>
 
-<span style="font-weight: 400;">In the minds of the Duke and Duchess, the Duke – as a former King and still royalty – had to live at a certain standard to which he had become accustomed. He didn’t even know how to pack his own suitcase, after all. They considered themselves poor and were always afraid of running out of money, but bought luxury items and kept a staff that seemed to be at odds with that. (See </span>*<span style="font-weight: 400;">The Jewels of the Duchess of Windsor,</span>*<span style="font-weight: 400;"> by John Culme and Nicholas Rayner, to get an idea of what I mean. That really makes their wealth concrete.)</span>
+<span style="font-weight: 400;">In the minds of the Duke and Duchess, the Duke – as a former King and still royalty – had to live at a certain standard to which he had become accustomed. He didn’t even know how to pack his own suitcase, after all. They considered themselves poor and were always afraid of running out of money, but bought luxury items and kept a staff that seemed to be at odds with that. (See </span>_<span style="font-weight: 400;">The Jewels of the Duchess of Windsor,</span>_<span style="font-weight: 400;"> by John Culme and Nicholas Rayner, to get an idea of what I mean. That really makes their wealth concrete.)</span>
 
 ### The Duke and Duchess of Windsor, a great love story?
 
@@ -187,60 +183,57 @@ You have to remember that all this was going on as Hitler was flaunting the powe
 
 <span style="font-weight: 400;">Commitment is what keeps marriages going for the long haul, after all. Maybe the definition of a great romance isn’t happily ever after, but the length of the ever after. By that definition, the Duke of Windsor and Wallis Simpson did have a great romance. </span>
 
-Who’s to blame for the abdication?
-----------------------------------
+## Who’s to blame for the abdication?
 
 <span style="font-weight: 400;">As I read about the quibbles after the abdication, one of the things that bothered me was the constant refrain of the Duke and Duchess that they hadn’t done anything wrong. I won’t even go into the list of possibilities and argue the points. But in the last book I read, something struck me that none of the authors pointed out.</span>
 
 <span style="font-weight: 400;">After his abdication, the Duke gave a speech on the radio. It’s famous for the line “… I have found it impossible to carry the heavy burden of responsibility and to discharge my duties as King … without the support of the woman I love…” But it also contains these lines.</span>
 
-*<span style="font-weight: 400;">“There has never been any constitutional difference between me and \[the Ministers of the Crown\] and between me and Parliament. Bred in the constitutional tradition by my Father, **I should never have allowed any such issue to arise.”** </span>*<span style="font-weight: 400;">(emphasis mine)</span>
+_<span style="font-weight: 400;">“There has never been any constitutional difference between me and \[the Ministers of the Crown\] and between me and Parliament. Bred in the constitutional tradition by my Father, **I should never have allowed any such issue to arise.”** </span>_<span style="font-weight: 400;">(emphasis mine)</span>
 
 <span style="font-weight: 400;">In the end, the Duke of Windsor abdicated when it became clear that his personal decision was leading to the instability of the government. But unlike his brother, King George VI, he wasn’t willing to give up personal happiness for his country. And maybe he couldn’t. But at least once, and publicly, he was willing to acknowledge his mistake.</span>
 
 UPDATE: Newly unclassified documents show that the government of Great Britain was sorried enough that Wallis Simpson might be a spy and the fascist leaning of the then King Edward VIII that they wire-tapped the King’s phone. You can read more about it in the article [British Spies Tapped King Edward’s Phone to Eavesdrop on Wallis Simpson Calls. ](http://www.nbcnews.com/news/world/british-spies-tapped-king-edward-s-phone-eavesdrop-wallis-simpson-n741906)
 
-The best books about the Duke of Windsor and Wallis Simpson
------------------------------------------------------------
+## The best books about the Duke of Windsor and Wallis Simpson
 
 <span style="font-weight: 400;">You may have noticed that this isn’t a scholarly research paper. I haven’t cited any sources, and the professional writer in me feels a little bit guilty about that. Without any footnotes or any authoritative sources (primary sources, meaning I haven’t researched original documents myself), you probably shouldn’t believe a word you’ve read here. But here’s a list of the books I’ve read:</span>
 
 <span style="font-weight: 400;">If you just want to read one book relatively short book, I suggest:</span>
 
-*<span style="font-weight: 400;">[![that woman - Wallis Simpson](../uploads/2016/11/That-Woman.jpg)That Woman](http://amzn.to/2eZ0o0s),</span>*<span style="font-weight: 400;"> by Anne Sebba.</span>
+_<span style="font-weight: 400;">[![that woman - Wallis Simpson](/uploads/2016/11/That-Woman.jpg)That Woman](http://amzn.to/2eZ0o0s),</span>_<span style="font-weight: 400;"> by Anne Sebba.</span>
 
 <span style="font-weight: 400;">If you want to bring some of the setting and jewelry vividly to life, to get a sense of the riches of the “impoverished” Duke and Duchess of Windsor add:</span>
 
-[![The Jewels of the Duchess of Windsor, Duke of Windsor and Wallis Simpson](../uploads/2016/11/Jewels-of-Duchess-of-Windsor.jpg)](http://amzn.to/2fOZBOA)
+[![The Jewels of the Duchess of Windsor, Duke of Windsor and Wallis Simpson](/uploads/2016/11/Jewels-of-Duchess-of-Windsor.jpg)](http://amzn.to/2fOZBOA)
 
 <span style="font-weight: 400;">[The Jewels of the Duchess of Windsor](http://amzn.to/2fOZBOA) By John Clume and Nicholas Rayner. </span>
 
 <span style="font-weight: 400;">If you want to read a more scholarly work, move on to:</span>
 
-[![Duke of Windsor biography - King Edwards VIII](../uploads/2016/11/Edward-VIII.jpg)](http://amzn.to/2eZ4K7L)
+[![Duke of Windsor biography - King Edwards VIII](/uploads/2016/11/Edward-VIII.jpg)](http://amzn.to/2eZ4K7L)
 
-[*<span style="font-weight: 400;">King Edward VIII: A Biography</span>*](http://amzn.to/2eZ4K7L)<span style="font-weight: 400;"> by Philip Ziegler</span>
+_[<span style="font-weight: 400;">King Edward VIII: A Biography</span>](http://amzn.to/2eZ4K7L)_<span style="font-weight: 400;"> by Philip Ziegler</span>
 
 For a naturally biased view, and the most difficult read, dig into:
 
-[![Duke of Windsor autobiography - A King's Story](../uploads/2016/11/A-Kings-Story.jpg)](http://amzn.to/2fP37Zb)
+[![Duke of Windsor autobiography - A King's Story](/uploads/2016/11/A-Kings-Story.jpg)](http://amzn.to/2fP37Zb)
 
 [A King’s Story: The Memoirs of H.R.H. the Duke of Windsor K.G.](http://amzn.to/2fP37Zb), by the Duke of Windsor
 
-(Interesting how he titled his book not “A Duke’s Story,” but “A *King’s* Story.” It gives you some insight into how he thought of himself and wanted to be seen.)
+(Interesting how he titled his book not “A Duke’s Story,” but “A _King’s_ Story.” It gives you some insight into how he thought of himself and wanted to be seen.)
 
 <span style="font-weight: 400;">Also scholarly, and easier to read but an older book, is:</span>
 
-[<span class="alignnone" style="font-weight: 400;">![The Duke of Windsor - The Windsor story](../uploads/2017/02/21TaQ0rqXrL.jpg)The Windsor Story</span>](http://amzn.to/2fRfcMh)<span style="font-weight: 400;">[,](http://amzn.to/2fRfcMh) by J. Bryan III and Charles J.V. Murphy. </span>
+[<span class="alignnone" style="font-weight: 400;">![The Duke of Windsor - The Windsor story](/uploads/2017/02/21TaQ0rqXrL.jpg)The Windsor Story</span>](http://amzn.to/2fRfcMh)<span style="font-weight: 400;">[,](http://amzn.to/2fRfcMh) by J. Bryan III and Charles J.V. Murphy. </span>
 
 <span style="font-weight: 400;">Finally, for a different point of view read:</span>
 
-[![duchess of windsor](../uploads/2017/02/duchess-of-windsor.jpg)](http://amzn.to/2fP44AM)
+[![duchess of windsor](/uploads/2017/02/duchess-of-windsor.jpg)](http://amzn.to/2fP44AM)
 
-[*<span style="font-weight: 400;">The Duchess of Windsor,</span>*](http://amzn.to/2fP44AM)<span style="font-weight: 400;"> by her friend, Diana Mosley</span>
+_[<span style="font-weight: 400;">The Duchess of Windsor,</span>](http://amzn.to/2fP44AM)_<span style="font-weight: 400;"> by her friend, Diana Mosley</span>
 
-More About Netflix series – The Crown
--------------------------------------
+## More About Netflix series – The Crown
 
 [The Crown – Neflix](https://www.netflix.com/title/80025678)
 

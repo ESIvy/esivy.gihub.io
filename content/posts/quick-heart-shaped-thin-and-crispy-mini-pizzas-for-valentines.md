@@ -1,5 +1,5 @@
 ---
-title: Quick Heart-Shaped Thin and Crispy Mini-Pizzas for Valentine's
+title: "Quick Heart-Shaped Thin and Crispy Mini-Pizzas for Valentine's"
 date: '2013-02-14T09:00:18-06:00'
 status: publish
 path: /quick-heart-shaped-thin-and-crispy-mini-pizzas-for-valentines
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 631
-thumbnail: ../uploads/2013/02/heart-pizza-150-x-150.jpg
+thumbnail: /uploads/2013/02/heart-pizza-150-x-150.jpg
 category:
     - Cooking
     - Entertaining
@@ -21,7 +21,7 @@ publicize_twitter_user:
 simplecatch-sidebarlayout:
     - ''
 ---
-[![mini-pizza hearts sized](../uploads/2013/02/mini-pizza-hearts-sized.jpg?w=300)](http://192.168.1.34:4945/wp-content/uploads/2013/02/mini-pizza-hearts-sized.jpg)Looking for a last minute Valentine’s Day snack or even a light but festive meal? Here’s a recipe for quick heart-shaped thin and crispy mini-pizzas. You make the crust out of flour tortillas so you won’t even have to mix the dough!
+[![mini-pizza hearts sized](/uploads/2013/02/mini-pizza-hearts-sized.jpg?w=300)](http://192.168.1.34:4945/wp-conte/uploads/2013/02/mini-pizza-hearts-sized.jpg)Looking for a last minute Valentine’s Day snack or even a light but festive meal? Here’s a recipe for quick heart-shaped thin and crispy mini-pizzas. You make the crust out of flour tortillas so you won’t even have to mix the dough!
 
 Heart-Shaped Thin and Crispy Mini-Pizzas Recipe
 ===============================================
@@ -53,10 +53,10 @@ size took about 2 teaspoons of marinara sauce and 1 tablespoon of
 shredded cheese each. I would estimate six hearts would take  
 approximately 1 Tablespoon of olive oil.)
 
-[![Stawberry Heart Cookies sized](../uploads/2013/02/stawberry-heart-cookies-sized.jpg?w=150)](http://192.168.1.34:4945/cooking/super-easy-strawberry-heart-valentine-cookies/)Looking for something sweet to go with your mini-pizzas? Try my [Strawberry Heart Cookies!](http://192.168.1.34:4945/cooking/super-easy-strawberry-heart-valentine-cookies/ "Super Easy Strawberry Heart Valentine Cookies")
+[![Stawberry Heart Cookies sized](/uploads/2013/02/stawberry-heart-cookies-sized.jpg?w=150)](http://192.168.1.34:4945/cooking/super-easy-strawberry-heart-valentine-cookies/)Looking for something sweet to go with your mini-pizzas? Try my [Strawberry Heart Cookies!](http://192.168.1.34:4945/cooking/super-easy-strawberry-heart-valentine-cookies/ "Super Easy Strawberry Heart Valentine Cookies")
 
-[![stictch valentines](../uploads/2013/02/stictch-valentines.jpg?w=150)](http://192.168.1.34:4945/crafts/help-your-little-one-make-their-own-stitching-card-valentines/ "Super Easy Strawberry Heart Valentine Cookies")Need last minute homemade Valentines? [Stitching card Valentine’s are quick and cute!](http://192.168.1.34:4945/crafts/help-your-little-one-make-their-own-stitching-card-valentines/ "Help your little one make their own stitching card Valentines")
+[![stictch valentines](/uploads/2013/02/stictch-valentines.jpg?w=150)](http://192.168.1.34:4945/crafts/help-your-little-one-make-their-own-stitching-card-valentines/ "Super Easy Strawberry Heart Valentine Cookies")Need last minute homemade Valentines? [Stitching card Valentine’s are quick and cute!](http://192.168.1.34:4945/crafts/help-your-little-one-make-their-own-stitching-card-valentines/ "Help your little one make their own stitching card Valentines")
 
-[![Valentine 8 ball answer](../uploads/2013/02/valentine-8-ball-answer2.jpg?w=115)](http://192.168.1.34:4945/crafts/valentine-fortune-teller/)And if you’ve got a little more time and just want to have some fun crafting, try the [Valentine Fortune Tellers!](http://192.168.1.34:4945/crafts/valentine-fortune-teller/ "Make Your Own Valentine Fortune Teller")
+[![Valentine 8 ball answer](/uploads/2013/02/valentine-8-ball-answer2.jpg?w=115)](http://192.168.1.34:4945/crafts/valentine-fortune-teller/)And if you’ve got a little more time and just want to have some fun crafting, try the [Valentine Fortune Tellers!](http://192.168.1.34:4945/crafts/valentine-fortune-teller/ "Make Your Own Valentine Fortune Teller")
 
 Happy Valentine’s Day!

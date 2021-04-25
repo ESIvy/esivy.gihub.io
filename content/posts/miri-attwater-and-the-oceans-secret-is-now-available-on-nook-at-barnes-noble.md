@@ -1,5 +1,5 @@
 ---
-title: Miri Attwater and the Ocean's Secret is now available on Nook at Barnes &#038; Noble!
+title: "Miri Attwater and the Ocean's Secret is now available on Nook at Barnes &#038; Noble!"
 date: '2013-05-07T11:08:34-05:00'
 status: publish
 path: /miri-attwater-and-the-oceans-secret-is-now-available-on-nook-at-barnes-noble
@@ -18,7 +18,7 @@ publicize_twitter_user:
 simplecatch-sidebarlayout:
     - ''
 ---
-<div class="separator" style="clear: both; text-align: center;">[![](../uploads/2013/05/091aa-cover_334x209.jpeg)](http://www.barnesandnoble.com/w/miri-attwater-and-the-oceans-secret-es-ivy/1115162210?ean=2940016695419)</div><span style="color: magenta;">*Miri Attwater and the Ocean’s Secret*</span> is now available [on Nook at Barnes &amp; Noble](http://www.barnesandnoble.com/w/miri-attwater-and-the-oceans-secret-es-ivy/1115162210?ean=2940016695419)!
+<div class="separator" style="clear: both; text-align: center;">[![](/uploads/2013/05/091aa-cover_334x209.jpeg)](http://www.barnesandnoble.com/w/miri-attwater-and-the-oceans-secret-es-ivy/1115162210?ean=2940016695419)</div><span style="color: magenta;">*Miri Attwater and the Ocean’s Secret*</span> is now available [on Nook at Barnes &amp; Noble](http://www.barnesandnoble.com/w/miri-attwater-and-the-oceans-secret-es-ivy/1115162210?ean=2940016695419)!
 
 <span style="color: magenta;">*Miri always knew she was adopted, liked her food extra salty, and could hold her breath an unbelievably long time, but she never would have guessed that it meant she was a mermaid.*</span>
 

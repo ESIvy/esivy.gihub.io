@@ -1,5 +1,5 @@
 ---
-title: Science in Strange Magic, the new animated movie from George Lucas and Walt Disney Pictures
+title: "Science in Strange Magic, the new animated movie from George Lucas and Walt Disney Pictures"
 date: '2015-01-27T10:29:27-06:00'
 status: publish
 path: /science-in-strange-magic-the-new-animated-movie-from-george-lucas-and-walt-disney-pictures
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 3010
-thumbnail: ../uploads/2015/01/StrangeMagic546f78d812a67.jpg
+thumbnail: /uploads/2015/01/StrangeMagic546f78d812a67.jpg
 category:
     - Disney
     - 'Science Education'
 tag: []
 post_format: []
 ---
-[![Strange Magic](../uploads/2015/01/StrangeMagic-450x190.jpg)](http://192.168.1.34:4945/wp-content/uploads/2015/01/StrangeMagic-450x190.jpg)How did we miss this?!? There’s a new George Lucas animated movie! Strange Magic, from Walt Disney Pictures, Lucasfilm Ltd. and released by Touchstone Pictures.
+[![Strange Magic](/uploads/2015/01/StrangeMagic-450x190.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2015/01/StrangeMagic-450x190.jpg)How did we miss this?!? There’s a new George Lucas animated movie! Strange Magic, from Walt Disney Pictures, Lucasfilm Ltd. and released by Touchstone Pictures.
 
 No one in this family had any idea this was coming. Granted, we don’t watch a ton of tv, but usually we know about every sci-fi and animated movie coming out. And anything by George Lucas would have definitely caught our notice, because, well – STAR WARS. We’re one of those families where not only dad, but mom as well, grew up as a Star Wars fan so the kids had no choice but to hear about it. Even if when we were talking about this movie my twelve-year-old did say, “Isn’t George Lucas dead?”
 

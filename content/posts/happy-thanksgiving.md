@@ -1,5 +1,5 @@
 ---
-title: Happy Thanksgiving!
+title: "Happy Thanksgiving!"
 date: '2013-11-28T03:08:49-06:00'
 status: publish
 path: /happy-thanksgiving
@@ -14,4 +14,4 @@ category:
 tag: []
 post_format: []
 ---
-![grapevine turkey](../uploads/2013/11/Happy-Thanksgiving-640-x-426.jpg)
+![grapevine turkey](/uploads/2013/11/Happy-Thanksgiving-640-x-426.jpg)

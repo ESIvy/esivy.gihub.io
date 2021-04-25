@@ -1,5 +1,5 @@
 ---
-title: Back to School – High School anxiety
+title: "Back to School – High School anxiety"
 date: '2014-07-30T11:00:29-05:00'
 status: publish
 path: /back-to-school-high-school-anxiety
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2345
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
@@ -16,7 +16,7 @@ post_format: []
 ---
 If the appearance of “Back to School” aisles in July gave you heart palpitations, you might be wondering if all the stress accompanying what we call “high school” today is worth it. And if you — as a parent — are feeling this way, what do you think your kids are feeling? When did high school get so stressful for *parents* anyway?
 
-For the summer I’ve taken a break from my series on high school, college, and success to focus on [some summer fun and trip preparation.](http://192.168.1.34:4945/?p=2220 "Disney Parks Trip planning") When I spy the back to school sections at the store, I avoid them as much as possible. It’s supposed to be the middle of summer, people! (Although I have to admit that we have already gotten the kids’ new backpacks for next year.)
+For the summer I’ve taken a break from my series on high school, college, and success to focus on [some summer fun and trip preparation.](http://192.168.1.34:4945/draft2220 "Disney Parks Trip planning") When I spy the back to school sections at the store, I avoid them as much as possible. It’s supposed to be the middle of summer, people! (Although I have to admit that we have already gotten the kids’ new backpacks for next year.)
 
 But [Amanda Valentine ](http://www.ayvalentine.com/)of [Reads4Tweens](http://reads4tweens.com) forwarded me an article by [William Deresiewicz](http://www.billderesiewicz.com/ "Excellent Sheep") on his thoughts about an Ivy League education, [Don’t Send Your Kid to the Ivy League: The nation’s top colleges are turning our kids into zombies.](http://www.newrepublic.com/article/118747/ivy-league-schools-are-overrated-send-your-kids-elsewhere?utm_source=Mic+Check&utm_campaign=8e909e4e92-Mic_Report_7_23_2014&utm_medium=email&utm_term=0_51f2320b33-8e909e4e92-285157361)
 

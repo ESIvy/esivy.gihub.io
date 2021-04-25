@@ -1,5 +1,5 @@
 ---
-title: Success factors 1: What's the Best Way to Guide Your Child Through High School to be a Success in College and in Life?
+title: "Success factors 1: What's the Best Way to Guide Your Child Through High School to be a Success in College and in Life?"
 date: '2014-04-09T09:00:09-05:00'
 status: publish
 path: /success-factors-whats-the-best-way-to-guide-your-child-through-high-school-to-be-a-success-in-college-and-in-life
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1903
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
 tag: []
 post_format: []
 ---
-![wikipediacommonSteacieLibraryRaysonho 467x350.](../uploads/2014/04/wikipediacommonSteacieLibraryRaysonho-467x350..jpg)What is the best way to guide your child through high school to be a success in college and in life? What are the success factors you need to instill in your kid?
+![wikipediacommonSteacieLibraryRaysonho 467x350.](/uploads/2014/04/wikipediacommonSteacieLibraryRaysonho-467x350..jpg)What is the best way to guide your child through high school to be a success in college and in life? What are the success factors you need to instill in your kid?
 
 I don’t know.
 

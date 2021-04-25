@@ -1,5 +1,5 @@
 ---
-title: Cleaner Fish and Fish Cleaning Stations – excerpt from Miri Attwater and All That Glitters
+title: "Cleaner Fish and Fish Cleaning Stations – excerpt from Miri Attwater and All That Glitters"
 date: '2014-02-26T09:00:01-06:00'
 status: publish
 path: /cleaner-fish-scene-all-that-glitters
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1860
-thumbnail: ../uploads/2014/02/Fish-cleaning_station_konan-By-Brocken-Inaglory-via-Wikimedia-commons-150x150.jpg
+thumbnail: /uploads/2014/02/Fish-cleaning_station_konan-By-Brocken-Inaglory-via-Wikimedia-commons-150x150.jpg
 category:
     - 'All That Glitters'
     - 'Miri Attwater'
@@ -15,7 +15,7 @@ category:
 tag: []
 post_format: []
 ---
-[![best books for girls : All That Glitters cover 188 x 250](../uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20 "Buy it on Amazon")As I explained in my posts [Fish Cleaning Station – Yes, fish cleaning stations from Miri Attwater and All That Glitters really exist](http://192.168.1.34:4945/?p=1825) and [Cleaner Fish – More Information than You Thought You Wanted to Know](http://192.168.1.34:4945/?p=1827), further research about cleaner fish led me to make a correction to one scene in [Miri Attwater and All That Glitters.](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20) Here’s the corrected excerpt.
+[![best books for girls : All That Glitters cover 188 x 250](/uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20 "Buy it on Amazon")As I explained in my posts [Fish Cleaning Station – Yes, fish cleaning stations from Miri Attwater and All That Glitters really exist](http://192.168.1.34:4945/draft1825) and [Cleaner Fish – More Information than You Thought You Wanted to Know](http://192.168.1.34:4945/draft1827), further research about cleaner fish led me to make a correction to one scene in [Miri Attwater and All That Glitters.](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20) Here’s the corrected excerpt.
 
 *Miri Attwater and All That Glitters*
 =====================================
@@ -97,4 +97,4 @@ Miri and Fisk were both on their heads, trying not to giggle, when Fisk’s sist
 
 Natasia wasn’t paying any attention to them. She was studying Miri thoughtfully. “You probably just need a scratchier sponge. Come on. We can stop by the bath shop on our way home.”
 
-[![best books for girls : All That Glitters cover 188 x 250](../uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20 "Buy it on Amazon") If you’d like to read more about Miri’s mermaid adventures, you can read a free sample and get your own copy of [Miri Attwater and All that Glitters at Amazon!](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20)
+[![best books for girls : All That Glitters cover 188 x 250](/uploads/2014/01/All-That-Glitters-cover-188-x-250.jpg)](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20 "Buy it on Amazon") If you’d like to read more about Miri’s mermaid adventures, you can read a free sample and get your own copy of [Miri Attwater and All that Glitters at Amazon!](http://www.amazon.com/gp/product/B00HKK1GYC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HKK1GYC&linkCode=as2&tag=esiv-20)

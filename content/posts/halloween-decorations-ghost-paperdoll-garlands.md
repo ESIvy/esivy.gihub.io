@@ -1,5 +1,5 @@
 ---
-title: Halloween decorations: Paperdoll Ghost Garlands
+title: "Halloween decorations: Paperdoll Ghost Garlands"
 date: '2013-10-20T13:00:46-05:00'
 status: publish
 path: /halloween-decorations-ghost-paperdoll-garlands
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1096
-thumbnail: ../uploads/2013/10/ghost-paper-dolls-350-x-138.jpg
+thumbnail: /uploads/2013/10/ghost-paper-dolls-350-x-138.jpg
 category:
     - Crafts
     - Halloween
@@ -17,7 +17,7 @@ post_format: []
 ---
 Try this variation on paper dolls to make some easy Halloween decorations.
 
-![paper doll ghost garlands](../uploads/2013/10/ghost-paper-dolls-350-x-138.jpg)
+![paper doll ghost garlands](/uploads/2013/10/ghost-paper-dolls-350-x-138.jpg)
 ================================================================================
 
 Ghost Paper Doll Garland Directions

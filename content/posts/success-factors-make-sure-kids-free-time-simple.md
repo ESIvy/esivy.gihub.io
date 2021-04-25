@@ -1,5 +1,5 @@
 ---
-title: Success factors 10: Teen stress and anxiety, are ambitious high school schedules leading to success?
+title: "Success factors 10: Teen stress and anxiety, are ambitious high school schedules leading to success?"
 date: '2014-06-25T09:00:24-05:00'
 status: publish
 path: /success-factors-make-sure-kids-free-time-simple
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2013
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
@@ -45,11 +45,11 @@ I should probably do some research into how advanced placement courses evolved. 
 
 So the question becomes how to guide my kids to get the most out of the system we have available. How can we do that?
 
-I started this series by observing that [students in our moderately academically competitive high school had ridiculously demanding course requirements.](http://192.168.1.34:4945/?p=1903 "success factors: 1") So we thought the answer was just to [not take a full advanced placement course load.](http://192.168.1.34:4945/?p=1920 "success factors: 3") But we found some difficulties with that. Mainly, [the students who paid attention in class were in the advanced placement courses. And the course material was more interesting in the AP classes.](http://192.168.1.34:4945/?p=1925 "success factors: 4")
+I started this series by observing that [students in our moderately academically competitive high school had ridiculously demanding course requirements.](http://192.168.1.34:4945/draft1903 "success factors: 1") So we thought the answer was just to [not take a full advanced placement course load.](http://192.168.1.34:4945/draft1920 "success factors: 3") But we found some difficulties with that. Mainly, [the students who paid attention in class were in the advanced placement courses. And the course material was more interesting in the AP classes.](http://192.168.1.34:4945/draft1925 "success factors: 4")
 
-But I still had the [information about the importance of free time from Study Hacks](http://calnewport.com/blog/2010/02/18/want-to-get-into-harvard-spend-more-time-staring-at-the-clouds-rethinking-the-role-of-extracurricular-activities-in-college-admissions/) which I discussed in [a post questioning if all advanced classes are the best path to success](http://192.168.1.34:4945/?p=1919). And I have the information I’ve personally heard from [parents at our high school,](http://192.168.1.34:4945/?p=1933 "success factors: 7") that indicated that just taking the hardest classes and doing well wasn’t enough. The only guarantee was high levels of stress and lack of sleep. Success at getting into the university of choice and scholarships weren’t guaranteed.
+But I still had the [information about the importance of free time from Study Hacks](http://calnewport.com/blog/2010/02/18/want-to-get-into-harvard-spend-more-time-staring-at-the-clouds-rethinking-the-role-of-extracurricular-activities-in-college-admissions/) which I discussed in [a post questioning if all advanced classes are the best path to success](http://192.168.1.34:4945/draft1919). And I have the information I’ve personally heard from [parents at our high school,](http://192.168.1.34:4945/draft1933 "success factors: 7") that indicated that just taking the hardest classes and doing well wasn’t enough. The only guarantee was high levels of stress and lack of sleep. Success at getting into the university of choice and scholarships weren’t guaranteed.
 
-Clearly, it seemed like the “easier” path to success was to find a passion and excel in one area. At 8th grade orientation, I was heartened to hear our new high school principal that the most important thing a student could do in high school is find a hobby that they’re passionate about. (This contrasted with the message we got when our son entered high school, which was to take absolutely every advanced placement course you could possibly manage. What they don’t tell you is the main reason they’re concerned about that is that it [makes the high school look good.](http://192.168.1.34:4945/?p=2071 "U.S. News High School Ratings"))
+Clearly, it seemed like the “easier” path to success was to find a passion and excel in one area. At 8th grade orientation, I was heartened to hear our new high school principal that the most important thing a student could do in high school is find a hobby that they’re passionate about. (This contrasted with the message we got when our son entered high school, which was to take absolutely every advanced placement course you could possibly manage. What they don’t tell you is the main reason they’re concerned about that is that it [makes the high school look good.](http://192.168.1.34:4945/draft2071 "U.S. News High School Ratings"))
 
 But helping a child to “find their passion” isn’t all that easy. 🙂 Truth be told, if we didn’t limit screen time our kids could easily tell you that their passion was computer games or Netflix (we don’t have cable.) That’s even though they have some really good skills in drawing, sewing, cooking, music, and mechanically fixing things.
 

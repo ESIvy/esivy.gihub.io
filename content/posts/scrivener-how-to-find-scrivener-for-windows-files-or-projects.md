@@ -1,5 +1,5 @@
 ---
-title: Scrivener – How to Find Scrivener for Windows files or projects on your computer
+title: "Scrivener – How to Find Scrivener for Windows files or projects on your computer"
 date: '2014-10-14T12:53:06-05:00'
 status: publish
 path: /scrivener-how-to-find-scrivener-for-windows-files-or-projects
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2507
-thumbnail: ../uploads/2014/11/scrivener.jpg
+thumbnail: /uploads/2014/11/scrivener.jpg
 category:
     - 'For Authors'
     - 'Scrivener Tutorial'
@@ -15,7 +15,7 @@ category:
 tag: []
 post_format: []
 ---
-[![find scrivener files on your computer](../uploads/2014/10/scriv-find-files-238x602.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/10/scriv-find-files-238x602.jpg)If you’ve been depending on using File &gt; Recent Projects to open your Scrivener files, you might have a moment of panic when you get enough projects started that one of them drops off the list! Where is it on your computer?
+[![find scrivener files on your computer](/uploads/2014/10/scriv-find-files-238x602.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/10/scriv-find-files-238x602.jpg)If you’ve been depending on using File &gt; Recent Projects to open your Scrivener files, you might have a moment of panic when you get enough projects started that one of them drops off the list! Where is it on your computer?
 
 If you search the [Scrivener 1.7 for Microsoft Windows Users Manual, ](http://www.literatureandlatte.com/documentation/scrivener-manual-win-a4.pdf "Scrivener for Microsoft Windows Users Manual")you’ll find this clue:  
 <span style="color: #ff00ff;">*“Projects can also be opened directly using the Explorer, or any shortcuts to the .scrivx file.”*</span>
@@ -26,7 +26,7 @@ Which one is which? Which one do you open?
 
 So, here’s the trick. You need to search for files with the .scriv extension. To do this, you can search for \*.scriv files – that will find everything with that extension. All of these special folders will have the name you used to name each Scrivener project and the .scriv extension.
 
-Now, if you need help getting your projects to actually open, see [Scrivener – How to open an existing Project in Scrivener for Windows, fully explained.](http://192.168.1.34:4945/?p=2416)
+Now, if you need help getting your projects to actually open, see [Scrivener – How to open an existing Project in Scrivener for Windows, fully explained.](http://192.168.1.34:4945/draft2416)
 
 Other Scrivener Resources:
 

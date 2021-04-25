@@ -1,5 +1,5 @@
 ---
-title: Success Factors 8: Test and Retest and High Stress, the best way?
+title: "Success Factors 8: Test and Retest and High Stress, the best way?"
 date: '2014-05-28T09:00:08-05:00'
 status: publish
 path: /success-factors-test-and-retest-and-high-stress-the-best-way
@@ -7,15 +7,15 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1938
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - 'Education &amp; Success'
 tag: []
 post_format: []
 ---
-As I’ve outlined in my previous posts, I was pondering how to [guide our kids to the best path of success](http://192.168.1.34:4945/?p=1903 "success factors: 1"), starting in high school by analyzing what the success factors are. We’ve tried both [a partial load of preAP/AP classes ](http://192.168.1.34:4945/?p=1920)and a [full load of preAP/AP classes.](http://192.168.1.34:4945/?p=1927) Our personal experience has been that both ways have their own drawbacks.
+As I’ve outlined in my previous posts, I was pondering how to [guide our kids to the best path of success](http://192.168.1.34:4945/draft1903 "success factors: 1"), starting in high school by analyzing what the success factors are. We’ve tried both [a partial load of preAP/AP classes ](http://192.168.1.34:4945/draft1920)and a [full load of preAP/AP classes.](http://192.168.1.34:4945/draft1927) Our personal experience has been that both ways have their own drawbacks.
 
-[![Buy it on Amazon](../uploads/2014/03/smartest-kids-in-the-world-200x300.jpg "Smartest Kids in the World")](http://www.amazon.com/gp/product/1451654421/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451654421&linkCode=as2&tag=esiv-20 "Buy it on Amazon")Then I came across, [The Smartest Kids in the World: and how they got that way, by Amanda Ripley](http://www.amazon.com/gp/product/1451654421/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451654421&linkCode=as2&tag=esiv-20 "Buy it on Amazon").
+[![Buy it on Amazon](/uploads/2014/03/smartest-kids-in-the-world-200x300.jpg "Smartest Kids in the World")](http://www.amazon.com/gp/product/1451654421/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451654421&linkCode=as2&tag=esiv-20 "Buy it on Amazon")Then I came across, [The Smartest Kids in the World: and how they got that way, by Amanda Ripley](http://www.amazon.com/gp/product/1451654421/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451654421&linkCode=as2&tag=esiv-20 "Buy it on Amazon").
 
 Of course, everyone would like to think that their kid is the smartest kid in the world,:) even if they don’t want to admit it. But that’s not really what this book is about. It’s an unfortunate title, because it might make most parents think that the book has nothing to offer for their “average smart” kids let alone their “average” kids, but it does.
 

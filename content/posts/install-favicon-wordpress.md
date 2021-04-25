@@ -1,5 +1,5 @@
 ---
-title: Install a Favicon on WordPress tutorial (2012 and other themes)
+title: "Install a Favicon on WordPress tutorial (2012 and other themes)"
 date: '2014-11-22T21:42:19-06:00'
 status: publish
 path: /install-favicon-wordpress
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 2719
-thumbnail: ../uploads/2014/11/ES-favicon-blue-glow-on-white-125x125.jpg
+thumbnail: /uploads/2014/11/ES-favicon-blue-glow-on-white-125x125.jpg
 category:
     - 'Wordpress tutorial'
 tag: []
@@ -18,13 +18,13 @@ You may want to know how to install a favicon on your WordPress blog, so that wh
 How to Install a Favicon on WordPress
 =====================================
 
-[![Tutorial for how to design a quick favicon logo for your website and install it on your WordPress blog for Pinterest Rich Pins.](../uploads/2014/11/How-to-favicon-colors-300x700.jpg)](http://192.168.1.34:4945/wp-content/uploads/2014/11/How-to-favicon-colors-300x700.jpg)1. From [How to Add a Favicon to Your Blog Design By Blog Design For Dummies](http://www.dummies.com/how-to/content/how-to-add-a-favicon-to-your-blog-design.html), [by Melissa Culbertson of BlogClarity.com,](http://www.blogclarity.com/) I found out that I need a square image. Also, since I don’t want to touch my code right now, I need to use a plug-in to install the favicon.
+[![Tutorial for how to design a quick favicon logo for your website and install it on your WordPress blog for Pinterest Rich Pins.](/uploads/2014/11/How-to-favicon-colors-300x700.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2014/11/How-to-favicon-colors-300x700.jpg)1. From [How to Add a Favicon to Your Blog Design By Blog Design For Dummies](http://www.dummies.com/how-to/content/how-to-add-a-favicon-to-your-blog-design.html), [by Melissa Culbertson of BlogClarity.com,](http://www.blogclarity.com/) I found out that I need a square image. Also, since I don’t want to touch my code right now, I need to use a plug-in to install the favicon.
 
 2\. I made a square image 125 pixels x 125 pixels. Well actually, first I made one that was too small. But I found that for the favicon generator I found, I needed one at least 70 pixels x 70 pixels. 260×260 would have been ideal. See, I’m saving you time! So if you have an option, make your image 260×260.
 
 3\. If you have an image or icon associate with your blog that will resize well to a tiny size (not much detail), then you can resize it and use that. (If you’re new to image editing, here’s a [tutorial that will get you started using the free on-line photo editor Pixlr](http://192.168.1.34:4945/pixlr-tutorial-how-to-make-an-author-facebook-page-cover-photo/) and another that will show you [how to resize an image using Pixlr](http://192.168.1.34:4945/pixlr-tutorial-add-photo-to-image-add-book-covers-to-your-author-facebook-page-cover-photo/).)
 
-![ES favicon blue glow on white 125x125](../uploads/2014/11/ES-favicon-blue-glow-on-white-125x125.jpg)4. For a quick hack, I just used some initials that matched my temporary blog banner. I ended up with the 125×125 size, because this was as big as I could go with the font I chose. To make the image, I used [pixlr.com.](https://pixlr.com/) (Here’s a [tutorial that will get you started on how to make an image with text in Pixlr.](http://192.168.1.34:4945/pixlr-tutorial-how-to-make-an-author-logo-for-an-author-facebook-page-cover-photo/))
+![ES favicon blue glow on white 125x125](/uploads/2014/11/ES-favicon-blue-glow-on-white-125x125.jpg)4. For a quick hack, I just used some initials that matched my temporary blog banner. I ended up with the 125×125 size, because this was as big as I could go with the font I chose. To make the image, I used [pixlr.com.](https://pixlr.com/) (Here’s a [tutorial that will get you started on how to make an image with text in Pixlr.](http://192.168.1.34:4945/pixlr-tutorial-how-to-make-an-author-logo-for-an-author-facebook-page-cover-photo/))
 
 5\. If you want to have the image for use in other places on your website, on your WordPress dashboard go to Media&gt;Add New. Upload your favicon image. (I couldn’t tell that this made a difference as to how the favicon worked.)
 

@@ -1,5 +1,5 @@
 ---
-title: Success factors 4: Is the answer a full load of advanced placement courses?
+title: "Success factors 4: Is the answer a full load of advanced placement courses?"
 date: '2014-04-30T09:00:07-05:00'
 status: publish
 path: /success-factors-is-the-answer-a-full-load-of-advanced-placement-courses
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1925
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
 tag: []
 post_format: []
 ---
-In past posts about success factors, I talked about when my kids were still young I learned that [taking a full load of advanced placement classes at a moderately competitive high school means ridiculous homework loads](http://192.168.1.34:4945/?p=1903 "success factors 1"). I started [wondering if there was a better way for success,](http://192.168.1.34:4945/?p=1919 "success factors") and noted some information such as that can be found on the blog, [Study Hacks.](http://calnewport.com/blog/about/ "Study Hacks") So we decided that maybe the answer was just to [not take a full load of advanced placement courses.](http://192.168.1.34:4945/?p=1920 "success factors 3")
+In past posts about success factors, I talked about when my kids were still young I learned that [taking a full load of advanced placement classes at a moderately competitive high school means ridiculous homework loads](http://192.168.1.34:4945/draft1903 "success factors 1"). I started [wondering if there was a better way for success,](http://192.168.1.34:4945/draft1919 "success factors") and noted some information such as that can be found on the blog, [Study Hacks.](http://calnewport.com/blog/about/ "Study Hacks") So we decided that maybe the answer was just to [not take a full load of advanced placement courses.](http://192.168.1.34:4945/draft1920 "success factors 3")
 
 So through our start of middle school, taking only a partial load of preAP classes seemed to be turning out pretty well. Our son’s homework load was manageable, he was still working on focus and consistency in grades, and he had time for some extracurricular activities. We kept asking about his classes, and he was happy with all of them. He kept saying that he didn’t see any difference between his GT classes, his preAP classes, and his “regular classes.” We thought that would be a good indication of what was to come in high school.
 

@@ -1,5 +1,5 @@
 ---
-title: Everything in the Dishwasher
+title: "Everything in the Dishwasher"
 date: '2013-01-30T11:30:41-06:00'
 status: publish
 path: /everything-in-the-dishwasher
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 535
-thumbnail: ../uploads/2013/01/crystal-150-x-189.jpg
+thumbnail: /uploads/2013/01/crystal-150-x-189.jpg
 category:
     - Entertaining
     - 'Seasonal &amp; Holidays'
@@ -22,7 +22,7 @@ tagazine-media:
 simplecatch-sidebarlayout:
     - ''
 ---
-<div class="wp-caption alignleft" id="attachment_541" style="width: 310px">![Our Christmas table.](../uploads/2013/01/table1.jpg?w=300)Our Christmas table.
+<div class="wp-caption alignleft" id="attachment_541" style="width: 310px">![Our Christmas table.](/uploads/2013/01/table1.jpg?w=300)Our Christmas table.
 
 </div>One of my pet peeves is the articles in magazines that to advise you to let go of the stress of the holidays don’t do anything to make your dinner special. Just use paper plates and eat frozen pizza!
 
@@ -32,7 +32,7 @@ But you can make some concessions without out going as far as paper plates and p
 
 My grandmother has a saying, “As soon as I get something, I put it in the dishwasher before I get attached to it.” She paints china herself, and made a point when she gave me my first piece to tell me to put it in the dishwasher or I’d never use it. It was a butter dish that’s been washed about once a week for almost 20 years and it’s still lovely.
 
-<div class="wp-caption alignleft" id="attachment_566" style="width: 195px">![A few votive candles with left over Christmas decorations make an easy centerpiece. A light cable wound through the dishes on the buffet adds a festive touch.](../uploads/2013/01/christmas-centerpiece.jpg?w=185)A few votive candles with left over Christmas decorations make an easy centerpiece. A light cable wound through the dishes on the buffet adds a festive touch.
+<div class="wp-caption alignleft" id="attachment_566" style="width: 195px">![A few votive candles with left over Christmas decorations make an easy centerpiece. A light cable wound through the dishes on the buffet adds a festive touch.](/uploads/2013/01/christmas-centerpiece.jpg?w=185)A few votive candles with left over Christmas decorations make an easy centerpiece. A light cable wound through the dishes on the buffet adds a festive touch.
 
 </div>Growing up, we ate off my mom’s fine china and silverware every day and it went in the dishwasher. Yes, it got a little bit worn, but we actually \*used\* it. It didn’t just stay stored away where no one could see it.
 
@@ -40,11 +40,11 @@ I haven’t gotten into the same habit, but when I do pull out the fine china an
 
 The only things I don’t put in the dishwasher are my fine crystal and biggest pots. You might think I’m kidding, but I’m not. I am so attached to dishwashers that we have two. Yes I know it is terrible for wooden knife handles to go in the dishwasher. But it’s terrible for *me* to wash them by hand.
 
-<div class="wp-caption alignright" id="attachment_568" style="width: 310px">[![My grandmother's crystal, from 1925](../uploads/2013/01/memes-crystal-cropped.jpg?w=300)](http://192.168.1.34:4945/wp-content/uploads/2013/01/memes-crystal-cropped.jpg)My grandmother’s crystal, from 1925
+<div class="wp-caption alignright" id="attachment_568" style="width: 310px">[![My grandmother's crystal, from 1925](/uploads/2013/01/memes-crystal-cropped.jpg?w=300)](http://192.168.1.34:4945/wp-conte/uploads/2013/01/memes-crystal-cropped.jpg)My grandmother’s crystal, from 1925
 
 </div>This thanksgiving we had 17 and I ended up using my paternal grandmother’s crystal at the teenager’s table, which made me a bit nervous.
 
-<div class="wp-caption alignleft" id="attachment_567" style="width: 170px">![Both these glasses went in the dishwasher!](../uploads/2013/01/christmas-glasses.jpg)Both these glasses went in the dishwasher!
+<div class="wp-caption alignleft" id="attachment_567" style="width: 170px">![Both these glasses went in the dishwasher!](/uploads/2013/01/christmas-glasses.jpg)Both these glasses went in the dishwasher!
 
 </div>So for Christmas one of my gifts as Marquis by Waterford goblets to pair with my water glasses that go in the dishwasher. That’s what I used Christmas dinner. We’re teetotalers, but I like to serve sparkling grade and apple juice for a festive treat.
 

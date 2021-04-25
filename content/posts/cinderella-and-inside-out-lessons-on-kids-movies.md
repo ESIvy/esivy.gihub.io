@@ -1,5 +1,5 @@
 ---
-title: Cinderella and Inside Out – Lessons in Kids' Movies
+title: "Cinderella and Inside Out – Lessons in Kids' Movies"
 date: '2015-03-25T11:20:59-05:00'
 status: publish
 path: /cinderella-and-inside-out-lessons-on-kids-movies
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 3077
-thumbnail: ../uploads/2015/03/Cinderellamovie-small.jpg
+thumbnail: /uploads/2015/03/Cinderellamovie-small.jpg
 category:
     - Disney
     - Education
@@ -15,11 +15,11 @@ category:
 tag: []
 post_format: []
 ---
-![Disney Cinderella glass slipper](../uploads/2015/03/Cinderellashoe-338x500.jpg)Are you like me and you haven’t seen the new Disney [Cinderella](http://movies.disney.com/cinderella/) movie yet?
+![Disney Cinderella glass slipper](/uploads/2015/03/Cinderellashoe-338x500.jpg)Are you like me and you haven’t seen the new Disney [Cinderella](http://movies.disney.com/cinderella/) movie yet?
 
 Maybe you’re worried about showing your young daughter an out-dated fairy tale where a young maiden is distress is saved by a charming prince who swoops in and saves the day? Well the press information that Disney has released suggests that they really tried to do otherwise. Instead, they tried to produce a film that shows that “kindness can be a type of super power.”
 
-![Poor Cinderella](../uploads/2015/03/Cinderellaworking-600x545.jpg)According to Disney, this is shown in the film when “…despite the cruelty inflicted upon her, Ella will not give into despair nor despise those how mistreat her, and she continues to remain positive…” This struck me as interesting because I remember hearing in a recent news story that, during the holocaust, it was often those who managed to remain hopeful that survived the horrors of the concentration camps.
+![Poor Cinderella](/uploads/2015/03/Cinderellaworking-600x545.jpg)According to Disney, this is shown in the film when “…despite the cruelty inflicted upon her, Ella will not give into despair nor despise those how mistreat her, and she continues to remain positive…” This struck me as interesting because I remember hearing in a recent news story that, during the holocaust, it was often those who managed to remain hopeful that survived the horrors of the concentration camps.
 
 It’s funny how when you start studying something the subject starts popping up all sorts of places. Because I couldn’t help but have this bring to mind my recent readings about success. From my recent reading on [Mindset](http://mindsetonline.com/), by Carol Dwek, the ability to remain optimistic is important to develop if we don’t possess it naturally.
 
@@ -27,7 +27,7 @@ Maybe I should confess here that I think I remember as a child being in awe of h
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/1HFv47QHWJU?rel=0" width="560"></iframe>
 
-Analyzing both of these movies could lead to some interesting discussions with your kids! Maybe you’d really like to just watch all your movies for fun, and that’s okay too. But I know that even my high school son would be glad to watch a Cinderella movie and analyze it if it meant he didn’t have to read and analyze another short story where “someone always dies in EVERY SINGLE ONE OF THE STORIES.” &lt;Sigh&gt; I really hate [the strangle-hold that depressing-drama-literature-lovers seem to have on literature education in this country.](http://192.168.1.34:4945/?p=749)
+Analyzing both of these movies could lead to some interesting discussions with your kids! Maybe you’d really like to just watch all your movies for fun, and that’s okay too. But I know that even my high school son would be glad to watch a Cinderella movie and analyze it if it meant he didn’t have to read and analyze another short story where “someone always dies in EVERY SINGLE ONE OF THE STORIES.” &lt;Sigh&gt; I really hate [the strangle-hold that depressing-drama-literature-lovers seem to have on literature education in this country.](http://192.168.1.34:4945/draft749)
 
 But back to the more fun subject of the Cinderella movie!
 
@@ -35,7 +35,7 @@ On the question of romance, the directors made a special effort to “address th
 
 We’ve got older kids, but there’s an activity from the Disney Cinderella press kit on clock reading if you have younger ones (pdf below). We’ve found that our teens can’t instantly read analog clocks so we’ve recently filled our house with them. The Cinderella movie could be great motivation for practicing clock reading!
 
-![Cinderella impossibly tiny waist](../uploads/2015/03/Cinderellawaist-572x450.jpg)However, I can’t help wishing that they hadn’t put a corset on the lovely Lily James to make her already small waist look even more Barbie proportions tinier. I know they were trying to give the movie a 19<sup>th</sup> century feel, but as it wasn’t a true period piece I don’t think it was necessary. I’ll refrain from mentioning that I also don’t think the amount of cleavage they revealed in the official movie poster was necessary. Oops! I just did.
+![Cinderella impossibly tiny waist](/uploads/2015/03/Cinderellawaist-572x450.jpg)However, I can’t help wishing that they hadn’t put a corset on the lovely Lily James to make her already small waist look even more Barbie proportions tinier. I know they were trying to give the movie a 19<sup>th</sup> century feel, but as it wasn’t a true period piece I don’t think it was necessary. I’ll refrain from mentioning that I also don’t think the amount of cleavage they revealed in the official movie poster was necessary. Oops! I just did.
 
 In spite of that, I’m looking forward to seeing it. One of my daughters has been lucky enough to see it, and she says it’s fantastic!
 
@@ -45,6 +45,6 @@ There is a bit of tension, but it’s comical, with exploding pumpkins one way o
 
 *Media from Walt Disney Studios* *and Youtube. I was not compensated for these movie reviews. All thoughts and comments are my own.*
 
-![Lessons in Resilience and Optimism from Cinderella and Inside Out](../uploads/2015/03/PicMonkey-Collage-with-text.jpg)
+![Lessons in Resilience and Optimism from Cinderella and Inside Out](/uploads/2015/03/PicMonkey-Collage-with-text.jpg)
 
-[![Cinderella clock craft thumbnail](../uploads/2015/03/Cinderella-clock-image-140x180.jpg)](http://192.168.1.34:4945/wp-content/uploads/2015/03/Cinderella-clock-craft.pdf?bfb245 "Click here to view the pdf")[Click here to view the pdf for the Disney Cinderella clock craft](http://192.168.1.34:4945/wp-content/uploads/2015/03/Cinderella-clock-craft.pdf "download the pdf")
+[![Cinderella clock craft thumbnail](/uploads/2015/03/Cinderella-clock-image-140x180.jpg)](http://192.168.1.34:4945/wp-conte/uploads/2015/03/Cinderella-clock-craft.pdf?bfb245 "Click here to view the pdf")[Click here to view the pdf for the Disney Cinderella clock craft](http://192.168.1.34:4945/wp-conte/uploads/2015/03/Cinderella-clock-craft.pdf "download the pdf")

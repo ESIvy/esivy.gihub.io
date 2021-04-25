@@ -1,5 +1,5 @@
 ---
-title: Success factors 6: Is there a connection between AP courses, reading, and SAT scores?
+title: "Success factors 6: Is there a connection between AP courses, reading, and SAT scores?"
 date: '2014-05-14T09:00:12-05:00'
 status: publish
 path: /success-factors-does-taking-a-full-load-of-advanced-placement-classes-lead-to-good-sat-scores-or-not
@@ -7,7 +7,7 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1929
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
@@ -16,7 +16,7 @@ post_format: []
 ---
 AP classes and SAT scores can both be thought of as measurements of success factors for high school. But does one have an affect on the other?
 
-As I mentioned my last post, we noticed a couple of things about our school district that indicated that [our school was not preparing students as well as it could to take the SAT and the PSAT.](http://192.168.1.34:4945/?p=1927 "success factors: 5") So I started trying to figure out why. Not that I think the SAT is a perfect measure for learning, but it seemed like the level of achievement should at least stay the same.
+As I mentioned my last post, we noticed a couple of things about our school district that indicated that [our school was not preparing students as well as it could to take the SAT and the PSAT.](http://192.168.1.34:4945/draft1927 "success factors: 5") So I started trying to figure out why. Not that I think the SAT is a perfect measure for learning, but it seemed like the level of achievement should at least stay the same.
 
 At the risk of looking like a total nerd in the community :), I started talking to some other parents.
 

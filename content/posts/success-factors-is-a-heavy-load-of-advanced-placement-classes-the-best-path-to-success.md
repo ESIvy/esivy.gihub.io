@@ -1,5 +1,5 @@
 ---
-title: Success Factors 2: Is a heavy load of Advanced Placement Courses the Best Path to Success?
+title: "Success Factors 2: Is a heavy load of Advanced Placement Courses the Best Path to Success?"
 date: '2014-04-16T09:00:59-05:00'
 status: publish
 path: /success-factors-is-a-heavy-load-of-advanced-placement-classes-the-best-path-to-success
@@ -7,14 +7,14 @@ author: 'ES Ivy'
 excerpt: ''
 type: post
 id: 1919
-thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
+thumbnail: /uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
     - Education
     - 'Education &amp; Success'
 tag: []
 post_format: []
 ---
-![Success Factors: Is there any time to look at the clouds?](../uploads/2014/04/Sunray_clouds-375x250.jpg)In my last post about [success factors,](http://192.168.1.34:4945/?p=1903 "success factors 1") I talked about the glimpse I got into the homework load of a student taking advanced classes at a moderately competitive high school. It started me wondering, is there a reason for high school students to have tremendously heavy workloads?
+![Success Factors: Is there any time to look at the clouds?](/uploads/2014/04/Sunray_clouds-375x250.jpg)In my last post about [success factors,](http://192.168.1.34:4945/draft1903 "success factors 1") I talked about the glimpse I got into the homework load of a student taking advanced classes at a moderately competitive high school. It started me wondering, is there a reason for high school students to have tremendously heavy workloads?
 
 At the time, my kids were still in elementary school. Their homework load usually wasn’t unreasonable. There were a few times that it did get heavy, but there were always parents who complained louder than we did, and for the most part things worked out fine. But I continued to think about how we were going to tackle high school. (And I noticed that I just said “we,” just like the mom talking about how “we” had homework to do. Still, this isn’t *doing* our kids work.)
 
