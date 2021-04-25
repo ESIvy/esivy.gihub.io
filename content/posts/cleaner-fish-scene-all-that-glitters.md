@@ -1,8 +1,8 @@
 ---
-title: 'Cleaner Fish and Fish Cleaning Stations &#8211; excerpt from Miri Attwater and All That Glitters'
+title: Cleaner Fish and Fish Cleaning Stations – excerpt from Miri Attwater and All That Glitters
 date: '2014-02-26T09:00:01-06:00'
 status: publish
-permalink: /cleaner-fish-scene-all-that-glitters
+path: /cleaner-fish-scene-all-that-glitters
 author: 'ES Ivy'
 excerpt: ''
 type: post

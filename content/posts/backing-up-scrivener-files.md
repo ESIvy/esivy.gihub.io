@@ -1,8 +1,8 @@
 ---
-title: 'Backing up Scrivener Files &#8211; a quick guide to safely saving your files and backups'
+title: Backing up Scrivener Files – a quick guide to safely saving your files and backups
 date: '2014-11-26T11:30:15-06:00'
 status: publish
-permalink: /backing-up-scrivener-files
+path: /backing-up-scrivener-files
 author: 'ES Ivy'
 excerpt: ''
 type: post

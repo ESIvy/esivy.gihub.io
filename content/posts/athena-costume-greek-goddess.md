@@ -1,8 +1,8 @@
 ---
-title: 'Athena Costume &#8211; Greek Goddess Costume for girls'
+title: Athena Costume – Greek Goddess Costume for girls
 date: '2012-10-26T02:07:46-05:00'
 status: publish
-permalink: /athena-costume-greek-goddess
+path: /athena-costume-greek-goddess
 author: 'ES Ivy'
 excerpt: ''
 type: post

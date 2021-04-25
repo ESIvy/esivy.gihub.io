@@ -1,8 +1,8 @@
 ---
-title: 'Merry Christmas!'
+title: Merry Christmas!
 date: '2014-12-20T10:00:01-06:00'
 status: publish
-permalink: /merry-christmas
+path: /merry-christmas
 author: 'ES Ivy'
 excerpt: ''
 type: post

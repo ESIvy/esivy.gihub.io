@@ -1,8 +1,8 @@
 ---
-title: 'Cinderella and Inside Out &#8211; Lessons in Kids&#8217; Movies'
+title: Cinderella and Inside Out – Lessons in Kids' Movies
 date: '2015-03-25T11:20:59-05:00'
 status: publish
-permalink: /cinderella-and-inside-out-lessons-on-kids-movies
+path: /cinderella-and-inside-out-lessons-on-kids-movies
 author: 'ES Ivy'
 excerpt: ''
 type: post

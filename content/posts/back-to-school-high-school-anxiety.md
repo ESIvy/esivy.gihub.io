@@ -1,8 +1,8 @@
 ---
-title: 'Back to School &#8211; High School anxiety'
+title: Back to School – High School anxiety
 date: '2014-07-30T11:00:29-05:00'
 status: publish
-permalink: /back-to-school-high-school-anxiety
+path: /back-to-school-high-school-anxiety
 author: 'ES Ivy'
 excerpt: ''
 type: post

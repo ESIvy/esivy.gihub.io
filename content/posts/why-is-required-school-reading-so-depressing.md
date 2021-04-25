@@ -1,8 +1,8 @@
 ---
-title: 'Why is required school reading so depressing?'
+title: Why is required school reading so depressing?
 date: '2013-05-31T11:34:04-05:00'
 status: publish
-permalink: /why-is-required-school-reading-so-depressing
+path: /why-is-required-school-reading-so-depressing
 author: 'ES Ivy'
 excerpt: ''
 type: post

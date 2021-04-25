@@ -1,8 +1,8 @@
 ---
-title: 'Scrivener &#8211; Safely Saving Scrivener Files and Projects Tutorial'
+title: Scrivener – Safely Saving Scrivener Files and Projects Tutorial
 date: '2014-10-23T11:30:41-05:00'
 status: publish
-permalink: /scrivener-save-files-projects
+path: /scrivener-save-files-projects
 author: 'ES Ivy'
 excerpt: ''
 type: post

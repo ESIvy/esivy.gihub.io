@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater and the Ocean&#8217;s Secret Now Available on Kobo'
+title: Miri Attwater and the Ocean's Secret Now Available on Kobo
 date: '2012-12-29T12:41:36-06:00'
 status: publish
-permalink: /miri-attwater-and-the-oceans-secret-now-available-on-kobo
+path: /miri-attwater-and-the-oceans-secret-now-available-on-kobo
 author: 'ES Ivy'
 excerpt: ''
 type: post

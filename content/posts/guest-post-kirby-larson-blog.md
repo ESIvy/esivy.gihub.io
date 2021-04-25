@@ -1,8 +1,8 @@
 ---
-title: 'At the blog of Newbery book author Kirby Larson: my first guest post!'
+title: At the blog of Newbery book author Kirby Larson: my first guest post!
 date: '2014-01-31T09:30:15-06:00'
 status: publish
-permalink: /guest-post-kirby-larson-blog
+path: /guest-post-kirby-larson-blog
 author: 'ES Ivy'
 excerpt: ''
 type: post

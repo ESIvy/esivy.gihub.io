@@ -1,8 +1,8 @@
 ---
-title: 'Best Books for Girls in 1st Grade &#8211; my daughters&#8217; 7 favorite kids books'
+title: Best Books for Girls in 1st Grade – my daughters' 7 favorite kids books
 date: '2014-12-12T11:13:00-06:00'
 status: publish
-permalink: /best-books-for-girls-in-1st-grade-my-daughters-7-favorite-kids-books
+path: /best-books-for-girls-in-1st-grade-my-daughters-7-favorite-kids-books
 author: 'ES Ivy'
 excerpt: ''
 type: post

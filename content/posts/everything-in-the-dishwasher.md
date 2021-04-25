@@ -1,8 +1,8 @@
 ---
-title: 'Everything in the Dishwasher'
+title: Everything in the Dishwasher
 date: '2013-01-30T11:30:41-06:00'
 status: publish
-permalink: /everything-in-the-dishwasher
+path: /everything-in-the-dishwasher
 author: 'ES Ivy'
 excerpt: ''
 type: post

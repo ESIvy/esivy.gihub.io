@@ -1,8 +1,8 @@
 ---
-title: 'Super Easy Strawberry Heart Valentine Cookies'
+title: Super Easy Strawberry Heart Valentine Cookies
 date: '2013-02-13T10:58:11-06:00'
 status: publish
-permalink: /super-easy-strawberry-heart-valentine-cookies
+path: /super-easy-strawberry-heart-valentine-cookies
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'Success factors 5: Should you take the high school advice to take all the AP courses you possible can?'
+title: Success factors 5: Should you take the high school advice to take all the AP courses you possible can?
 date: '2014-05-07T09:00:06-05:00'
 status: publish
-permalink: /high-school-advice-should-you-take-all-the-ap-courses-you-possible-can
+path: /high-school-advice-should-you-take-all-the-ap-courses-you-possible-can
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,17 +1,17 @@
 ---
-title: 'Best Books for Girls in 4th Grade &#8211; My Daughters&#8217; Favorites'
+title: Best Books for Girls in 4th Grade – My Daughters' Favorites
 date: '2015-01-16T09:12:17-06:00'
 status: publish
-permalink: /best-books-for-girls-in-4th-grade-my-daughters-favorites
-author: 'ES Ivy'
+path: /best-books-for-girls-in-4th-grade-my-daughters-favorites
+author: ES Ivy
 excerpt: ''
 type: post
 id: 2941
 thumbnail: ../uploads/2014/12/growing-readers-514x150.jpg
 category:
-    - 'Book Reviews'
-    - Education
-    - 'Kids'' Books'
+  - Book Reviews
+  - Education
+  - Kids' Books
 tag: []
 post_format: []
 ---

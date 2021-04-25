@@ -1,8 +1,8 @@
 ---
-title: 'Print Publishing&#8217;s Answer to Ebooks'
+title: Print Publishing's Answer to Ebooks
 date: '2013-11-14T00:00:16-06:00'
 status: publish
-permalink: /print-publishings-answer-ebooks
+path: /print-publishings-answer-ebooks
 author: 'ES Ivy'
 excerpt: ''
 type: post

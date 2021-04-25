@@ -1,8 +1,8 @@
 ---
-title: 'Success Factors 2: Is a heavy load of Advanced Placement Courses the Best Path to Success?'
+title: Success Factors 2: Is a heavy load of Advanced Placement Courses the Best Path to Success?
 date: '2014-04-16T09:00:59-05:00'
 status: publish
-permalink: /success-factors-is-a-heavy-load-of-advanced-placement-classes-the-best-path-to-success
+path: /success-factors-is-a-heavy-load-of-advanced-placement-classes-the-best-path-to-success
 author: 'ES Ivy'
 excerpt: ''
 type: post

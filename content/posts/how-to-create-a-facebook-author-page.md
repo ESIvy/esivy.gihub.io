@@ -1,8 +1,8 @@
 ---
-title: 'How to create a facebook author page, step 1- Facebook Profile or Facebook Page?'
+title: How to create a facebook author page, step 1- Facebook Profile or Facebook Page?
 date: '2014-03-04T09:00:11-06:00'
 status: publish
-permalink: /how-to-create-a-facebook-author-page
+path: /how-to-create-a-facebook-author-page
 author: 'ES Ivy'
 excerpt: ''
 type: post

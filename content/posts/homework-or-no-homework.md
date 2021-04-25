@@ -1,8 +1,8 @@
 ---
-title: 'To give, or not to give homework? That is the question'
+title: To give, or not to give homework? That is the question
 date: '2015-03-24T10:13:54-05:00'
 status: publish
-permalink: /homework-or-no-homework
+path: /homework-or-no-homework
 author: 'ES Ivy'
 excerpt: ''
 type: post

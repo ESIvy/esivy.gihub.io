@@ -1,8 +1,8 @@
 ---
-title: 'You are Cordially Invited to Dinner with the Queen &#8211; Don&#8217;t Panic!'
+title: You are Cordially Invited to Dinner with the Queen – Don't Panic!
 date: '2013-01-10T11:37:40-06:00'
 status: publish
-permalink: /you-are-cordially-invited-to-dinner-with-the-queen-dont-panic
+path: /you-are-cordially-invited-to-dinner-with-the-queen-dont-panic
 author: 'ES Ivy'
 excerpt: ''
 type: post

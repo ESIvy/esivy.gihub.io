@@ -1,8 +1,8 @@
 ---
-title: 'Jump start your summer reading! Miri Attwater and the Ocean&#8217;s Secret 99-cent Sale!'
+title: Jump start your summer reading! Miri Attwater and the Ocean's Secret 99-cent Sale!
 date: '2014-06-11T09:00:47-05:00'
 status: publish
-permalink: /jump-start-your-summer-reading-miri-attwater-and-the-oceans-secret-99-cent-sale
+path: /jump-start-your-summer-reading-miri-attwater-and-the-oceans-secret-99-cent-sale
 author: 'ES Ivy'
 excerpt: ''
 type: post

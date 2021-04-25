@@ -1,8 +1,8 @@
 ---
-title: 'Success factors 4: Is the answer a full load of advanced placement courses?'
+title: Success factors 4: Is the answer a full load of advanced placement courses?
 date: '2014-04-30T09:00:07-05:00'
 status: publish
-permalink: /success-factors-is-the-answer-a-full-load-of-advanced-placement-courses
+path: /success-factors-is-the-answer-a-full-load-of-advanced-placement-courses
 author: 'ES Ivy'
 excerpt: ''
 type: post

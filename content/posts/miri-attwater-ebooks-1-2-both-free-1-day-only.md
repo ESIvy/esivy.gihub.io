@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater eBooks 1 &#038; 2 Both Free 1 Day Only!'
+title: Miri Attwater eBooks 1 &#038; 2 Both Free 1 Day Only!
 date: '2014-11-25T08:50:24-06:00'
 status: publish
-permalink: /miri-attwater-ebooks-1-2-both-free-1-day-only
+path: /miri-attwater-ebooks-1-2-both-free-1-day-only
 author: 'ES Ivy'
 excerpt: ''
 type: post

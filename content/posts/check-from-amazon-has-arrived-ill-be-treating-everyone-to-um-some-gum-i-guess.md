@@ -1,8 +1,8 @@
 ---
-title: 'Check from Amazon has arrived! I&#8217;ll be treating everyone to, um, some gum I guess. :)'
+title: Check from Amazon has arrived! I'll be treating everyone to, um, some gum I guess. :)
 date: '2013-04-01T11:33:37-05:00'
 status: publish
-permalink: /check-from-amazon-has-arrived-ill-be-treating-everyone-to-um-some-gum-i-guess
+path: /check-from-amazon-has-arrived-ill-be-treating-everyone-to-um-some-gum-i-guess
 author: 'ES Ivy'
 excerpt: ''
 type: post

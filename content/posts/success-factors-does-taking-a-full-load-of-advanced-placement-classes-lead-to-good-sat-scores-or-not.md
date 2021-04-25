@@ -1,8 +1,8 @@
 ---
-title: 'Success factors 6: Is there a connection between AP courses, reading, and SAT scores?'
+title: Success factors 6: Is there a connection between AP courses, reading, and SAT scores?
 date: '2014-05-14T09:00:12-05:00'
 status: publish
-permalink: /success-factors-does-taking-a-full-load-of-advanced-placement-classes-lead-to-good-sat-scores-or-not
+path: /success-factors-does-taking-a-full-load-of-advanced-placement-classes-lead-to-good-sat-scores-or-not
 author: 'ES Ivy'
 excerpt: ''
 type: post

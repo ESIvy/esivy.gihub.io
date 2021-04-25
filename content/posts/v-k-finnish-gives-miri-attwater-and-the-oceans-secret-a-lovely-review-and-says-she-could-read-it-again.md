@@ -1,8 +1,8 @@
 ---
-title: 'V.K. Finnish gives Miri Attwater and the Ocean&#8217;s Secret a lovely review and would read it again!'
+title: V.K. Finnish gives Miri Attwater and the Ocean's Secret a lovely review and would read it again!
 date: '2012-12-17T09:08:58-06:00'
 status: publish
-permalink: /v-k-finnish-gives-miri-attwater-and-the-oceans-secret-a-lovely-review-and-says-she-could-read-it-again
+path: /v-k-finnish-gives-miri-attwater-and-the-oceans-secret-a-lovely-review-and-says-she-could-read-it-again
 author: 'ES Ivy'
 excerpt: ''
 type: post

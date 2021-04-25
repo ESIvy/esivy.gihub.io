@@ -1,8 +1,8 @@
 ---
-title: 'Bookcubs.com, Hannah &#8211; age 9 &#8211; gives Miri Attwater and the Ocean&#8217;s Secret 5 stars (and 22 exclamation marks!)'
+title: Bookcubs.com, Hannah – age 9 – gives Miri Attwater and the Ocean's Secret 5 stars (and 22 exclamation marks!)
 date: '2013-07-01T10:20:53-05:00'
 status: publish
-permalink: /bookcubs-com-hannah-age-9-gives-miri-attwater-and-the-oceans-secret-5-stars-and-22-exclamation-marks
+path: /bookcubs-com-hannah-age-9-gives-miri-attwater-and-the-oceans-secret-5-stars-and-22-exclamation-marks
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'Success factors 3: Is the answer to not take a full load of advanced placement courses?'
+title: Success factors 3: Is the answer to not take a full load of advanced placement courses?
 date: '2014-04-23T09:00:06-05:00'
 status: publish
-permalink: /success-factors-is-the-answer-to-not-take-a-full-load-of-advanced-placement-courses
+path: /success-factors-is-the-answer-to-not-take-a-full-load-of-advanced-placement-courses
 author: 'ES Ivy'
 excerpt: ''
 type: post

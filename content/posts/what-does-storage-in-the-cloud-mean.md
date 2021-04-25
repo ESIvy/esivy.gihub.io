@@ -1,8 +1,8 @@
 ---
-title: 'What does storage in the cloud mean?'
+title: What does storage in the cloud mean?
 date: '2014-11-13T11:30:58-06:00'
 status: publish
-permalink: /what-does-storage-in-the-cloud-mean
+path: /what-does-storage-in-the-cloud-mean
 author: 'ES Ivy'
 excerpt: ''
 type: post

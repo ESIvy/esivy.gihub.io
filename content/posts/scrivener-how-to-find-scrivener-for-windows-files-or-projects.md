@@ -1,8 +1,8 @@
 ---
-title: 'Scrivener &#8211; How to Find Scrivener for Windows files or projects on your computer'
+title: Scrivener – How to Find Scrivener for Windows files or projects on your computer
 date: '2014-10-14T12:53:06-05:00'
 status: publish
-permalink: /scrivener-how-to-find-scrivener-for-windows-files-or-projects
+path: /scrivener-how-to-find-scrivener-for-windows-files-or-projects
 author: 'ES Ivy'
 excerpt: ''
 type: post

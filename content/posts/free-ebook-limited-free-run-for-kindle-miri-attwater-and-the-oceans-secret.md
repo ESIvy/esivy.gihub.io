@@ -1,8 +1,8 @@
 ---
-title: 'Free ebook &#8211; Limited free run for Kindle, Miri Attwater and the Ocean&#8217;s Secret'
+title: Free ebook – Limited free run for Kindle, Miri Attwater and the Ocean's Secret
 date: '2014-11-21T09:57:34-06:00'
 status: publish
-permalink: /free-ebook-limited-free-run-for-kindle-miri-attwater-and-the-oceans-secret
+path: /free-ebook-limited-free-run-for-kindle-miri-attwater-and-the-oceans-secret
 author: 'ES Ivy'
 excerpt: ''
 type: post

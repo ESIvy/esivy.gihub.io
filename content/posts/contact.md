@@ -2,7 +2,7 @@
 title: Contact
 date: '2012-09-29T15:14:49-05:00'
 status: publish
-permalink: /contact
+path: /contact
 author: 'ES Ivy'
 excerpt: ''
 type: page

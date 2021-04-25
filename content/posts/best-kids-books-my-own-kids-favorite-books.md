@@ -1,8 +1,8 @@
 ---
-title: 'Best Kids Books &#8211; My own kids&#8217; favorite books'
+title: Best Kids Books – My own kids' favorite books
 date: '2014-12-11T10:03:35-06:00'
 status: publish
-permalink: /best-kids-books-my-own-kids-favorite-books
+path: /best-kids-books-my-own-kids-favorite-books
 author: 'ES Ivy'
 excerpt: ''
 type: post

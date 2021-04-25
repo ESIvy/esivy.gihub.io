@@ -1,8 +1,8 @@
 ---
-title: 'Happy Independence Day!'
+title: Happy Independence Day!
 date: '2015-07-03T09:44:34-05:00'
 status: publish
-permalink: /independence-day
+path: /independence-day
 author: 'ES Ivy'
 excerpt: ''
 type: post

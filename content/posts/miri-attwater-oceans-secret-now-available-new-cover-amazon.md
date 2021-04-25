@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater and the Ocean&#8217;s Secret now available  with a new cover on Amazon!'
+title: Miri Attwater and the Ocean's Secret now available  with a new cover on Amazon!
 date: '2014-01-08T18:12:18-06:00'
 status: publish
-permalink: /miri-attwater-oceans-secret-now-available-new-cover-amazon
+path: /miri-attwater-oceans-secret-now-available-new-cover-amazon
 author: 'ES Ivy'
 excerpt: ''
 type: post

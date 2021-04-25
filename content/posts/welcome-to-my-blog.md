@@ -1,8 +1,8 @@
 ---
-title: 'Welcome to my blog!'
+title: Welcome to my blog!
 date: '2012-10-04T15:35:41-05:00'
 status: publish
-permalink: /welcome-to-my-blog
+path: /welcome-to-my-blog
 author: 'ES Ivy'
 excerpt: ''
 type: post

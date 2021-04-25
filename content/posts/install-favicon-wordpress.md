@@ -1,8 +1,8 @@
 ---
-title: 'Install a Favicon on WordPress tutorial (2012 and other themes)'
+title: Install a Favicon on WordPress tutorial (2012 and other themes)
 date: '2014-11-22T21:42:19-06:00'
 status: publish
-permalink: /install-favicon-wordpress
+path: /install-favicon-wordpress
 author: 'ES Ivy'
 excerpt: ''
 type: post

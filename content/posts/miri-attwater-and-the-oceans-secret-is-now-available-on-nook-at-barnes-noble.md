@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater and the Ocean&#8217;s Secret is now available on Nook at Barnes &#038; Noble!'
+title: Miri Attwater and the Ocean's Secret is now available on Nook at Barnes &#038; Noble!
 date: '2013-05-07T11:08:34-05:00'
 status: publish
-permalink: /miri-attwater-and-the-oceans-secret-is-now-available-on-nook-at-barnes-noble
+path: /miri-attwater-and-the-oceans-secret-is-now-available-on-nook-at-barnes-noble
 author: 'ES Ivy'
 excerpt: ''
 type: post

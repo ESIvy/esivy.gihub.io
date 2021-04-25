@@ -1,8 +1,8 @@
 ---
-title: 'Octopus camouflage, science behind the magical mermaids of Miri Attwater'
+title: Octopus camouflage, science behind the magical mermaids of Miri Attwater
 date: '2014-01-22T09:00:42-06:00'
 status: publish
-permalink: /octopus-camouflage
+path: /octopus-camouflage
 author: 'ES Ivy'
 excerpt: ''
 type: post

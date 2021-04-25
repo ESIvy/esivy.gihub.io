@@ -1,8 +1,8 @@
 ---
-title: 'Success Factors 8: Test and Retest and High Stress, the best way?'
+title: Success Factors 8: Test and Retest and High Stress, the best way?
 date: '2014-05-28T09:00:08-05:00'
 status: publish
-permalink: /success-factors-test-and-retest-and-high-stress-the-best-way
+path: /success-factors-test-and-retest-and-high-stress-the-best-way
 author: 'ES Ivy'
 excerpt: ''
 type: post

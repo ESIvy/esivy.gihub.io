@@ -1,8 +1,8 @@
 ---
-title: '10 Mermaid Party Food, Craft, Decoration and Party Favor Ideas'
+title: 10 Mermaid Party Food, Craft, Decoration and Party Favor Ideas
 date: '2014-10-28T10:00:21-05:00'
 status: publish
-permalink: /mermaid-party-food-craft-decoration-and-costume-ideas
+path: /mermaid-party-food-craft-decoration-and-costume-ideas
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'The Paperbacks are Coming!'
+title: The Paperbacks are Coming!
 date: '2014-11-11T11:30:16-06:00'
 status: publish
-permalink: /the-paperbacks-are-coming
+path: /the-paperbacks-are-coming
 author: 'ES Ivy'
 excerpt: ''
 type: post

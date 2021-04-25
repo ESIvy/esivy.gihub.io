@@ -1,8 +1,8 @@
 ---
-title: 'Science in Strange Magic, the new animated movie from George Lucas and Walt Disney Pictures'
+title: Science in Strange Magic, the new animated movie from George Lucas and Walt Disney Pictures
 date: '2015-01-27T10:29:27-06:00'
 status: publish
-permalink: /science-in-strange-magic-the-new-animated-movie-from-george-lucas-and-walt-disney-pictures
+path: /science-in-strange-magic-the-new-animated-movie-from-george-lucas-and-walt-disney-pictures
 author: 'ES Ivy'
 excerpt: ''
 type: post

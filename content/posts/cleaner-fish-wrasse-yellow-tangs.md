@@ -1,8 +1,8 @@
 ---
-title: 'Cleaner Fish &#8211; More Information than You Thought You Wanted to Know'
+title: Cleaner Fish – More Information than You Thought You Wanted to Know
 date: '2014-02-19T09:00:57-06:00'
 status: publish
-permalink: /cleaner-fish-wrasse-yellow-tangs
+path: /cleaner-fish-wrasse-yellow-tangs
 author: 'ES Ivy'
 excerpt: ''
 type: post

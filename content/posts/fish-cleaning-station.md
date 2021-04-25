@@ -1,8 +1,8 @@
 ---
-title: 'Fish Cleaning Station &#8211; Yes, fish cleaning stations like in Miri Attwater and All That Glitters really exist'
+title: Fish Cleaning Station – Yes, fish cleaning stations like in Miri Attwater and All That Glitters really exist
 date: '2014-02-12T09:00:12-06:00'
 status: publish
-permalink: /fish-cleaning-station
+path: /fish-cleaning-station
 author: 'ES Ivy'
 excerpt: ''
 type: post

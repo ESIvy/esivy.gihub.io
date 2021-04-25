@@ -1,8 +1,8 @@
 ---
-title: 'Happy Halloween! From my ghosts to yours'
+title: Happy Halloween! From my ghosts to yours
 date: '2014-10-30T11:30:49-05:00'
 status: publish
-permalink: /happy-halloween-from-my-ghosts-to-yours
+path: /happy-halloween-from-my-ghosts-to-yours
 author: 'ES Ivy'
 excerpt: ''
 type: post

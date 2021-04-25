@@ -1,8 +1,8 @@
 ---
-title: 'The 9 Best Websites for Planning a Trip to Disney Parks, Disney World Florida'
+title: The 9 Best Websites for Planning a Trip to Disney Parks, Disney World Florida
 date: '2014-09-12T12:30:57-05:00'
 status: publish
-permalink: /the-10-best-websites-for-planning-a-trip-to-disney-parks-disney-world-florida
+path: /the-10-best-websites-for-planning-a-trip-to-disney-parks-disney-world-florida
 author: 'ES Ivy'
 excerpt: ''
 type: post

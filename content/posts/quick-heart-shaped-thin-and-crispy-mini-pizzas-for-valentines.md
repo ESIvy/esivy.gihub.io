@@ -1,8 +1,8 @@
 ---
-title: 'Quick Heart-Shaped Thin and Crispy Mini-Pizzas for Valentine&#8217;s'
+title: Quick Heart-Shaped Thin and Crispy Mini-Pizzas for Valentine's
 date: '2013-02-14T09:00:18-06:00'
 status: publish
-permalink: /quick-heart-shaped-thin-and-crispy-mini-pizzas-for-valentines
+path: /quick-heart-shaped-thin-and-crispy-mini-pizzas-for-valentines
 author: 'ES Ivy'
 excerpt: ''
 type: post

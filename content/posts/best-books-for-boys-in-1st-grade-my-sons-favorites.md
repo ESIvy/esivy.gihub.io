@@ -1,8 +1,8 @@
 ---
-title: 'Best Books for Boys in 1st Grade &#8211; my son&#8217;s 4 favorite kids books'
+title: Best Books for Boys in 1st Grade – my son's 4 favorite kids books
 date: '2014-12-11T14:49:41-06:00'
 status: publish
-permalink: /best-books-for-boys-in-1st-grade-my-sons-favorites
+path: /best-books-for-boys-in-1st-grade-my-sons-favorites
 author: 'ES Ivy'
 excerpt: ''
 type: post

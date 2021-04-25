@@ -1,8 +1,8 @@
 ---
-title: 'Best Books for Boys in Second Grade &#8211; my son&#8217;s favorites'
+title: Best Books for Boys in Second Grade – my son's favorites
 date: '2014-12-15T10:00:51-06:00'
 status: publish
-permalink: /best-books-for-boys-in-second-grade-my-sons-favorites
+path: /best-books-for-boys-in-second-grade-my-sons-favorites
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater and the Ocean&#8217;s Secret on an Amazon Top 100 List!'
+title: Miri Attwater and the Ocean's Secret on an Amazon Top 100 List!
 date: '2012-12-20T22:16:55-06:00'
 status: publish
-permalink: /miri-attwater-and-the-oceans-secret-on-an-amazon-top-100-list
+path: /miri-attwater-and-the-oceans-secret-on-an-amazon-top-100-list
 author: 'ES Ivy'
 excerpt: ''
 type: post

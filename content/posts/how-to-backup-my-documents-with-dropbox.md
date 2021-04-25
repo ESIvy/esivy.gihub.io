@@ -1,8 +1,8 @@
 ---
-title: 'How to backup My Documents with Dropbox'
+title: How to backup My Documents with Dropbox
 date: '2014-11-20T11:30:36-06:00'
 status: publish
-permalink: /how-to-backup-my-documents-with-dropbox
+path: /how-to-backup-my-documents-with-dropbox
 author: 'ES Ivy'
 excerpt: ''
 type: post

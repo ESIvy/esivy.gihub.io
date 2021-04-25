@@ -1,8 +1,8 @@
 ---
-title: 'Success factors: High school rankings released by U.S. News: What do they mean?'
+title: Success factors: High school rankings released by U.S. News: What do they mean?
 date: '2014-04-25T11:26:24-05:00'
 status: publish
-permalink: /success-factors-high-school-rankings-released-by-u-s-news-what-does-it-mean
+path: /success-factors-high-school-rankings-released-by-u-s-news-what-does-it-mean
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'A kid&#8217;s&#8217; review of Miri Attwater and the Ocean&#8217;s Secret'
+title: A kid's' review of Miri Attwater and the Ocean's Secret
 date: '2012-12-24T08:00:07-06:00'
 status: publish
-permalink: /a-kids-review-of-miri-attwater-and-the-oceans-secret
+path: /a-kids-review-of-miri-attwater-and-the-oceans-secret
 author: 'ES Ivy'
 excerpt: ''
 type: post

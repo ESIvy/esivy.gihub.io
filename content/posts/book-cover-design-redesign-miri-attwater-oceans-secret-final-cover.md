@@ -1,8 +1,8 @@
 ---
-title: 'Book Cover Design: Redesign for Miri Attwater and the Ocean&#8217;s Secret, new cover'
+title: Book Cover Design: Redesign for Miri Attwater and the Ocean's Secret, new cover
 date: '2013-11-20T20:38:47-06:00'
 status: publish
-permalink: /book-cover-design-redesign-miri-attwater-oceans-secret-final-cover
+path: /book-cover-design-redesign-miri-attwater-oceans-secret-final-cover
 author: 'ES Ivy'
 excerpt: ''
 type: post

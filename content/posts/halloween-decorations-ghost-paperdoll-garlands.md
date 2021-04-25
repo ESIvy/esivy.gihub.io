@@ -1,8 +1,8 @@
 ---
-title: 'Halloween decorations: Paperdoll Ghost Garlands'
+title: Halloween decorations: Paperdoll Ghost Garlands
 date: '2013-10-20T13:00:46-05:00'
 status: publish
-permalink: /halloween-decorations-ghost-paperdoll-garlands
+path: /halloween-decorations-ghost-paperdoll-garlands
 author: 'ES Ivy'
 excerpt: ''
 type: post

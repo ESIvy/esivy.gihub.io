@@ -1,8 +1,8 @@
 ---
-title: 'New site &#8211; High School, College, Success!'
+title: New site – High School, College, Success!
 date: '2015-07-30T15:39:40-05:00'
 status: publish
-permalink: /new-site-high-school-college-success
+path: /new-site-high-school-college-success
 author: 'ES Ivy'
 excerpt: ''
 type: post

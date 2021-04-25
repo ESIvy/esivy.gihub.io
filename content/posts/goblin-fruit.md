@@ -1,8 +1,8 @@
 ---
-title: 'Goblin Fruit Kids Will Gobble Up'
+title: Goblin Fruit Kids Will Gobble Up
 date: '2013-10-17T16:22:06-05:00'
 status: publish
-permalink: /goblin-fruit
+path: /goblin-fruit
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'What is a flash drive? Tutorial on removable, external, computer file storage'
+title: What is a flash drive? Tutorial on removable, external, computer file storage
 date: '2014-10-21T11:30:12-05:00'
 status: publish
-permalink: /what-is-a-flash-drive
+path: /what-is-a-flash-drive
 author: 'ES Ivy'
 excerpt: ''
 type: post

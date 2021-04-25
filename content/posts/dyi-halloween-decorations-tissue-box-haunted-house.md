@@ -1,8 +1,8 @@
 ---
-title: 'Make Your Own Halloween Decorations: Tissue box haunted house'
+title: Make Your Own Halloween Decorations: Tissue box haunted house
 date: '2013-10-24T12:00:26-05:00'
 status: publish
-permalink: /dyi-halloween-decorations-tissue-box-haunted-house
+path: /dyi-halloween-decorations-tissue-box-haunted-house
 author: 'ES Ivy'
 excerpt: ''
 type: post

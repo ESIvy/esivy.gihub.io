@@ -1,8 +1,8 @@
 ---
-title: 'Title Reveal for the continuation of Miri Attwater&#8217;s Adventures, Miri Attwater and All that Glitters'
+title: Title Reveal for the continuation of Miri Attwater's Adventures, Miri Attwater and All that Glitters
 date: '2013-01-31T10:00:23-06:00'
 status: publish
-permalink: /title-reveal-for-the-continuation-of-miri-attwaters-adventures-miri-attwater-and-all-that-glitters
+path: /title-reveal-for-the-continuation-of-miri-attwaters-adventures-miri-attwater-and-all-that-glitters
 author: 'ES Ivy'
 excerpt: ''
 type: post

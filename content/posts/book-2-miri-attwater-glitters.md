@@ -1,8 +1,8 @@
 ---
-title: 'Book 2, Miri Attwater and All that Glitters'
+title: Book 2, Miri Attwater and All that Glitters
 date: '2014-01-21T08:01:14-06:00'
 status: publish
-permalink: /book-2-miri-attwater-glitters
+path: /book-2-miri-attwater-glitters
 author: 'ES Ivy'
 excerpt: ''
 type: post

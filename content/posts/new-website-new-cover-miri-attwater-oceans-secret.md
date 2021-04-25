@@ -1,8 +1,8 @@
 ---
-title: 'New Cover for Miri Attwater and the Ocean&#8217;s Secret Coming Soon'
+title: New Cover for Miri Attwater and the Ocean's Secret Coming Soon
 date: '2013-10-15T10:50:05-05:00'
 status: publish
-permalink: /new-website-new-cover-miri-attwater-oceans-secret
+path: /new-website-new-cover-miri-attwater-oceans-secret
 author: 'ES Ivy'
 excerpt: ''
 type: post

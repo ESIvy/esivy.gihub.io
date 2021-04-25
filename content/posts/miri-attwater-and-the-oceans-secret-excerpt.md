@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater and the Ocean&#8217;s Secret &#8211; Excerpt'
+title: Miri Attwater and the Ocean's Secret – Excerpt
 date: '2012-10-01T02:05:37-05:00'
 status: publish
-permalink: /miri-attwater-and-the-oceans-secret-excerpt
+path: /miri-attwater-and-the-oceans-secret-excerpt
 author: 'ES Ivy'
 excerpt: ''
 type: page

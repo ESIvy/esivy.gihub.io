@@ -1,8 +1,8 @@
 ---
-title: 'Success factors 1: What&#8217;s the Best Way to Guide Your Child Through High School to be a Success in College and in Life?'
+title: Success factors 1: What's the Best Way to Guide Your Child Through High School to be a Success in College and in Life?
 date: '2014-04-09T09:00:09-05:00'
 status: publish
-permalink: /success-factors-whats-the-best-way-to-guide-your-child-through-high-school-to-be-a-success-in-college-and-in-life
+path: /success-factors-whats-the-best-way-to-guide-your-child-through-high-school-to-be-a-success-in-college-and-in-life
 author: 'ES Ivy'
 excerpt: ''
 type: post

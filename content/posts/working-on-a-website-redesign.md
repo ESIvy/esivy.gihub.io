@@ -1,8 +1,8 @@
 ---
-title: 'Working on a Website Redesign'
+title: Working on a Website Redesign
 date: '2014-11-12T11:30:54-06:00'
 status: publish
-permalink: /working-on-a-website-redesign
+path: /working-on-a-website-redesign
 author: 'ES Ivy'
 excerpt: ''
 type: post

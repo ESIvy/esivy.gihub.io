@@ -1,8 +1,8 @@
 ---
-title: 'Happy Thanksgiving!'
+title: Happy Thanksgiving!
 date: '2013-11-28T03:08:49-06:00'
 status: publish
-permalink: /happy-thanksgiving
+path: /happy-thanksgiving
 author: 'ES Ivy'
 excerpt: ''
 type: post

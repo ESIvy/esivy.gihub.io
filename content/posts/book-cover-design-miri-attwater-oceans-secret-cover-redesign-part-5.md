@@ -1,8 +1,8 @@
 ---
-title: 'Book Cover Design: Miri Attwater and the Ocean’s Secret Cover Redesign, part 5, background'
+title: Book Cover Design: Miri Attwater and the Ocean’s Secret Cover Redesign, part 5, background
 date: '2013-11-12T12:30:53-06:00'
 status: publish
-permalink: /book-cover-design-miri-attwater-oceans-secret-cover-redesign-part-5
+path: /book-cover-design-miri-attwater-oceans-secret-cover-redesign-part-5
 author: 'ES Ivy'
 excerpt: ''
 type: post

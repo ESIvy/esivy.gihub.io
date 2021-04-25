@@ -1,8 +1,8 @@
 ---
-title: 'Trip Planning Tips for Disney Parks'
+title: Trip Planning Tips for Disney Parks
 date: '2014-07-09T11:42:53-05:00'
 status: publish
-permalink: /trip-planning-tips-for-disney-parks
+path: /trip-planning-tips-for-disney-parks
 author: 'ES Ivy'
 excerpt: ''
 type: post

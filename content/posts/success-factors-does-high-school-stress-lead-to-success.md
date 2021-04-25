@@ -1,8 +1,8 @@
 ---
-title: 'Success factors 7: High school advice, does high school stress lead to success?'
+title: Success factors 7: High school advice, does high school stress lead to success?
 date: '2014-05-21T09:00:36-05:00'
 status: publish
-permalink: /success-factors-does-high-school-stress-lead-to-success
+path: /success-factors-does-high-school-stress-lead-to-success
 author: 'ES Ivy'
 excerpt: ''
 type: post

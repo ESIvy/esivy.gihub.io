@@ -1,8 +1,8 @@
 ---
-title: 'Winter craft ideas for kids: Styrofoam and Pipe Cleaner Animals Winter Wonderland'
+title: Winter craft ideas for kids: Styrofoam and Pipe Cleaner Animals Winter Wonderland
 date: '2014-01-23T10:30:01-06:00'
 status: publish
-permalink: /winter-craft-ideas-for-kids-styrofoam-pipe-cleaner-animals-winter-wonderland
+path: /winter-craft-ideas-for-kids-styrofoam-pipe-cleaner-animals-winter-wonderland
 author: 'ES Ivy'
 excerpt: ''
 type: post

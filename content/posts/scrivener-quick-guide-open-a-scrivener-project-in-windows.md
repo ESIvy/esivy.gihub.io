@@ -1,8 +1,8 @@
 ---
-title: 'How to open a File or Project in Scrivener for Windows, A Quick Guide'
+title: How to open a File or Project in Scrivener for Windows, A Quick Guide
 date: '2014-10-09T11:30:30-05:00'
 status: publish
-permalink: /scrivener-quick-guide-open-a-scrivener-project-in-windows
+path: /scrivener-quick-guide-open-a-scrivener-project-in-windows
 author: 'ES Ivy'
 excerpt: ''
 type: post

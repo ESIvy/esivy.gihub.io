@@ -1,8 +1,8 @@
 ---
-title: 'Help your little one make their own stitching card Valentines'
+title: Help your little one make their own stitching card Valentines
 date: '2013-02-08T11:44:53-06:00'
 status: publish
-permalink: /help-your-little-one-make-their-own-stitching-card-valentines
+path: /help-your-little-one-make-their-own-stitching-card-valentines
 author: 'ES Ivy'
 excerpt: ''
 type: post

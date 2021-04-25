@@ -1,8 +1,8 @@
 ---
-title: 'Recipe for Easy Roast Beast &#8211; er, I Mean Roast Beef!'
+title: Recipe for Easy Roast Beast – er, I Mean Roast Beef!
 date: '2013-01-16T10:00:43-06:00'
 status: publish
-permalink: /super-easy-roast-beast-with-all-the-fixins
+path: /super-easy-roast-beast-with-all-the-fixins
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'Welcome to my new website!'
+title: Welcome to my new website!
 date: '2013-10-07T10:00:14-05:00'
 status: publish
-permalink: /welcome-new-website
+path: /welcome-new-website
 author: 'ES Ivy'
 excerpt: ''
 type: post

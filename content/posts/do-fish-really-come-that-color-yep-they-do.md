@@ -1,8 +1,8 @@
 ---
-title: 'Do fish really come that color? Yep, they do!'
+title: Do fish really come that color? Yep, they do!
 date: '2012-10-06T21:18:22-05:00'
 status: publish
-permalink: /do-fish-really-come-that-color-yep-they-do
+path: /do-fish-really-come-that-color-yep-they-do
 author: 'ES Ivy'
 excerpt: ''
 type: post

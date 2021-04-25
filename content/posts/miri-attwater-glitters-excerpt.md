@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater and All that Glitters &#8211; Excerpt'
+title: Miri Attwater and All that Glitters – Excerpt
 date: '2013-10-05T20:11:00-05:00'
 status: publish
-permalink: /miri-attwater-glitters-excerpt
+path: /miri-attwater-glitters-excerpt
 author: 'ES Ivy'
 excerpt: ''
 type: page

@@ -1,8 +1,8 @@
 ---
-title: 'Where&#8217;s all the sparkly princess stuff?'
+title: Where's all the sparkly princess stuff?
 date: '2012-10-13T20:12:08-05:00'
 status: publish
-permalink: /wheres-all-the-sparkly-princess-stuff
+path: /wheres-all-the-sparkly-princess-stuff
 author: 'ES Ivy'
 excerpt: ''
 type: post

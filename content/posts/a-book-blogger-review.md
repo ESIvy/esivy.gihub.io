@@ -1,8 +1,8 @@
 ---
-title: 'A Book Blogger Review!'
+title: A Book Blogger Review!
 date: '2012-10-18T15:49:51-05:00'
 status: publish
-permalink: /a-book-blogger-review
+path: /a-book-blogger-review
 author: 'ES Ivy'
 excerpt: ''
 type: post

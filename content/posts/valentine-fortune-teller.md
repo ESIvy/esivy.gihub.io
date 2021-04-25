@@ -1,8 +1,8 @@
 ---
-title: 'Make Your Own Valentine Fortune Teller'
+title: Make Your Own Valentine Fortune Teller
 date: '2013-02-06T14:16:41-06:00'
 status: publish
-permalink: /valentine-fortune-teller
+path: /valentine-fortune-teller
 author: 'ES Ivy'
 excerpt: ''
 type: post

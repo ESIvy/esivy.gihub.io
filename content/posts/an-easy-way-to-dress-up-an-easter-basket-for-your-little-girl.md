@@ -1,8 +1,8 @@
 ---
-title: 'An Easy Way to Dress Up an Easter Basket for your Little Girl'
+title: An Easy Way to Dress Up an Easter Basket for your Little Girl
 date: '2013-03-26T09:44:41-05:00'
 status: publish
-permalink: /an-easy-way-to-dress-up-an-easter-basket-for-your-little-girl
+path: /an-easy-way-to-dress-up-an-easter-basket-for-your-little-girl
 author: 'ES Ivy'
 excerpt: ''
 type: post

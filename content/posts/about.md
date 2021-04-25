@@ -2,7 +2,7 @@
 title: About
 date: '2012-09-29T15:14:39-05:00'
 status: publish
-permalink: /about
+path: /about
 author: 'ES Ivy'
 excerpt: ''
 type: page

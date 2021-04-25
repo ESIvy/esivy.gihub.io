@@ -1,8 +1,8 @@
 ---
-title: 'Did you have roast beast for Christmas dinner?'
+title: Did you have roast beast for Christmas dinner?
 date: '2013-01-09T10:00:33-06:00'
 status: publish
-permalink: /did-you-have-roast-beast-for-christmas-dinner
+path: /did-you-have-roast-beast-for-christmas-dinner
 author: 'ES Ivy'
 excerpt: ''
 type: post

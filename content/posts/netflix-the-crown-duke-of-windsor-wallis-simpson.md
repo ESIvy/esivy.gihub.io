@@ -1,8 +1,8 @@
 ---
-title: 'Netflix The Crown &#8211; the Duke of Windsor and Wallis Simpson'
+title: Netflix The Crown – the Duke of Windsor and Wallis Simpson
 date: '2017-02-07T12:19:36-06:00'
 status: publish
-permalink: /netflix-the-crown-duke-of-windsor-wallis-simpson
+path: /netflix-the-crown-duke-of-windsor-wallis-simpson
 author: 'ES Ivy'
 excerpt: ''
 type: post

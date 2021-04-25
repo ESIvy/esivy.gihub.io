@@ -1,8 +1,8 @@
 ---
-title: 'Ms. Ivy&#8217;s Guide to Basic Table Manners'
+title: Ms. Ivy's Guide to Basic Table Manners
 date: '2013-03-19T12:01:22-05:00'
 status: publish
-permalink: /ms-ivys-guide-to-basic-table-manners
+path: /ms-ivys-guide-to-basic-table-manners
 author: 'ES Ivy'
 excerpt: ''
 type: post

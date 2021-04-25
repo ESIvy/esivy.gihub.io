@@ -1,8 +1,8 @@
 ---
-title: 'Book review for parents &#8211; Books, Babies and Bows reviews Miri Attwater and All That Glitters'
+title: Book review for parents – Books, Babies and Bows reviews Miri Attwater and All That Glitters
 date: '2014-02-05T09:00:49-06:00'
 status: publish
-permalink: /book-review-parents-books-babies-bows-reviews-miri-attwater-glitters
+path: /book-review-parents-books-babies-bows-reviews-miri-attwater-glitters
 author: 'ES Ivy'
 excerpt: ''
 type: post

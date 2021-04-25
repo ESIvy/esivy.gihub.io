@@ -1,8 +1,8 @@
 ---
-title: 'Pixlr tutorial: How to make an author Facebook page cover photo: background'
+title: Pixlr tutorial: How to make an author Facebook page cover photo: background
 date: '2014-04-01T09:00:56-05:00'
 status: publish
-permalink: /pixlr-tutorial-how-to-make-an-author-facebook-page-cover-photo-background
+path: /pixlr-tutorial-how-to-make-an-author-facebook-page-cover-photo-background
 author: 'ES Ivy'
 excerpt: ''
 type: post

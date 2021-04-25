@@ -1,8 +1,8 @@
 ---
-title: 'Privacy Policy'
+title: Privacy Policy
 date: '2018-05-24T12:52:50-05:00'
 status: publish
-permalink: /privacy-policy
+path: /privacy-policy
 author: 'ES Ivy'
 excerpt: ''
 type: page

@@ -1,8 +1,8 @@
 ---
-title: 'Success factors 10: Teen stress and anxiety, are ambitious high school schedules leading to success?'
+title: Success factors 10: Teen stress and anxiety, are ambitious high school schedules leading to success?
 date: '2014-06-25T09:00:24-05:00'
 status: publish
-permalink: /success-factors-make-sure-kids-free-time-simple
+path: /success-factors-make-sure-kids-free-time-simple
 author: 'ES Ivy'
 excerpt: ''
 type: post

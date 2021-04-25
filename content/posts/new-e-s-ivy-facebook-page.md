@@ -1,8 +1,8 @@
 ---
-title: 'New E.S. Ivy Author Facebook Page'
+title: New E.S. Ivy Author Facebook Page
 date: '2014-01-16T16:00:53-06:00'
 status: publish
-permalink: /new-e-s-ivy-facebook-page
+path: /new-e-s-ivy-facebook-page
 author: 'ES Ivy'
 excerpt: ''
 type: post

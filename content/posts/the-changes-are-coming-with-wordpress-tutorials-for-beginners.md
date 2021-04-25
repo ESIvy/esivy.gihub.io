@@ -1,8 +1,8 @@
 ---
-title: 'The Changes are Coming! &#8211; with WordPress tutorials for beginners'
+title: The Changes are Coming! – with WordPress tutorials for beginners
 date: '2015-06-10T12:00:44-05:00'
 status: publish
-permalink: /the-changes-are-coming-with-wordpress-tutorials-for-beginners
+path: /the-changes-are-coming-with-wordpress-tutorials-for-beginners
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'Books for thought on Education and Purpose'
+title: Books for thought on Education and Purpose
 date: '2015-03-26T11:30:28-05:00'
 status: publish
-permalink: /books-for-thought-on-education-and-purpose
+path: /books-for-thought-on-education-and-purpose
 author: 'ES Ivy'
 excerpt: ''
 type: post

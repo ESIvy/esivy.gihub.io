@@ -1,8 +1,8 @@
 ---
-title: 'Books, Babies and Bows reviews children&#8217;s book Miri Attwater and the Ocean&#8217;s Secret'
+title: Books, Babies and Bows reviews children's book Miri Attwater and the Ocean's Secret
 date: '2013-05-11T13:21:24-05:00'
 status: publish
-permalink: /books-babies-and-bows-reviews-childrens-book-miri-attwater-and-the-oceans-secret
+path: /books-babies-and-bows-reviews-childrens-book-miri-attwater-and-the-oceans-secret
 author: 'ES Ivy'
 excerpt: ''
 type: post

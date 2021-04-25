@@ -1,8 +1,8 @@
 ---
-title: 'Scrivener &#8211; How to open an existing Project in Scrivener for Windows, fully explained'
+title: Scrivener – How to open an existing Project in Scrivener for Windows, fully explained
 date: '2014-10-07T11:30:59-05:00'
 status: publish
-permalink: /scrivener-how-to-open-project
+path: /scrivener-how-to-open-project
 author: 'ES Ivy'
 excerpt: ''
 type: post

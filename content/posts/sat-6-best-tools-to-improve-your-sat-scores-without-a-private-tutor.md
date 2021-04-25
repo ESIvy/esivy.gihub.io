@@ -1,8 +1,8 @@
 ---
-title: 'SAT &#8211; 6 Best Tools to Improve your SAT Scores without a Private Tutor'
+title: SAT – 6 Best Tools to Improve your SAT Scores without a Private Tutor
 date: '2014-10-16T12:36:46-05:00'
 status: publish
-permalink: /sat-6-best-tools-to-improve-your-sat-scores-without-a-private-tutor
+path: /sat-6-best-tools-to-improve-your-sat-scores-without-a-private-tutor
 author: 'ES Ivy'
 excerpt: ''
 type: post

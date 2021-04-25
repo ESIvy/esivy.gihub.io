@@ -1,8 +1,8 @@
 ---
-title: 'Growing Readers &#8211; helping your kids become readers'
+title: Growing Readers – helping your kids become readers
 date: '2014-12-09T15:49:34-06:00'
 status: publish
-permalink: /growing-readers-helping-your-kids-become-readers
+path: /growing-readers-helping-your-kids-become-readers
 author: 'ES Ivy'
 excerpt: ''
 type: post

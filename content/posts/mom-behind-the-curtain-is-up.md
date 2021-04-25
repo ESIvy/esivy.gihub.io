@@ -1,8 +1,8 @@
 ---
-title: 'Mom Behind the Curtain is up!'
+title: Mom Behind the Curtain is up!
 date: '2015-08-06T09:30:07-05:00'
 status: publish
-permalink: /mom-behind-the-curtain-is-up
+path: /mom-behind-the-curtain-is-up
 author: 'ES Ivy'
 excerpt: ''
 type: post

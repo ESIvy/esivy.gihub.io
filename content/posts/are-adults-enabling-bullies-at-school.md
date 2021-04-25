@@ -1,8 +1,8 @@
 ---
-title: 'Are Adults Enabling Bullies at School?'
+title: Are Adults Enabling Bullies at School?
 date: '2013-02-20T13:44:27-06:00'
 status: publish
-permalink: /are-adults-enabling-bullies-at-school
+path: /are-adults-enabling-bullies-at-school
 author: 'ES Ivy'
 excerpt: ''
 type: post

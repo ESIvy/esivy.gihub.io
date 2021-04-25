@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater and the Ocean&#8217;s Secret Moving Up the Amazon Best Seller Lists!'
+title: Miri Attwater and the Ocean's Secret Moving Up the Amazon Best Seller Lists!
 date: '2012-12-26T16:31:01-06:00'
 status: publish
-permalink: /miri-attwater-and-the-oceans-secret-moving-up-the-amazon-best-seller-lists
+path: /miri-attwater-and-the-oceans-secret-moving-up-the-amazon-best-seller-lists
 author: 'ES Ivy'
 excerpt: ''
 type: post

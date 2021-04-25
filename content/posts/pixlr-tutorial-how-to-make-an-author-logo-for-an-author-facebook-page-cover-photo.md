@@ -1,8 +1,8 @@
 ---
-title: 'Pixlr tutorial: add text to image: How to make an author logo for an author Facebook page cover photo'
+title: Pixlr tutorial: add text to image: How to make an author logo for an author Facebook page cover photo
 date: '2014-03-26T09:00:53-05:00'
 status: publish
-permalink: /pixlr-tutorial-how-to-make-an-author-logo-for-an-author-facebook-page-cover-photo
+path: /pixlr-tutorial-how-to-make-an-author-logo-for-an-author-facebook-page-cover-photo
 author: 'ES Ivy'
 excerpt: ''
 type: post

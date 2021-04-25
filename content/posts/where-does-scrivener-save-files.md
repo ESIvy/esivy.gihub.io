@@ -1,8 +1,8 @@
 ---
-title: 'Where does Scrivener save files? Scrivener for Windows'
+title: Where does Scrivener save files? Scrivener for Windows
 date: '2014-11-06T11:30:19-06:00'
 status: publish
-permalink: /where-does-scrivener-save-files
+path: /where-does-scrivener-save-files
 author: 'ES Ivy'
 excerpt: ''
 type: post

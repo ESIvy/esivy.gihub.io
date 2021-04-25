@@ -1,8 +1,8 @@
 ---
-title: 'Best Books for Girls in 3rd Grade &#8211; my daughters&#8217; favorites'
+title: Best Books for Girls in 3rd Grade – my daughters' favorites
 date: '2014-12-19T11:40:42-06:00'
 status: publish
-permalink: /best-books-for-girls-in-3rd-grade-my-daughters-favorites
+path: /best-books-for-girls-in-3rd-grade-my-daughters-favorites
 author: 'ES Ivy'
 excerpt: ''
 type: post

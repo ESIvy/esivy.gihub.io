@@ -1,8 +1,8 @@
 ---
-title: 'WordPress Security Tips for the Beginner'
+title: WordPress Security Tips for the Beginner
 date: '2015-06-09T13:25:20-05:00'
 status: publish
-permalink: /wordpress-security-tips
+path: /wordpress-security-tips
 author: 'ES Ivy'
 excerpt: ''
 type: post

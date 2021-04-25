@@ -1,8 +1,8 @@
 ---
-title: 'Youtube videos: how to embed a Youtube video in wordpress, change Youtube end and start times and delete recommended videos on Youtube'
+title: Youtube videos: how to embed a Youtube video in wordpress, change Youtube end and start times and delete recommended videos on Youtube
 date: '2014-01-24T08:00:21-06:00'
 status: publish
-permalink: /youtube-videos-how-to-embed-a-youtube-video-in-wordpress-change-end-and-start-times-and-delete-recommended-videos
+path: /youtube-videos-how-to-embed-a-youtube-video-in-wordpress-change-end-and-start-times-and-delete-recommended-videos
 author: 'ES Ivy'
 excerpt: ''
 type: post

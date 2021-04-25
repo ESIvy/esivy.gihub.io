@@ -1,8 +1,8 @@
 ---
-title: 'Best Books for Boys in 4th Grade &#8211; my son&#8217;s favorites'
+title: Best Books for Boys in 4th Grade – my son's favorites
 date: '2015-01-09T16:05:34-06:00'
 status: publish
-permalink: /best-books-for-boys-in-4th-grade-my-sons-favorites
+path: /best-books-for-boys-in-4th-grade-my-sons-favorites
 author: 'ES Ivy'
 excerpt: ''
 type: post

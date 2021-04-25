@@ -1,8 +1,8 @@
 ---
-title: 'What PSAT score is good enough to qualify for a National Merit Scholarship?'
+title: What PSAT score is good enough to qualify for a National Merit Scholarship?
 date: '2015-01-15T21:26:56-06:00'
 status: publish
-permalink: /what-psat-score-is-good-enough-to-qualify-for-a-national-merit-scholarship
+path: /what-psat-score-is-good-enough-to-qualify-for-a-national-merit-scholarship
 author: 'ES Ivy'
 excerpt: ''
 type: post

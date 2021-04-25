@@ -1,8 +1,8 @@
 ---
-title: 'Success Factors 9: Are AP classes a good measure for school ratings?'
+title: Success Factors 9: Are AP classes a good measure for school ratings?
 date: '2014-06-04T09:00:21-05:00'
 status: publish
-permalink: /success-factors-9-are-ap-classes-a-good-measure-for-school-ratings
+path: /success-factors-9-are-ap-classes-a-good-measure-for-school-ratings
 author: 'ES Ivy'
 excerpt: ''
 type: post

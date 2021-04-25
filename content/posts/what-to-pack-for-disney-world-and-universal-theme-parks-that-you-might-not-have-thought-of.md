@@ -1,8 +1,8 @@
 ---
-title: 'What to Pack for Disney World and Universal Theme Parks That You Might not have thought of'
+title: What to Pack for Disney World and Universal Theme Parks That You Might not have thought of
 date: '2014-07-16T09:00:17-05:00'
 status: publish
-permalink: /what-to-pack-for-disney-world-and-universal-theme-parks-that-you-might-not-have-thought-of
+path: /what-to-pack-for-disney-world-and-universal-theme-parks-that-you-might-not-have-thought-of
 author: 'ES Ivy'
 excerpt: ''
 type: post

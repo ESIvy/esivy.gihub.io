@@ -1,8 +1,8 @@
 ---
-title: 'An Impressive 3D Fruit Display, a Grape and Cherry Christmas Tree'
+title: An Impressive 3D Fruit Display, a Grape and Cherry Christmas Tree
 date: '2012-12-23T15:40:33-06:00'
 status: publish
-permalink: /an-empressive-3d-fruit-display-a-grape-and-cherry-christmas-tree
+path: /an-empressive-3d-fruit-display-a-grape-and-cherry-christmas-tree
 author: 'ES Ivy'
 excerpt: ''
 type: post

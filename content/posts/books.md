@@ -2,7 +2,7 @@
 title: Books
 date: '2012-09-29T15:14:13-05:00'
 status: publish
-permalink: /books
+path: /books
 author: 'ES Ivy'
 excerpt: ''
 type: page

@@ -1,8 +1,8 @@
 ---
-title: 'Hidden Gems in Magic Kingdom Disney World'
+title: Hidden Gems in Magic Kingdom Disney World
 date: '2014-07-23T10:00:09-05:00'
 status: publish
-permalink: /hidden-gems-in-magic-kingdom-disney-world
+path: /hidden-gems-in-magic-kingdom-disney-world
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'DIY: Directions for Easy make your own Christmas Peppermint Wreaths'
+title: DIY: Directions for Easy make your own Christmas Peppermint Wreaths
 date: '2013-12-31T10:00:14-06:00'
 status: publish
-permalink: /peppermint-wreath
+path: /peppermint-wreath
 author: 'ES Ivy'
 excerpt: ''
 type: post

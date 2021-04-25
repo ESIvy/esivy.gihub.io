@@ -1,8 +1,8 @@
 ---
-title: 'Hollywood Studios &#8211; Disney World Animation Academy'
+title: Hollywood Studios – Disney World Animation Academy
 date: '2014-11-05T11:33:48-06:00'
 status: publish
-permalink: /hollywood-studios-disney-world-animation-academy
+path: /hollywood-studios-disney-world-animation-academy
 author: 'ES Ivy'
 excerpt: ''
 type: post

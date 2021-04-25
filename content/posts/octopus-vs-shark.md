@@ -1,8 +1,8 @@
 ---
-title: 'Octopus Vs. Shark'
+title: Octopus Vs. Shark
 date: '2014-01-29T08:00:42-06:00'
 status: publish
-permalink: /octopus-vs-shark
+path: /octopus-vs-shark
 author: 'ES Ivy'
 excerpt: ''
 type: post

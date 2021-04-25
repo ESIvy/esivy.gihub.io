@@ -1,8 +1,8 @@
 ---
-title: 'Mermaid Book for Girls on Wattpad and Progress on Book 2'
+title: Mermaid Book for Girls on Wattpad and Progress on Book 2
 date: '2013-06-27T09:11:47-05:00'
 status: publish
-permalink: /mermaid-book-for-girls-on-wattpad-and-progress-on-book-2
+path: /mermaid-book-for-girls-on-wattpad-and-progress-on-book-2
 author: 'ES Ivy'
 excerpt: ''
 type: post

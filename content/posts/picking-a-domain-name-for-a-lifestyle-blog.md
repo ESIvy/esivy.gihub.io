@@ -1,8 +1,8 @@
 ---
-title: 'Picking a domain name for a lifestyle blog or mommy blog'
+title: Picking a domain name for a lifestyle blog or mommy blog
 date: '2015-05-14T14:25:06-05:00'
 status: publish
-permalink: /picking-a-domain-name-for-a-lifestyle-blog
+path: /picking-a-domain-name-for-a-lifestyle-blog
 author: 'ES Ivy'
 excerpt: ''
 type: post

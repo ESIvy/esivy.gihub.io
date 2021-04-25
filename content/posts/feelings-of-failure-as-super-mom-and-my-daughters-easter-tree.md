@@ -1,8 +1,8 @@
 ---
-title: 'Feelings of Failure as Super Mom and my Daughter&#8217;s Easter Tree'
+title: Feelings of Failure as Super Mom and my Daughter's Easter Tree
 date: '2013-03-27T13:35:47-05:00'
 status: publish
-permalink: /feelings-of-failure-as-super-mom-and-my-daughters-easter-tree
+path: /feelings-of-failure-as-super-mom-and-my-daughters-easter-tree
 author: 'ES Ivy'
 excerpt: ''
 type: post

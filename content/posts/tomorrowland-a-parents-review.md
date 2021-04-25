@@ -1,8 +1,8 @@
 ---
-title: 'Don&#8217;t miss Tomorrowland! A parent&#8217;s review'
+title: Don't miss Tomorrowland! A parent's review
 date: '2015-05-26T16:05:25-05:00'
 status: publish
-permalink: /tomorrowland-a-parents-review
+path: /tomorrowland-a-parents-review
 author: 'ES Ivy'
 excerpt: ''
 type: post

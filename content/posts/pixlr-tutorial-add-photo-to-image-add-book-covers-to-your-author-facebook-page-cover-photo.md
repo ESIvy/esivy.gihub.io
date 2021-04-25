@@ -1,8 +1,8 @@
 ---
-title: 'Pixlr Tutorial: add photo to image: add book covers to your author Facebook page cover photo'
+title: Pixlr Tutorial: add photo to image: add book covers to your author Facebook page cover photo
 date: '2014-04-02T09:00:57-05:00'
 status: publish
-permalink: /pixlr-tutorial-add-photo-to-image-add-book-covers-to-your-author-facebook-page-cover-photo
+path: /pixlr-tutorial-add-photo-to-image-add-book-covers-to-your-author-facebook-page-cover-photo
 author: 'ES Ivy'
 excerpt: ''
 type: post

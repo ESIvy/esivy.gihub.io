@@ -1,8 +1,8 @@
 ---
-title: 'Winter Craft: twist on a Peekaboo Sugar Egg, a Peekaboo Sugar Snowball'
+title: Winter Craft: twist on a Peekaboo Sugar Egg, a Peekaboo Sugar Snowball
 date: '2014-01-28T16:54:24-06:00'
 status: publish
-permalink: /winter-craft-twist-peekaboo-sugar-egg-peekaboo-sugar-snowball
+path: /winter-craft-twist-peekaboo-sugar-egg-peekaboo-sugar-snowball
 author: 'ES Ivy'
 excerpt: ''
 type: post

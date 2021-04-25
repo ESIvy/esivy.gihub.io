@@ -1,8 +1,8 @@
 ---
-title: 'Happy 4th of July!'
+title: Happy 4th of July!
 date: '2014-07-02T19:13:32-05:00'
 status: publish
-permalink: /happy-4th-of-july
+path: /happy-4th-of-july
 author: 'ES Ivy'
 excerpt: ''
 type: post

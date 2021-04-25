@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater and the Ocean&#8217;s Secret named one of Reads4Tweens best books of 2012!'
+title: Miri Attwater and the Ocean's Secret named one of Reads4Tweens best books of 2012!
 date: '2013-04-09T11:00:37-05:00'
 status: publish
-permalink: /miri-attwater-and-the-oceans-secret-named-one-of-reads4tweens-best-books-of-2012
+path: /miri-attwater-and-the-oceans-secret-named-one-of-reads4tweens-best-books-of-2012
 author: 'ES Ivy'
 excerpt: ''
 type: post

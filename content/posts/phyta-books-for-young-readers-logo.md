@@ -1,8 +1,8 @@
 ---
-title: 'Phyta Books for Young Readers Logo'
+title: Phyta Books for Young Readers Logo
 date: '2014-11-18T11:30:23-06:00'
 status: publish
-permalink: /phyta-books-for-young-readers-logo
+path: /phyta-books-for-young-readers-logo
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'craft: book character costume'
+title: craft: book character costume
 date: '2014-09-10T20:21:06-05:00'
 status: publish
-permalink: /craftsbook-character-costumesno-sew-athena-costume-or-greek-goddess
+path: /craftsbook-character-costumesno-sew-athena-costume-or-greek-goddess
 author: 'ES Ivy'
 excerpt: ''
 type: page

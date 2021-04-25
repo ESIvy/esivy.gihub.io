@@ -1,8 +1,8 @@
 ---
-title: '5 ways to Beat the Heat at Disney Parks in Orlando Florida'
+title: 5 ways to Beat the Heat at Disney Parks in Orlando Florida
 date: '2014-08-06T11:30:00-05:00'
 status: publish
-permalink: /5-ways-to-beat-the-heat-at-disney-parks-in-orlando-florida
+path: /5-ways-to-beat-the-heat-at-disney-parks-in-orlando-florida
 author: 'ES Ivy'
 excerpt: ''
 type: post

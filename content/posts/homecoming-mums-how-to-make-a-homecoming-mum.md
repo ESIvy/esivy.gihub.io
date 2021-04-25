@@ -1,8 +1,8 @@
 ---
-title: 'Homecoming Mums &#8211; How to make a Homecoming mum (with pictures) and save money'
+title: Homecoming Mums – How to make a Homecoming mum (with pictures) and save money
 date: '2014-10-03T14:50:17-05:00'
 status: publish
-permalink: /homecoming-mums-how-to-make-a-homecoming-mum
+path: /homecoming-mums-how-to-make-a-homecoming-mum
 author: 'ES Ivy'
 excerpt: ''
 type: post

@@ -1,8 +1,8 @@
 ---
-title: 'Jack O&#8217;Lantern Quesadillas'
+title: Jack O'Lantern Quesadillas
 date: '2013-10-31T10:00:00-05:00'
 status: publish
-permalink: /jack-olantern-quessadillas
+path: /jack-olantern-quessadillas
 author: 'ES Ivy'
 excerpt: ''
 type: post

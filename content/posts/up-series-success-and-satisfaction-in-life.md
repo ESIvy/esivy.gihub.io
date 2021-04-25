@@ -1,15 +1,15 @@
 ---
-title: 'Up Series &#8211; success and satisfaction in life'
+title: Up Series – success and satisfaction in life
 date: '2015-03-30T10:30:12-05:00'
 status: publish
-permalink: /up-series-success-and-satisfaction-in-life
-author: 'ES Ivy'
+path: /up-series-success-and-satisfaction-in-life
+author: ES Ivy
 excerpt: ''
 type: post
 id: 3107
 thumbnail: ../uploads/2014/04/SUCCESS-UNIVERSITY-WORKING-COPY.jpg
 category:
-    - 'Education &amp; Success'
+  - Education &amp; Success
 tag: []
 post_format: []
 ---

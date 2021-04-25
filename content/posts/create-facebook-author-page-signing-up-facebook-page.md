@@ -1,8 +1,8 @@
 ---
-title: 'How to create a Facebook author page, step 2: signing up for the Facebook page'
+title: How to create a Facebook author page, step 2: signing up for the Facebook page
 date: '2014-03-05T09:00:52-06:00'
 status: publish
-permalink: /create-facebook-author-page-signing-up-facebook-page
+path: /create-facebook-author-page-signing-up-facebook-page
 author: 'ES Ivy'
 excerpt: ''
 type: post

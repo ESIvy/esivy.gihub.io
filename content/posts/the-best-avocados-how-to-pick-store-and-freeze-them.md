@@ -1,8 +1,8 @@
 ---
-title: 'The Best Avocados, how to pick, store, and freeze them'
+title: The Best Avocados, how to pick, store, and freeze them
 date: '2013-02-21T11:00:09-06:00'
 status: publish
-permalink: /the-best-avocados-how-to-pick-store-and-freeze-them
+path: /the-best-avocados-how-to-pick-store-and-freeze-them
 author: 'ES Ivy'
 excerpt: ''
 type: post

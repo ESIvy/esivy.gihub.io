@@ -1,8 +1,8 @@
 ---
-title: 'Thanksgiving Fruit Turkey Recipe'
+title: Thanksgiving Fruit Turkey Recipe
 date: '2013-11-19T18:24:03-06:00'
 status: publish
-permalink: /thanksgiving-fruit-turkey-recipe
+path: /thanksgiving-fruit-turkey-recipe
 author: 'ES Ivy'
 excerpt: ''
 type: post

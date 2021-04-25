@@ -1,8 +1,8 @@
 ---
-title: 'Halloween decorations: Little Hanging Ghosts'
+title: Halloween decorations: Little Hanging Ghosts
 date: '2013-10-26T13:30:59-05:00'
 status: publish
-permalink: /halloween-decor-little-hanging-ghosts
+path: /halloween-decor-little-hanging-ghosts
 author: 'ES Ivy'
 excerpt: ''
 type: post

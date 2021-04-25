@@ -1,8 +1,8 @@
 ---
-title: 'Do PSAT scores and National Merit numbers mean anything?'
+title: Do PSAT scores and National Merit numbers mean anything?
 date: '2014-12-03T06:00:38-06:00'
 status: publish
-permalink: /do-psat-scores-and-national-merit-numbers-mean-anything
+path: /do-psat-scores-and-national-merit-numbers-mean-anything
 author: 'ES Ivy'
 excerpt: ''
 type: post

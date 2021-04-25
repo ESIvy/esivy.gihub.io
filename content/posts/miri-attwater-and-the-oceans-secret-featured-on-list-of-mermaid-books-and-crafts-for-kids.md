@@ -1,8 +1,8 @@
 ---
-title: 'Miri Attwater and the Ocean&#8217;s Secret featured on list of Mermaid Books and Crafts for Kids'
+title: Miri Attwater and the Ocean's Secret featured on list of Mermaid Books and Crafts for Kids
 date: '2014-06-18T09:00:50-05:00'
 status: publish
-permalink: /miri-attwater-and-the-oceans-secret-featured-on-list-of-mermaid-books-and-crafts-for-kids
+path: /miri-attwater-and-the-oceans-secret-featured-on-list-of-mermaid-books-and-crafts-for-kids
 author: 'ES Ivy'
 excerpt: ''
 type: post
