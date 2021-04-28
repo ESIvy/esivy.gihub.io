@@ -1,5 +1,6 @@
 const path = require(`path`)
 const { GraphQLBoolean } = require("gatsby/graphql")
+const { createRedirects } = require("./gatsby-redirect")
 
 exports.setFieldsOnGraphQLNodeType = ({ type }) => {
   // if the node is a markdown file, add the `published` field
@@ -104,7 +105,7 @@ exports.onCreateNode = ({
 }
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
 
   const result = await graphql(`
     {
@@ -244,4 +245,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       })
     })
   })
+
+  createRedirects(createRedirect);
 }
