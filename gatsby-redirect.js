@@ -1,3 +1,3 @@
 exports.createRedirects = (createRedirect) => {
-  createRedirect({ fromPath: '/old-url', toPath: '/new-url', isPermanent: true });
+  createRedirect({ fromPath: '/mom', toPath: 'https://www.mombehindthecurtain.com/', isPermanent: true });
 }
